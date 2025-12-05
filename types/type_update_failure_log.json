@@ -1,0 +1,34 @@
+[
+  {
+    "miniature_id": 321024,
+    "record": {
+      "id": 321024,
+      "rawData": "FIGURES - RUBENS BARRICHELLO STEWART F1 1997",
+      "current_type": null,
+      "target_type_id": 3,
+      "category": "figures"
+    },
+    "payload": {
+      "Id": 321024,
+      "miniature_type": 3
+    },
+    "error": "Falha na requisição HTTP (PATCH)",
+    "timestamp": "2025-12-05T12:46:47.398658"
+  },
+  {
+    "miniature_id": 328499,
+    "record": {
+      "id": 328499,
+      "rawData": "FIGURES - MECCANICO - MECCANICIEN",
+      "current_type": null,
+      "target_type_id": 3,
+      "category": "figures"
+    },
+    "payload": {
+      "Id": 328499,
+      "miniature_type": 3
+    },
+    "error": "Falha na requisição HTTP (PATCH)",
+    "timestamp": "2025-12-05T12:48:45.410911"
+  }
+]

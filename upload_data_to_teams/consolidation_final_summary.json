@@ -1,0 +1,3131 @@
+{
+  "timestamp": "2025-11-22T01:55:53.218764",
+  "total_groups": 276,
+  "processed": 276,
+  "successful": 239,
+  "failed": 0,
+  "statistics": {
+    "miniatures_moved": 6045,
+    "drivers_moved": 294,
+    "competitions_moved": 1,
+    "teams_deleted": 248
+  },
+  "details": [
+    {
+      "normalized_key": "canam",
+      "base_id": 7106,
+      "base_name": "Can-Am",
+      "rem_ids": [
+        13336
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "c6r",
+      "base_id": 12177,
+      "base_name": "C6r",
+      "rem_ids": [
+        12939
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "carguyracing",
+      "base_id": 1195,
+      "base_name": "CarGuy Racing",
+      "rem_ids": [
+        10281
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "bscunningham",
+      "base_id": 670,
+      "base_name": "B.S. Cunningham",
+      "rem_ids": [
+        9741
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "brp",
+      "base_id": 9161,
+      "base_name": "Brp",
+      "rem_ids": [
+        9247
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "civictyper",
+      "base_id": 10388,
+      "base_name": "Civic type r",
+      "rem_ids": [
+        10564
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "cipgreenpower",
+      "base_id": 1127,
+      "base_name": "CIP - Green Power",
+      "rem_ids": [
+        1128
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "clearwaterracing",
+      "base_id": 1324,
+      "base_name": "Clearwater Racing",
+      "rem_ids": [
+        11924
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "continentalgt3r",
+      "base_id": 10460,
+      "base_name": "Continental gt3-r",
+      "rem_ids": [
+        13793
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "clxpurerxcing",
+      "base_id": 1139,
+      "base_name": "CLX - Pure Rxcing",
+      "rem_ids": [
+        1141
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "cri",
+      "base_id": 7093,
+      "base_name": "C.R.I.",
+      "rem_ids": [
+        12827
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "daimlerbenzag",
+      "base_id": 11930,
+      "base_name": "Daimler benz ag",
+      "rem_ids": [
+        12473
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "dalecoyneracingwithvassersullivan",
+      "base_id": 1534,
+      "base_name": "Dale Coyne Racing with Vasser Sullivan",
+      "rem_ids": [
+        1535
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "dantinmotogp",
+      "base_id": 1455,
+      "base_name": "D''Antin MotoGP",
+      "rem_ids": [
+        1478
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "craftbambooracing",
+      "base_id": 1411,
+      "base_name": "Craft-Bamboo Racing",
+      "rem_ids": [
+        10373
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "dbr9",
+      "base_id": 12134,
+      "base_name": "Dbr9",
+      "rem_ids": [
+        13398
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "dbmotorsport",
+      "base_id": 1463,
+      "base_name": "D.B. Motorsport",
+      "rem_ids": [
+        1479
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "db",
+      "base_id": 1462,
+      "base_name": "D.B.",
+      "rem_ids": [
+        12437
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "deltaadr",
+      "base_id": 1582,
+      "base_name": "Delta-ADR",
+      "rem_ids": [
+        13542
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "delorean",
+      "base_id": 7211,
+      "base_name": "De Lorean",
+      "rem_ids": [
+        10427
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "dentressangletransports",
+      "base_id": 8703,
+      "base_name": "DENTRESSANGLE TRANSPORTS",
+      "rem_ids": [
+        8920
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "dfracing",
+      "base_id": 1464,
+      "base_name": "D.F. Racing",
+      "rem_ids": [
+        1490
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "dempseyracingproton",
+      "base_id": 1587,
+      "base_name": "Dempsey Racing - Proton",
+      "rem_ids": [
+        11470
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "dhondthumphreymotorsports",
+      "base_id": 1456,
+      "base_name": "D''Hondt Humphrey Motorsports",
+      "rem_ids": [
+        1457
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "dhracing",
+      "base_id": 1454,
+      "base_name": "D & H Racing",
+      "rem_ids": [
+        1501
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "doylerisiracing",
+      "base_id": 1654,
+      "base_name": "Doyle-Risi Racing",
+      "rem_ids": [
+        9750
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "dstecheetah",
+      "base_id": 1517,
+      "base_name": "DS TECHEETAH",
+      "rem_ids": [
+        1518
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "carreracup",
+      "base_id": 7943,
+      "base_name": "Carreracup",
+      "rem_ids": [
+        10088
+      ],
+      "miniatures_moved": 17,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "duckhamsoil",
+      "base_id": 8340,
+      "base_name": "Duckham's Oil",
+      "rem_ids": [
+        14480
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "dragonspeed",
+      "base_id": 1662,
+      "base_name": "DragonSpeed",
+      "rem_ids": [
+        10400
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "eastbelgianracingteam",
+      "base_id": 1770,
+      "base_name": "East Belgian Racing Team",
+      "rem_ids": [
+        1771
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "dtype",
+      "base_id": 11539,
+      "base_name": "D-type",
+      "rem_ids": [
+        12472
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "ecuriefiatabarth",
+      "base_id": 10040,
+      "base_name": "Ecurie fiat-abarth",
+      "rem_ids": [
+        14423
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "ecuriesavincalberson",
+      "base_id": 1812,
+      "base_name": "Ecurie Savin Calberson",
+      "rem_ids": [
+        9807
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "eg00marcvds",
+      "base_id": 1748,
+      "base_name": "EG 0,0 Marc VDS",
+      "rem_ids": [
+        11052
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "elspecial",
+      "base_id": 9169,
+      "base_name": "El Special",
+      "rem_ids": [
+        9249
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "edams",
+      "base_id": 10878,
+      "base_name": "E-dams",
+      "rem_ids": [
+        11094
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "equipematrasimca",
+      "base_id": 7245,
+      "base_name": "Equipe Matra-Simca",
+      "rem_ids": [
+        12446
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "essexmotorsport",
+      "base_id": 7254,
+      "base_name": "Essex Motorsport",
+      "rem_ids": [
+        13249
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "dempseyprotonracing",
+      "base_id": 1588,
+      "base_name": "Dempsey-Proton Racing",
+      "rem_ids": [
+        9483
+      ],
+      "miniatures_moved": 21,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "emw",
+      "base_id": 9173,
+      "base_name": "Emw",
+      "rem_ids": [
+        9250
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "fcctsr",
+      "base_id": 2005,
+      "base_name": "F.C.C. TSR",
+      "rem_ids": [
+        2018
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "felbermayrproton",
+      "base_id": 11531,
+      "base_name": "Felbermayr proton",
+      "rem_ids": [
+        13526
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "era",
+      "base_id": 9175,
+      "base_name": "Era",
+      "rem_ids": [
+        9251
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "eurobrun",
+      "base_id": 9177,
+      "base_name": "Eurobrun",
+      "rem_ids": [
+        9252
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "fistteamaai",
+      "base_id": 2028,
+      "base_name": "FIST-Team AAI",
+      "rem_ids": [
+        14503
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "euroracing",
+      "base_id": 1979,
+      "base_name": "Euroracing",
+      "rem_ids": [
+        7257
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "fockewulf",
+      "base_id": 10351,
+      "base_name": "Focke-wulf",
+      "rem_ids": [
+        12062
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "fiagt",
+      "base_id": 12367,
+      "base_name": "Fia-gt",
+      "rem_ids": [
+        13483
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "fuldmobil",
+      "base_id": 11848,
+      "base_name": "Fuld mobil",
+      "rem_ids": [
+        11850
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "ferrariafcorse",
+      "base_id": 2077,
+      "base_name": "Ferrari - AF Corse",
+      "rem_ids": [
+        2078
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "g",
+      "base_id": 9517,
+      "base_name": "G",
+      "rem_ids": [
+        12537
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "caseih",
+      "base_id": 9070,
+      "base_name": "Case IH",
+      "rem_ids": [
+        9443
+      ],
+      "miniatures_moved": 38,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "gilbertkorthoffmotorsports",
+      "base_id": 2371,
+      "base_name": "Gilbert Korthoff Motorsports",
+      "rem_ids": [
+        2372
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "gpc",
+      "base_id": 12986,
+      "base_name": "G.p.c",
+      "rem_ids": [
+        13957
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "gmmotorsport",
+      "base_id": 2187,
+      "base_name": "G+M Motorsport",
+      "rem_ids": [
+        2237
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "goodsmileracing",
+      "base_id": 2405,
+      "base_name": "Goodsmile Racing",
+      "rem_ids": [
+        13614
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "ganderson",
+      "base_id": 7297,
+      "base_name": "G. Anderson",
+      "rem_ids": [
+        9362
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "gpcgiessesquadracorse",
+      "base_id": 2196,
+      "base_name": "G.P.C. Giesse Squadra Corse",
+      "rem_ids": [
+        2258
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "gruppem",
+      "base_id": 8034,
+      "base_name": "GrupPEm",
+      "rem_ids": [
+        11008
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "gpcsport",
+      "base_id": 2259,
+      "base_name": "GPC Sport",
+      "rem_ids": [
+        13301
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "gtr",
+      "base_id": 7307,
+      "base_name": "GT-R",
+      "rem_ids": [
+        12912
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "granturismo",
+      "base_id": 10890,
+      "base_name": "Gran turismo",
+      "rem_ids": [
+        11461
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "gstuning",
+      "base_id": 11670,
+      "base_name": "Gs tuning",
+      "rem_ids": [
+        12277
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "grmotorsport",
+      "base_id": 2184,
+      "base_name": "G&R Motorsport",
+      "rem_ids": [
+        2270
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "hannusrallyteam",
+      "base_id": 2560,
+      "base_name": "Hannu's Rally Team",
+      "rem_ids": [
+        2561
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "gtrnismo",
+      "base_id": 7308,
+      "base_name": "GT-R Nismo",
+      "rem_ids": [
+        11270
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "hbsuzukigpteam",
+      "base_id": 2484,
+      "base_name": "H.B. Suzuki GP Team",
+      "rem_ids": [
+        2493
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "hellapagidracingone",
+      "base_id": 2595,
+      "base_name": "Hella Pagid - racing one",
+      "rem_ids": [
+        9873
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "hennstbirdswapshop",
+      "base_id": 2606,
+      "base_name": "Henn's T-Bird Swap Shop",
+      "rem_ids": [
+        11948
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "hoforracing",
+      "base_id": 2645,
+      "base_name": "Hofor Racing",
+      "rem_ids": [
+        2647
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "hpiracing",
+      "base_id": 12901,
+      "base_name": "Hpi-racing",
+      "rem_ids": [
+        13746
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "hsf",
+      "base_id": 11663,
+      "base_name": "H.s.f.",
+      "rem_ids": [
+        12107
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "hitechgp",
+      "base_id": 2636,
+      "base_name": "Hitech GP",
+      "rem_ids": [
+        2641
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "hubauto",
+      "base_id": 8754,
+      "base_name": "Hub Auto",
+      "rem_ids": [
+        8915
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "iava",
+      "base_id": 8829,
+      "base_name": "IAVA",
+      "rem_ids": [
+        8974
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "garage59",
+      "base_id": 2324,
+      "base_name": "Garage 59",
+      "rem_ids": [
+        7311
+      ],
+      "miniatures_moved": 15,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "imsacamel",
+      "base_id": 2737,
+      "base_name": "IMSA-Camel",
+      "rem_ids": [
+        12070
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "holmanmoody",
+      "base_id": 2652,
+      "base_name": "Holman & Moody",
+      "rem_ids": [
+        7358
+      ],
+      "miniatures_moved": 9,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "isomarlboro",
+      "base_id": 9184,
+      "base_name": "Iso Marlboro",
+      "rem_ids": [
+        10866
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "japlisson",
+      "base_id": 10376,
+      "base_name": "J.a.plisson",
+      "rem_ids": [
+        13976
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "jbw",
+      "base_id": 9185,
+      "base_name": "Jbw",
+      "rem_ids": [
+        9254
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "hwm",
+      "base_id": 9183,
+      "base_name": "Hwm",
+      "rem_ids": [
+        9253
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 14,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "jeanclaudegiroix",
+      "base_id": 10996,
+      "base_name": "Jean-claude giroix",
+      "rem_ids": [
+        13492
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "jedreteaud",
+      "base_id": 7392,
+      "base_name": "J. Edreteaud",
+      "rem_ids": [
+        9417
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "jdcmillermotorsports",
+      "base_id": 2849,
+      "base_name": "JDC-Miller Motorsports",
+      "rem_ids": [
+        9594
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "jgsears",
+      "base_id": 2834,
+      "base_name": "J.G. Sears",
+      "rem_ids": [
+        13842
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "jmb",
+      "base_id": 12265,
+      "base_name": "Jmb",
+      "rem_ids": [
+        12987
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "imsaperformancematmut",
+      "base_id": 2736,
+      "base_name": "IMSA Performance - Matmut",
+      "rem_ids": [
+        11537,
+        13468
+      ],
+      "miniatures_moved": 14,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    },
+    {
+      "normalized_key": "hubautoracing",
+      "base_id": 2696,
+      "base_name": "Hub Auto Racing",
+      "rem_ids": [
+        2698
+      ],
+      "miniatures_moved": 13,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "jps",
+      "base_id": 7926,
+      "base_name": "JPS",
+      "rem_ids": [
+        13709
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "jlpracing",
+      "base_id": 2836,
+      "base_name": "J.L.P. Racing",
+      "rem_ids": [
+        2864
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "jpgaban",
+      "base_id": 7394,
+      "base_name": "J.P. Gaban",
+      "rem_ids": [
+        9418,
+        9843
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    },
+    {
+      "normalized_key": "jsracing",
+      "base_id": 2829,
+      "base_name": "J&S Racing",
+      "rem_ids": [
+        11397
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "jwaavila",
+      "base_id": 2902,
+      "base_name": "JWA-Avila",
+      "rem_ids": [
+        11532
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "johnwyerautomotiveengineeringltd",
+      "base_id": 9006,
+      "base_name": "John Wyer Automotive Engineering Ltd.",
+      "rem_ids": [
+        9329
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "jwautomotiveengineeringgulf",
+      "base_id": 7887,
+      "base_name": "JW Automotive Engineering Gulf",
+      "rem_ids": [
+        10760,
+        11577
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    },
+    {
+      "normalized_key": "jwautomotiveengineering",
+      "base_id": 7402,
+      "base_name": "JW Automotive Engineering",
+      "rem_ids": [
+        9330
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "jwagulf",
+      "base_id": 10433,
+      "base_name": "Jwa gulf",
+      "rem_ids": [
+        10856
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "kpaxracing",
+      "base_id": 3027,
+      "base_name": "K-Pax Racing",
+      "rem_ids": [
+        9423
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "kaidoworks",
+      "base_id": 9386,
+      "base_name": "Kaidoworks",
+      "rem_ids": [
+        10569
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "kuhnenagel",
+      "base_id": 13348,
+      "base_name": "Kuhne & nagel",
+      "rem_ids": [
+        13982
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "ksworldrallyteam",
+      "base_id": 3023,
+      "base_name": "K's World Rally Team",
+      "rem_ids": [
+        3196
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "lagondaltd",
+      "base_id": 3241,
+      "base_name": "Lagonda Ltd.",
+      "rem_ids": [
+        12978
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "lambrettasafd",
+      "base_id": 3246,
+      "base_name": "Lambretta S.A.F.D.",
+      "rem_ids": [
+        12448
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "landmotorsport",
+      "base_id": 3250,
+      "base_name": "Land Motorsport",
+      "rem_ids": [
+        10090
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "lecrefrigerationracing",
+      "base_id": 9195,
+      "base_name": "Lec Refrigeration Racing",
+      "rem_ids": [
+        9256
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "lds",
+      "base_id": 9194,
+      "base_name": "Lds",
+      "rem_ids": [
+        9255
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "lemans",
+      "base_id": 7463,
+      "base_name": "Lemans",
+      "rem_ids": [
+        12838
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "liquimolyrichardlloydracing",
+      "base_id": 9834,
+      "base_name": "Liqui moly, richard lloyd racing",
+      "rem_ids": [
+        13497
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "letorchtransports",
+      "base_id": 8712,
+      "base_name": "Le Torc'H Transports",
+      "rem_ids": [
+        8794
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "map",
+      "base_id": 3407,
+      "base_name": "M.A.P.",
+      "rem_ids": [
+        12252
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "lbworks",
+      "base_id": 37,
+      "base_name": "LB Works",
+      "rem_ids": [
+        9388,
+        9572,
+        14505
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": []
+    },
+    {
+      "normalized_key": "matraelf",
+      "base_id": 7515,
+      "base_name": "Matra Elf",
+      "rem_ids": [
+        13391
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mazdaspeed",
+      "base_id": 3660,
+      "base_name": "Mazdaspeed",
+      "rem_ids": [
+        9730
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "martiniracing",
+      "base_id": 3619,
+      "base_name": "Martini Racing",
+      "rem_ids": [
+        14277
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mbm",
+      "base_id": 9203,
+      "base_name": "Mbm",
+      "rem_ids": [
+        9257
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mcguire",
+      "base_id": 9204,
+      "base_name": "Mcguire",
+      "rem_ids": [
+        9259
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "kicmotorsport",
+      "base_id": 3046,
+      "base_name": "KIC Motorsport",
+      "rem_ids": [
+        3129
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 18,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mccormick",
+      "base_id": 11091,
+      "base_name": "Mccormick",
+      "rem_ids": [
+        13354
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mercedesamg",
+      "base_id": 8002,
+      "base_name": "Mercedes-AMG",
+      "rem_ids": [
+        11033
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mercedesamgteamblackfalcon",
+      "base_id": 10984,
+      "base_name": "Mercedes amg team black falcon",
+      "rem_ids": [
+        11030
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "jaguarcarsltd",
+      "base_id": 2913,
+      "base_name": "Jaguar Cars Ltd.",
+      "rem_ids": [
+        9465
+      ],
+      "miniatures_moved": 35,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mf1",
+      "base_id": 9207,
+      "base_name": "Mf1",
+      "rem_ids": [
+        9258
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mgcarsltd",
+      "base_id": 3446,
+      "base_name": "MG Cars Ltd.",
+      "rem_ids": [
+        11459
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mkmotorsport",
+      "base_id": 3461,
+      "base_name": "MK Motorsport",
+      "rem_ids": [
+        9813
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mmotorsport",
+      "base_id": 8668,
+      "base_name": "M-Motorsport",
+      "rem_ids": [
+        9858
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mjmotorsports",
+      "base_id": 3395,
+      "base_name": "M&J Motorsports",
+      "rem_ids": [
+        3459
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mogilmotorsltd",
+      "base_id": 3805,
+      "base_name": "Mogil Motors Ltd.",
+      "rem_ids": [
+        9841
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mobil1",
+      "base_id": 11061,
+      "base_name": "Mobil1",
+      "rem_ids": [
+        11669
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "monsteryamahatech3",
+      "base_id": 3824,
+      "base_name": "Monster Yamaha Tech 3",
+      "rem_ids": [
+        11026
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "montaplastbylandmotorsport",
+      "base_id": 3826,
+      "base_name": "Montaplast by Land-Motorsport",
+      "rem_ids": [
+        11220
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "motorsport",
+      "base_id": 7542,
+      "base_name": "Motorsport",
+      "rem_ids": [
+        13132
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mperformance",
+      "base_id": 7483,
+      "base_name": "M-Performance",
+      "rem_ids": [
+        11961
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mrracing",
+      "base_id": 3476,
+      "base_name": "MR Racing",
+      "rem_ids": [
+        3477
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mracingymr",
+      "base_id": 3392,
+      "base_name": "M Racing - YMR",
+      "rem_ids": [
+        3410
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mrs",
+      "base_id": 12576,
+      "base_name": "Mr-s",
+      "rem_ids": [
+        13397
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mrsgtracing",
+      "base_id": 3483,
+      "base_name": "MRS GT Racing",
+      "rem_ids": [
+        3484
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "newmanjoestracing",
+      "base_id": 8012,
+      "base_name": "New-Man Joest Racing",
+      "rem_ids": [
+        9493
+      ],
+      "miniatures_moved": 14,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "nowmotorsports",
+      "base_id": 4072,
+      "base_name": "Now Motor Sports",
+      "rem_ids": [
+        4073
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "nart",
+      "base_id": 3953,
+      "base_name": "N.A.R.T.",
+      "rem_ids": [
+        7566,
+        9680
+      ],
+      "miniatures_moved": 49,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    },
+    {
+      "normalized_key": "ntstproproject",
+      "base_id": 3991,
+      "base_name": "NTS T Pro Project",
+      "rem_ids": [
+        3992
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "oakracing",
+      "base_id": 4103,
+      "base_name": "Oak Racing",
+      "rem_ids": [
+        13523
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "octane126",
+      "base_id": 4110,
+      "base_name": "Octane 126",
+      "rem_ids": [
+        7582
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "orecamatmut",
+      "base_id": 12941,
+      "base_name": "Oreca matmut",
+      "rem_ids": [
+        12952
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "osca",
+      "base_id": 7591,
+      "base_name": "Osca",
+      "rem_ids": [
+        9260
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "panozmotorsports",
+      "base_id": 4295,
+      "base_name": "Panoz Motor Sports",
+      "rem_ids": [
+        9716
+      ],
+      "miniatures_moved": 7,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "petermitchellthomson",
+      "base_id": 8489,
+      "base_name": "Peter Mitchell-Thomson",
+      "rem_ids": [
+        13863
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "peugeottalbotsport",
+      "base_id": 4403,
+      "base_name": "Peugeot Talbot Sport",
+      "rem_ids": [
+        4409
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "pgfkinfaunamr",
+      "base_id": 4214,
+      "base_name": "PGF - Kinfaun AMR",
+      "rem_ids": [
+        11976
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "matrasimca",
+      "base_id": 7517,
+      "base_name": "Matra-Simca",
+      "rem_ids": [
+        9432
+      ],
+      "miniatures_moved": 97,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "phsport",
+      "base_id": 4216,
+      "base_name": "PH Sport",
+      "rem_ids": [
+        4217
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "pricebscher",
+      "base_id": 4516,
+      "base_name": "Price & Bscher",
+      "rem_ids": [
+        14294
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "porschekg",
+      "base_id": 4468,
+      "base_name": "Porsche KG",
+      "rem_ids": [
+        9571
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "progt",
+      "base_id": 12019,
+      "base_name": "Pro gt",
+      "rem_ids": [
+        13554
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "project1ao",
+      "base_id": 4550,
+      "base_name": "Project 1 - AO",
+      "rem_ids": [
+        7656
+      ],
+      "miniatures_moved": 7,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "promotorsport",
+      "base_id": 4533,
+      "base_name": "Pro Motor Sport",
+      "rem_ids": [
+        4563,
+        4564
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    },
+    {
+      "normalized_key": "project1",
+      "base_id": 4549,
+      "base_name": "Project 1",
+      "rem_ids": [
+        9589
+      ],
+      "miniatures_moved": 11,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "prosport",
+      "base_id": 7653,
+      "base_name": "Pro-Sport",
+      "rem_ids": [
+        9435
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "prosportracing",
+      "base_id": 4246,
+      "base_name": "PROsport Racing",
+      "rem_ids": [
+        9433
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "psg1corse",
+      "base_id": 4251,
+      "base_name": "PSG - 1 Corse",
+      "rem_ids": [
+        14264
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "quifelasm",
+      "base_id": 11653,
+      "base_name": "Quifel asm",
+      "rem_ids": [
+        13438
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "rallytechnology",
+      "base_id": 4848,
+      "base_name": "Rally Technology",
+      "rem_ids": [
+        4851
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "ramchargers",
+      "base_id": 9101,
+      "base_name": "Ramchargers",
+      "rem_ids": [
+        10558
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "rauhwelt",
+      "base_id": 8174,
+      "base_name": "Rauh Welt",
+      "rem_ids": [
+        10299
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "raysracing",
+      "base_id": 4872,
+      "base_name": "Ray's Racing",
+      "rem_ids": [
+        9844
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "ram",
+      "base_id": 7684,
+      "base_name": "Ram",
+      "rem_ids": [
+        9261
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 11,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "redbullktmtech3",
+      "base_id": 4896,
+      "base_name": "Red Bull KTM Tech 3",
+      "rem_ids": [
+        4897
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "redmanbright",
+      "base_id": 4920,
+      "base_name": "Redman Bright",
+      "rem_ids": [
+        4921
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "renaultedams",
+      "base_id": 4955,
+      "base_name": "Renault e.Dams",
+      "rem_ids": [
+        11007
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "riverside",
+      "base_id": 5014,
+      "base_name": "Riverside",
+      "rem_ids": [
+        7694
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "rjracing",
+      "base_id": 4635,
+      "base_name": "R&J Racing",
+      "rem_ids": [
+        4694
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "nsu",
+      "base_id": 8503,
+      "base_name": "NsU",
+      "rem_ids": [
+        8559
+      ],
+      "miniatures_moved": 98,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "rlrmsport",
+      "base_id": 4699,
+      "base_name": "RLR MSport",
+      "rem_ids": [
+        10360
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "rmerracingswitzerland",
+      "base_id": 5109,
+      "base_name": "R\u00c3\u00b6mer Racing Switzerland",
+      "rem_ids": [
+        5111
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "rmotorsport",
+      "base_id": 4639,
+      "base_name": "R-Motorsport",
+      "rem_ids": [
+        10317
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "rollsroyce",
+      "base_id": 7696,
+      "base_name": "Rolls royce",
+      "rem_ids": [
+        12038
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "rossocorsa",
+      "base_id": 5059,
+      "base_name": "Rosso Corsa",
+      "rem_ids": [
+        12406
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "rsrallyesport",
+      "base_id": 4729,
+      "base_name": "RS Rallye Sport",
+      "rem_ids": [
+        4732
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "s7r",
+      "base_id": 8404,
+      "base_name": "S7R",
+      "rem_ids": [
+        12948
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "santambroeus",
+      "base_id": 9927,
+      "base_name": "Sant ambroeus",
+      "rem_ids": [
+        12263
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "rcmotorsport",
+      "base_id": 4648,
+      "base_name": "R.C. Motorsport",
+      "rem_ids": [
+        4675
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 28,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "sapeurspompiersdugard",
+      "base_id": 9045,
+      "base_name": "Sapeurs Pompiers Du Gard",
+      "rem_ids": [
+        12809
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "sapeurspompiersmoselle",
+      "base_id": 8669,
+      "base_name": "Sapeurs Pompiers Moselle",
+      "rem_ids": [
+        11892
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "scheidpartlmotorsport",
+      "base_id": 11671,
+      "base_name": "Scheid-partl motorsport",
+      "rem_ids": [
+        12161
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "schenkerco",
+      "base_id": 13311,
+      "base_name": "Schenker & co.",
+      "rem_ids": [
+        13359
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "scuderiasantambroeus",
+      "base_id": 5331,
+      "base_name": "Scuderia Sant Ambroeus",
+      "rem_ids": [
+        12480
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "sdkfz",
+      "base_id": 13377,
+      "base_name": "Sdkfz",
+      "rem_ids": [
+        13879
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "scuderianart",
+      "base_id": 12121,
+      "base_name": "Scuderia nart",
+      "rem_ids": [
+        12390
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "scuderiajwagulf",
+      "base_id": 10305,
+      "base_name": "Scuderia jwa gulf",
+      "rem_ids": [
+        10858
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "sgdriversproject",
+      "base_id": 5147,
+      "base_name": "SG Driver's Project",
+      "rem_ids": [
+        5148
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "secautomobilescd",
+      "base_id": 5144,
+      "base_name": "SEC Automobiles CD",
+      "rem_ids": [
+        7704
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "shelbyamericaninc",
+      "base_id": 5374,
+      "base_name": "Shelby American Inc.",
+      "rem_ids": [
+        11842
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "sefacferrari",
+      "base_id": 5118,
+      "base_name": "S.E.F.A.C. Ferrari",
+      "rem_ids": [
+        9440
+      ],
+      "miniatures_moved": 7,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "skytempestaracing",
+      "base_id": 5429,
+      "base_name": "Sky Tempesta Racing",
+      "rem_ids": [
+        9697
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "signatureplus",
+      "base_id": 5399,
+      "base_name": "Signature-Plus",
+      "rem_ids": [
+        12064
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "signatechalpinematmut",
+      "base_id": 5395,
+      "base_name": "Signatech Alpine Matmut",
+      "rem_ids": [
+        9619
+      ],
+      "miniatures_moved": 7,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "sofrevasp",
+      "base_id": 5459,
+      "base_name": "Sofrev - Asp",
+      "rem_ids": [
+        14437
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "southdownfleetsupport",
+      "base_id": 12280,
+      "base_name": "Southdown fleet support",
+      "rem_ids": [
+        12287
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "sportquattro",
+      "base_id": 7766,
+      "base_name": "Sport Quattro",
+      "rem_ids": [
+        14013
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "stingray",
+      "base_id": 10559,
+      "base_name": "Stingray",
+      "rem_ids": [
+        12072
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "speedlover",
+      "base_id": 5492,
+      "base_name": "Speed Lover",
+      "rem_ids": [
+        5498
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 12,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "spsautomotiveperformance",
+      "base_id": 5185,
+      "base_name": "SPS Automotive Performance",
+      "rem_ids": [
+        5186
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "team75",
+      "base_id": 8511,
+      "base_name": "Team75",
+      "rem_ids": [
+        13571
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "teamfelbermayrproton",
+      "base_id": 5941,
+      "base_name": "Team Felbermayr Proton",
+      "rem_ids": [
+        5942
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "teamhanshinridingschool",
+      "base_id": 5975,
+      "base_name": "Team Hanshin Riding School",
+      "rem_ids": [
+        5976
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "teamlemans",
+      "base_id": 6034,
+      "base_name": "Team Le Mans",
+      "rem_ids": [
+        6035
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "teamtvtvasahidragon",
+      "base_id": 8602,
+      "base_name": "Team TV TVAsahi Dragon",
+      "rem_ids": [
+        9717
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "teamworkmotorsport",
+      "base_id": 6242,
+      "base_name": "Team Work Motorsport",
+      "rem_ids": [
+        6253
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "tech1racing",
+      "base_id": 6254,
+      "base_name": "Tech 1 Racing",
+      "rem_ids": [
+        9929
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "talbotlago",
+      "base_id": 8834,
+      "base_name": "Talbot Lago",
+      "rem_ids": [
+        9234
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 16,
+      "competitions_moved": 1,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "tech3eracing",
+      "base_id": 6256,
+      "base_name": "Tech 3 E-Racing",
+      "rem_ids": [
+        6260
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "techspeedmotorsport",
+      "base_id": 6258,
+      "base_name": "Tech-Speed Motorsport",
+      "rem_ids": [
+        6269
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "tech3",
+      "base_id": 6255,
+      "base_name": "Tech 3",
+      "rem_ids": [
+        9779,
+        13097
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    },
+    {
+      "normalized_key": "temperogiuffreracing",
+      "base_id": 6290,
+      "base_name": "Tempero-Giuffre Racing",
+      "rem_ids": [
+        6291
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "threebondracing",
+      "base_id": 6323,
+      "base_name": "Three Bond Racing",
+      "rem_ids": [
+        6325
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "theracersgroup",
+      "base_id": 6311,
+      "base_name": "The Racer''s Group",
+      "rem_ids": [
+        6312
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "tictac",
+      "base_id": 11192,
+      "base_name": "Tic-tac",
+      "rem_ids": [
+        11858
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "tolimitmotorsport",
+      "base_id": 11859,
+      "base_name": "To limit motorsport",
+      "rem_ids": [
+        11860
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "totalenergies",
+      "base_id": 7803,
+      "base_name": "TotalEnergies",
+      "rem_ids": [
+        10238
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "toyotateamtoms",
+      "base_id": 6404,
+      "base_name": "Toyota Team TOM''S",
+      "rem_ids": [
+        6405
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "transam",
+      "base_id": 10457,
+      "base_name": "Trans am",
+      "rem_ids": [
+        11508
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "triplea",
+      "base_id": 12572,
+      "base_name": "Triple-a",
+      "rem_ids": [
+        12605
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "twrjaguarracing",
+      "base_id": 11111,
+      "base_name": "T.w.r. jaguar racing",
+      "rem_ids": [
+        11112
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "udtlaystallracing",
+      "base_id": 10425,
+      "base_name": "Udt laystall racing",
+      "rem_ids": [
+        12488,
+        13300
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    },
+    {
+      "normalized_key": "mg",
+      "base_id": 3409,
+      "base_name": "M.G.",
+      "rem_ids": [
+        7490
+      ],
+      "miniatures_moved": 231,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "vipergtsr",
+      "base_id": 12266,
+      "base_name": "Viper gt-s r",
+      "rem_ids": [
+        12357
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "usracing",
+      "base_id": 6486,
+      "base_name": "U.S. Racing",
+      "rem_ids": [
+        6497
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 29,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "wcm",
+      "base_id": 6664,
+      "base_name": "W.C.M.",
+      "rem_ids": [
+        6666
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "wedssport",
+      "base_id": 12568,
+      "base_name": "Weds sport",
+      "rem_ids": [
+        12588
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "wmotors",
+      "base_id": 9624,
+      "base_name": "W-motors",
+      "rem_ids": [
+        11170
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "weathertechracing",
+      "base_id": 6702,
+      "base_name": "WeatherTech Racing",
+      "rem_ids": [
+        9595
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "xjr9",
+      "base_id": 12905,
+      "base_name": "Xjr-9",
+      "rem_ids": [
+        12944
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "xk120",
+      "base_id": 12471,
+      "base_name": "Xk120",
+      "rem_ids": [
+        14053
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "zolauto",
+      "base_id": 8497,
+      "base_name": "Zol-Auto",
+      "rem_ids": [
+        10119
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "zwenterprisesinc",
+      "base_id": 6854,
+      "base_name": "Z. & W. Enterprises Inc.",
+      "rem_ids": [
+        9821
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "toms",
+      "base_id": 5760,
+      "base_name": "TOM''S",
+      "rem_ids": [
+        5764
+      ],
+      "miniatures_moved": 32,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "subaru",
+      "base_id": 33,
+      "base_name": "SUBARU",
+      "rem_ids": [
+        39
+      ],
+      "miniatures_moved": 310,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    },
+    {
+      "normalized_key": "mercedesbenz",
+      "base_id": 31,
+      "base_name": "Mercedes-Benz",
+      "rem_ids": [
+        7521
+      ],
+      "miniatures_moved": 4705,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  ]
+}

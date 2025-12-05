@@ -1,0 +1,21 @@
+[
+  {
+    "normalized_key": "amgmercedes",
+    "timestamp": "2025-11-20T19:09:29.746276",
+    "stats": {
+      "normalized_key": "amgmercedes",
+      "base_id": 212,
+      "base_name": "AMG Mercedes",
+      "rem_ids": [
+        213
+      ],
+      "miniatures_moved": 7,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao deletar team REM 213"
+      ]
+    }
+  }
+]

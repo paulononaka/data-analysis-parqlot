@@ -1,0 +1,7197 @@
+{
+  "Cadillac": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:10:38.916083",
+    "base_id": 18,
+    "base_name": "Cadillac",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Cadillac",
+      "base_id": 18,
+      "base_name": "Cadillac",
+      "rem_ids": [
+        376,
+        1164,
+        1162,
+        1163,
+        1161
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao deletar team REM 376",
+        "Falha ao deletar team REM 1164",
+        "Falha ao deletar team REM 1162",
+        "Falha ao deletar team REM 1163",
+        "Falha ao deletar team REM 1161"
+      ]
+    }
+  },
+  "Fiat": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:23:24.636528",
+    "base_id": 36,
+    "base_name": "Fiat",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Fiat",
+      "base_id": 36,
+      "base_name": "Fiat",
+      "rem_ids": [
+        1962,
+        2084,
+        2027,
+        2085,
+        8088
+      ],
+      "miniatures_moved": 17,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar miniature 11654 \u00e0 BASE 36",
+        "Falha ao adicionar miniature 12649 \u00e0 BASE 36",
+        "REM 8088 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Ferrari": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:24:16.511928",
+    "base_id": 7,
+    "base_name": "Ferrari",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Ferrari",
+      "base_id": 7,
+      "base_name": "Ferrari",
+      "rem_ids": [
+        2839,
+        171,
+        1691,
+        2867,
+        2079
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 11,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 4398 \u00e0 BASE 7",
+        "REM 1691 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Mercedes": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:25:07.251215",
+    "base_id": 46,
+    "base_name": "Mercedes",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Mercedes",
+      "base_id": 46,
+      "base_name": "Mercedes",
+      "rem_ids": [
+        6,
+        5266,
+        4175,
+        5574,
+        5788
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 9,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 2219 \u00e0 BASE 46",
+        "REM 6 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4918 \u00e0 BASE 46",
+        "REM 5574 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "1969 Tribute": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:25:07.960085",
+    "base_id": 54,
+    "base_name": "1969 Tribute",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "1969 Tribute",
+      "base_id": 54,
+      "base_name": "1969 Tribute",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Haas": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:25:11.207883",
+    "base_id": 8373,
+    "base_name": "Haas",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Haas",
+      "base_id": 8373,
+      "base_name": "Haas",
+      "rem_ids": [
+        43
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "McLaren": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:27:51.925723",
+    "base_id": 12,
+    "base_name": "McLaren",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "McLaren",
+      "base_id": 12,
+      "base_name": "McLaren",
+      "rem_ids": [
+        510,
+        511,
+        3674,
+        3675,
+        3673
+      ],
+      "miniatures_moved": 16,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 13321 \u00e0 BASE 12",
+        "Falha ao adicionar miniature 13320 \u00e0 BASE 12",
+        "Falha ao adicionar miniature 13319 \u00e0 BASE 12",
+        "REM 510 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4752 \u00e0 BASE 12",
+        "REM 3674 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5451 \u00e0 BASE 12",
+        "REM 3675 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4801 \u00e0 BASE 12",
+        "REM 3673 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "2": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:27:57.788297",
+    "base_id": 8445,
+    "base_name": "2",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "2",
+      "base_id": 8445,
+      "base_name": "2",
+      "rem_ids": [
+        55
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "H. K. S.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:28:34.238185",
+    "base_id": 14527,
+    "base_name": "H. K. S.",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "H. K. S.",
+      "base_id": 14527,
+      "base_name": "H. K. S.",
+      "rem_ids": [
+        24,
+        3072,
+        7712
+      ],
+      "miniatures_moved": 7,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": []
+    }
+  },
+  "Racing": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:33:03.700532",
+    "base_id": 8038,
+    "base_name": "Racing",
+    "rems_processed": 4,
+    "stats": {
+      "group_name": "Racing",
+      "base_id": 8038,
+      "base_name": "Racing",
+      "rem_ids": [
+        45,
+        32,
+        4910,
+        7691
+      ],
+      "miniatures_moved": 42,
+      "drivers_moved": 21,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar miniature 6019 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 11845 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 13482 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 10960 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 10541 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 11923 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 11151 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 11800 \u00e0 BASE 8038",
+        "REM 32 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Toyota": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:33:41.101206",
+    "base_id": 25,
+    "base_name": "Toyota",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Toyota",
+      "base_id": 25,
+      "base_name": "Toyota",
+      "rem_ids": [
+        2692,
+        309,
+        1865,
+        3606,
+        4306
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5986 \u00e0 BASE 25",
+        "REM 3606 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Hyundai": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:35:45.949246",
+    "base_id": 27,
+    "base_name": "Hyundai",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Hyundai",
+      "base_id": 27,
+      "base_name": "Hyundai",
+      "rem_ids": [
+        2712,
+        2716,
+        2717,
+        2718,
+        2719
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 29,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5862 \u00e0 BASE 27",
+        "REM 2717 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Lotus": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:38:05.652730",
+    "base_id": 34,
+    "base_name": "Lotus",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Lotus",
+      "base_id": 34,
+      "base_name": "Lotus",
+      "rem_ids": [
+        2981,
+        1889,
+        2297,
+        3358,
+        3359
+      ],
+      "miniatures_moved": 24,
+      "drivers_moved": 11,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5198 \u00e0 BASE 34",
+        "REM 1889 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Chevrolet": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:38:31.594869",
+    "base_id": 15,
+    "base_name": "Chevrolet",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Chevrolet",
+      "base_id": 15,
+      "base_name": "Chevrolet",
+      "rem_ids": [
+        1537,
+        1276,
+        5405
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4786 \u00e0 BASE 15",
+        "REM 5405 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Car": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:40:06.185950",
+    "base_id": 14159,
+    "base_name": "Car",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Car",
+      "base_id": 14159,
+      "base_name": "Car",
+      "rem_ids": [
+        16,
+        9903
+      ],
+      "miniatures_moved": 25,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 11931 \u00e0 BASE 14159",
+        "REM 16 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Alfa Romeo": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:41:40.109634",
+    "base_id": 21,
+    "base_name": "Alfa Romeo",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Alfa Romeo",
+      "base_id": 21,
+      "base_name": "Alfa Romeo",
+      "rem_ids": [
+        355,
+        356,
+        357,
+        358,
+        359
+      ],
+      "miniatures_moved": 8,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 3993 \u00e0 BASE 21",
+        "Falha ao adicionar driver 3994 \u00e0 BASE 21",
+        "REM 358 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5844 \u00e0 BASE 21",
+        "REM 359 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Sauber": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:42:40.142957",
+    "base_id": 47,
+    "base_name": "Sauber",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Sauber",
+      "base_id": 47,
+      "base_name": "Sauber",
+      "rem_ids": [
+        2155,
+        5265,
+        5264,
+        5541,
+        10556
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 4113 \u00e0 BASE 47",
+        "REM 5264 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "22gt Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:43:52.165736",
+    "base_id": 14528,
+    "base_name": "22gt Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "22gt Racing",
+      "base_id": 14528,
+      "base_name": "22gt Racing",
+      "rem_ids": [
+        57
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Lmx": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:43:52.944273",
+    "base_id": 10208,
+    "base_name": "Lmx",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Lmx",
+      "base_id": 10208,
+      "base_name": "Lmx",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Lancia": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:44:39.075802",
+    "base_id": 28,
+    "base_name": "Lancia",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Lancia",
+      "base_id": 28,
+      "base_name": "Lancia",
+      "rem_ids": [
+        3248,
+        3249,
+        3618,
+        5324,
+        7455
+      ],
+      "miniatures_moved": 24,
+      "drivers_moved": 8,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": []
+    }
+  },
+  "Playboy": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:44:39.721876",
+    "base_id": 10209,
+    "base_name": "Playboy",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Playboy",
+      "base_id": 10209,
+      "base_name": "Playboy",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Ford": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:45:12.687779",
+    "base_id": 11,
+    "base_name": "Ford",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Ford",
+      "base_id": 11,
+      "base_name": "Ford",
+      "rem_ids": [
+        2125,
+        2128,
+        2129,
+        760,
+        2115
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 10,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4122 \u00e0 BASE 11",
+        "REM 2128 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5860 \u00e0 BASE 11",
+        "REM 760 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Land": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:45:58.604206",
+    "base_id": 12525,
+    "base_name": "Land",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Land",
+      "base_id": 12525,
+      "base_name": "Land",
+      "rem_ids": [
+        29,
+        7701
+      ],
+      "miniatures_moved": 40,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar miniature 10793 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 12472 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 5846 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 13075 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 12729 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 10153 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 10508 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 13367 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 13427 \u00e0 BASE 12525",
+        "REM 29 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 13563 \u00e0 BASE 12525",
+        "REM 7701 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Lincoln": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:45:59.373176",
+    "base_id": 30,
+    "base_name": "Lincoln",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Lincoln",
+      "base_id": 30,
+      "base_name": "Lincoln",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "23 Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:46:06.777596",
+    "base_id": 58,
+    "base_name": "23 Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "23 Racing",
+      "base_id": 58,
+      "base_name": "23 Racing",
+      "rem_ids": [
+        59
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Competition": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:46:23.184148",
+    "base_id": 7162,
+    "base_name": "Competition",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Competition",
+      "base_id": 7162,
+      "base_name": "Competition",
+      "rem_ids": [
+        60,
+        3414
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 11,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "2hp Competition": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:46:29.862471",
+    "base_id": 14529,
+    "base_name": "2hp Competition",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "2hp Competition",
+      "base_id": 14529,
+      "base_name": "2hp Competition",
+      "rem_ids": [
+        61
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Acura": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:46:50.358140",
+    "base_id": 2,
+    "base_name": "Acura",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Acura",
+      "base_id": 2,
+      "base_name": "Acura",
+      "rem_ids": [
+        294,
+        295,
+        3167
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 10,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4801 \u00e0 BASE 2",
+        "REM 294 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Honda": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:47:22.513184",
+    "base_id": 20,
+    "base_name": "Honda",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Honda",
+      "base_id": 20,
+      "base_name": "Honda",
+      "rem_ids": [
+        5,
+        2658,
+        2660,
+        2662,
+        2664
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 75 \u00e0 BASE 20",
+        "Falha ao adicionar driver 2218 \u00e0 BASE 20",
+        "REM 5 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4825 \u00e0 BASE 20",
+        "REM 2662 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "T. G. M.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:48:13.539320",
+    "base_id": 14530,
+    "base_name": "T. G. M.",
+    "rems_processed": 6,
+    "stats": {
+      "group_name": "T. G. M.",
+      "base_id": 14530,
+      "base_name": "T. G. M.",
+      "rem_ids": [
+        7788,
+        211,
+        796,
+        3483,
+        3703,
+        4088
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 34,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar miniature 6177 \u00e0 BASE 14530",
+        "Falha ao adicionar miniature 6176 \u00e0 BASE 14530",
+        "REM 7788 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4592 \u00e0 BASE 14530",
+        "REM 3483 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5930 \u00e0 BASE 14530",
+        "REM 3703 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "+ego Speed Up": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:48:20.324381",
+    "base_id": 14531,
+    "base_name": "+ego Speed Up",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "+ego Speed Up",
+      "base_id": 14531,
+      "base_name": "+ego Speed Up",
+      "rem_ids": [
+        50
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "B.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:49:01.561127",
+    "base_id": 14532,
+    "base_name": "B.",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "B.",
+      "base_id": 14532,
+      "base_name": "B.",
+      "rem_ids": [
+        37,
+        7862,
+        13670
+      ],
+      "miniatures_moved": 31,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar miniature 13609 \u00e0 BASE 14532",
+        "Falha ao adicionar miniature 5975 \u00e0 BASE 14532",
+        "Falha ao adicionar miniature 6099 \u00e0 BASE 14532",
+        "Falha ao adicionar miniature 9963 \u00e0 BASE 14532",
+        "REM 37 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Pandem": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:49:18.092580",
+    "base_id": 38,
+    "base_name": "Pandem",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Pandem",
+      "base_id": 38,
+      "base_name": "Pandem",
+      "rem_ids": [
+        7866,
+        8201
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 11118 \u00e0 BASE 38",
+        "REM 8201 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Shelby": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:50:11.177144",
+    "base_id": 40,
+    "base_name": "Shelby",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Shelby",
+      "base_id": 40,
+      "base_name": "Shelby",
+      "rem_ids": [
+        1213,
+        7736,
+        12061,
+        11823,
+        10927
+      ],
+      "miniatures_moved": 29,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": []
+    }
+  },
+  "Porsche": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:50:51.489274",
+    "base_id": 9,
+    "base_name": "Porsche",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Porsche",
+      "base_id": 9,
+      "base_name": "Porsche",
+      "rem_ids": [
+        2882,
+        345,
+        1993,
+        2036,
+        1044
+      ],
+      "miniatures_moved": 9,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5151 \u00e0 BASE 9",
+        "REM 2882 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "1": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:51:20.055807",
+    "base_id": 6929,
+    "base_name": "1",
+    "rems_processed": 4,
+    "stats": {
+      "group_name": "1",
+      "base_id": 6929,
+      "base_name": "1",
+      "rem_ids": [
+        51,
+        6612,
+        9601,
+        9696
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 9,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4651 \u00e0 BASE 6929",
+        "REM 51 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5754 \u00e0 BASE 6929",
+        "REM 6612 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Bentley": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:51:50.429059",
+    "base_id": 23,
+    "base_name": "Bentley",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Bentley",
+      "base_id": 23,
+      "base_name": "Bentley",
+      "rem_ids": [
+        1832,
+        869,
+        870,
+        872,
+        871
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": []
+    }
+  },
+  "Sport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:51:56.646600",
+    "base_id": 8408,
+    "base_name": "Sport",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Sport",
+      "base_id": 8408,
+      "base_name": "Sport",
+      "rem_ids": [
+        52
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Team": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:52:27.970423",
+    "base_id": 10036,
+    "base_name": "Team",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Team",
+      "base_id": 10036,
+      "base_name": "Team",
+      "rem_ids": [
+        53,
+        6125,
+        12861,
+        1577,
+        3272
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4794 \u00e0 BASE 10036",
+        "REM 6125 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4253 \u00e0 BASE 10036",
+        "REM 3272 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Nissan": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:53:03.826717",
+    "base_id": 19,
+    "base_name": "Nissan",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Nissan",
+      "base_id": 19,
+      "base_name": "Nissan",
+      "rem_ids": [
+        2888,
+        4038,
+        4044,
+        4037,
+        4039
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5433 \u00e0 BASE 19",
+        "REM 4044 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Mazda": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:53:38.749413",
+    "base_id": 35,
+    "base_name": "Mazda",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Mazda",
+      "base_id": 35,
+      "base_name": "Mazda",
+      "rem_ids": [
+        2998,
+        3659,
+        3658,
+        3655,
+        3656
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 15,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": []
+    }
+  },
+  "3-L. Racing Team": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:53:45.375184",
+    "base_id": 14533,
+    "base_name": "3-L. Racing Team",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "3-L. Racing Team",
+      "base_id": 14533,
+      "base_name": "3-L. Racing Team",
+      "rem_ids": [
+        63
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Ducati": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:54:12.327615",
+    "base_id": 13,
+    "base_name": "Ducati",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Ducati",
+      "base_id": 13,
+      "base_name": "Ducati",
+      "rem_ids": [
+        1603,
+        1689,
+        1690,
+        1701,
+        1707
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": []
+    }
+  },
+  "Lamborghini": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:54:43.921919",
+    "base_id": 14,
+    "base_name": "Lamborghini",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Lamborghini",
+      "base_id": 14,
+      "base_name": "Lamborghini",
+      "rem_ids": [
+        624,
+        3063,
+        3243,
+        3244,
+        3245
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 10,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 5246 \u00e0 BASE 14",
+        "REM 3243 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4169 \u00e0 BASE 14",
+        "REM 3244 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "International": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:54:50.214052",
+    "base_id": 7386,
+    "base_name": "International",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "International",
+      "base_id": 7386,
+      "base_name": "International",
+      "rem_ids": [
+        64
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "310 Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:55:06.110617",
+    "base_id": 65,
+    "base_name": "310 Racing",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "310 Racing",
+      "base_id": 65,
+      "base_name": "310 Racing",
+      "rem_ids": [
+        69,
+        8912
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 8,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "326 Racing Team": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:55:06.897252",
+    "base_id": 66,
+    "base_name": "326 Racing Team",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "326 Racing Team",
+      "base_id": 66,
+      "base_name": "326 Racing Team",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Italia": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:55:18.960402",
+    "base_id": 10909,
+    "base_name": "Italia",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Italia",
+      "base_id": 10909,
+      "base_name": "Italia",
+      "rem_ids": [
+        67,
+        13762
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Racing Bulls": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:55:19.711160",
+    "base_id": 48,
+    "base_name": "Racing Bulls",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Racing Bulls",
+      "base_id": 48,
+      "base_name": "Racing Bulls",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Williams": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:55:52.491984",
+    "base_id": 42,
+    "base_name": "Williams",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Williams",
+      "base_id": 42,
+      "base_name": "Williams",
+      "rem_ids": [
+        556,
+        2159,
+        4718,
+        4884,
+        6454
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 4202 \u00e0 BASE 42",
+        "Falha ao adicionar driver 6055 \u00e0 BASE 42",
+        "REM 4884 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "3570-M. T. A.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:55:58.888003",
+    "base_id": 14534,
+    "base_name": "3570-M. T. A.",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "3570-M. T. A.",
+      "base_id": 14534,
+      "base_name": "3570-M. T. A.",
+      "rem_ids": [
+        68
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "8": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:56:21.509635",
+    "base_id": 9495,
+    "base_name": "8",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "8",
+      "base_id": 9495,
+      "base_name": "8",
+      "rem_ids": [
+        84,
+        11241,
+        9729
+      ],
+      "miniatures_moved": 8,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": []
+    }
+  },
+  "Alpine": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:56:56.751921",
+    "base_id": 44,
+    "base_name": "Alpine",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Alpine",
+      "base_id": 44,
+      "base_name": "Alpine",
+      "rem_ids": [
+        389,
+        390,
+        391,
+        792,
+        5394
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 18,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 5215 \u00e0 BASE 44",
+        "REM 389 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5215 \u00e0 BASE 44",
+        "REM 5394 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Renault": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:57:48.235382",
+    "base_id": 1,
+    "base_name": "Renault",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Renault",
+      "base_id": 1,
+      "base_name": "Renault",
+      "rem_ids": [
+        4944,
+        4945,
+        4946,
+        4949,
+        4950
+      ],
+      "miniatures_moved": 25,
+      "drivers_moved": 11,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": []
+    }
+  },
+  "365 Thunderasia Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:57:48.876671",
+    "base_id": 70,
+    "base_name": "365 Thunderasia Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "365 Thunderasia Racing",
+      "base_id": 70,
+      "base_name": "365 Thunderasia Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "3art": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:57:56.843460",
+    "base_id": 14535,
+    "base_name": "3art",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "3art",
+      "base_id": 14535,
+      "base_name": "3art",
+      "rem_ids": [
+        71
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4805 \u00e0 BASE 14535",
+        "REM 71 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "3c Racing Team": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:58:04.014893",
+    "base_id": 14536,
+    "base_name": "3c Racing Team",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "3c Racing Team",
+      "base_id": 14536,
+      "base_name": "3c Racing Team",
+      "rem_ids": [
+        72
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Alpha Tauri": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:58:04.721930",
+    "base_id": 26,
+    "base_name": "Alpha Tauri",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Alpha Tauri",
+      "base_id": 26,
+      "base_name": "Alpha Tauri",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "3gt Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:58:13.773042",
+    "base_id": 14537,
+    "base_name": "3gt Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "3gt Racing",
+      "base_id": 14537,
+      "base_name": "3gt Racing",
+      "rem_ids": [
+        73
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "3y Technology": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:58:21.909800",
+    "base_id": 14538,
+    "base_name": "3y Technology",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "3y Technology",
+      "base_id": 14538,
+      "base_name": "3y Technology",
+      "rem_ids": [
+        74
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Japan": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:58:27.620676",
+    "base_id": 10019,
+    "base_name": "Japan",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Japan",
+      "base_id": 10019,
+      "base_name": "Japan",
+      "rem_ids": [
+        75
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "50+predator/alegra": {
+    "status": "completed",
+    "timestamp": "2025-11-24T16:58:34.184937",
+    "base_id": 14539,
+    "base_name": "50+predator/alegra",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "50+predator/alegra",
+      "base_id": 14539,
+      "base_name": "50+predator/alegra",
+      "rem_ids": [
+        76
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "W.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:59:41.486122",
+    "base_id": 14540,
+    "base_name": "W.",
+    "rems_processed": 6,
+    "stats": {
+      "group_name": "W.",
+      "base_id": 14540,
+      "base_name": "W.",
+      "rem_ids": [
+        77,
+        7911,
+        7847,
+        8330,
+        8921,
+        33
+      ],
+      "miniatures_moved": 43,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": [
+        "Falha ao adicionar miniature 12195 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12204 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12199 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12196 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12200 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12456 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12194 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12597 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12212 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12596 \u00e0 BASE 14540",
+        "REM 33 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Rally": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T16:59:57.218114",
+    "base_id": 13705,
+    "base_name": "Rally",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Rally",
+      "base_id": 13705,
+      "base_name": "Rally",
+      "rem_ids": [
+        78,
+        5624,
+        9284
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4053 \u00e0 BASE 13705",
+        "REM 78 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "71workx.com Racing Team": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:00:04.154754",
+    "base_id": 14541,
+    "base_name": "71workx.com Racing Team",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "71workx.com Racing Team",
+      "base_id": 14541,
+      "base_name": "71workx.com Racing Team",
+      "rem_ids": [
+        79
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "75 Express": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:00:04.898062",
+    "base_id": 80,
+    "base_name": "75 Express",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "75 Express",
+      "base_id": 80,
+      "base_name": "75 Express",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Motorsport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:00:11.621020",
+    "base_id": 7542,
+    "base_name": "Motorsport",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Motorsport",
+      "base_id": 7542,
+      "base_name": "Motorsport",
+      "rem_ids": [
+        81
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "778 Auto Sport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:00:12.344622",
+    "base_id": 82,
+    "base_name": "778 Auto Sport",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "778 Auto Sport",
+      "base_id": 82,
+      "base_name": "778 Auto Sport",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "7tsix": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:00:20.124164",
+    "base_id": 14542,
+    "base_name": "7tsix",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "7tsix",
+      "base_id": 14542,
+      "base_name": "7tsix",
+      "rem_ids": [
+        83
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "88 Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:00:20.827307",
+    "base_id": 85,
+    "base_name": "88 Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "88 Racing",
+      "base_id": 85,
+      "base_name": "88 Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Optimum": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:00:27.425128",
+    "base_id": 4156,
+    "base_name": "Optimum",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Optimum",
+      "base_id": 4156,
+      "base_name": "Optimum",
+      "rem_ids": [
+        86
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "961 Corse": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:00:28.248997",
+    "base_id": 88,
+    "base_name": "961 Corse",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "961 Corse",
+      "base_id": 88,
+      "base_name": "961 Corse",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "99": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:00:37.053760",
+    "base_id": 6980,
+    "base_name": "99",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "99",
+      "base_id": 6980,
+      "base_name": "99",
+      "rem_ids": [
+        89
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4207 \u00e0 BASE 6980",
+        "REM 89 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Robinson Racing": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:01:07.403522",
+    "base_id": 5029,
+    "base_name": "Robinson Racing",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Robinson Racing",
+      "base_id": 5029,
+      "base_name": "Robinson Racing",
+      "rem_ids": [
+        91,
+        2933,
+        3965
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 28,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5526 \u00e0 BASE 5029",
+        "REM 2933 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "A.-Tech": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:01:13.951929",
+    "base_id": 14543,
+    "base_name": "A.-Tech",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "A.-Tech",
+      "base_id": 14543,
+      "base_name": "A.-Tech",
+      "rem_ids": [
+        94
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Comet/ncmp Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:01:20.628889",
+    "base_id": 14544,
+    "base_name": "Comet/ncmp Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Comet/ncmp Racing",
+      "base_id": 14544,
+      "base_name": "Comet/ncmp Racing",
+      "rem_ids": [
+        1357
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Cone Forest Rally Team": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:01:21.369557",
+    "base_id": 1374,
+    "base_name": "Cone Forest Rally Team",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Cone Forest Rally Team",
+      "base_id": 1374,
+      "base_name": "Cone Forest Rally Team",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Contreras Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:01:22.026233",
+    "base_id": 1381,
+    "base_name": "Contreras Motorsports",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Contreras Motorsports",
+      "base_id": 1381,
+      "base_name": "Contreras Motorsports",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Corbetta Competizioni": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:01:22.724994",
+    "base_id": 1396,
+    "base_name": "Corbetta Competizioni",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Corbetta Competizioni",
+      "base_id": 1396,
+      "base_name": "Corbetta Competizioni",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "W. Racing Team": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:01:36.772048",
+    "base_id": 14545,
+    "base_name": "W. Racing Team",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "W. Racing Team",
+      "base_id": 14545,
+      "base_name": "W. Racing Team",
+      "rem_ids": [
+        1401,
+        6658
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 8,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 5680 \u00e0 BASE 14545",
+        "REM 6658 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Crescent": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:02:07.629347",
+    "base_id": 1422,
+    "base_name": "Crescent",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Crescent",
+      "base_id": 1422,
+      "base_name": "Crescent",
+      "rem_ids": [
+        1423,
+        2099,
+        5241,
+        5906,
+        6651
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 15,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": []
+    }
+  },
+  "Z.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:02:27.527100",
+    "base_id": 14546,
+    "base_name": "Z.",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Z.",
+      "base_id": 14546,
+      "base_name": "Z.",
+      "rem_ids": [
+        1424,
+        3391,
+        8848
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4852 \u00e0 BASE 14546",
+        "REM 1424 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Crowdstrike": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:02:46.782950",
+    "base_id": 7181,
+    "base_name": "Crowdstrike",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Crowdstrike",
+      "base_id": 7181,
+      "base_name": "Crowdstrike",
+      "rem_ids": [
+        1428,
+        3282,
+        8707
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 8,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": []
+    }
+  },
+  "Riley": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:02:58.688827",
+    "base_id": 5003,
+    "base_name": "Riley",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Riley",
+      "base_id": 5003,
+      "base_name": "Riley",
+      "rem_ids": [
+        1429,
+        9561
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "P.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:03:22.177251",
+    "base_id": 14547,
+    "base_name": "P.",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "P.",
+      "base_id": 14547,
+      "base_name": "P.",
+      "rem_ids": [
+        1430,
+        13970,
+        1431
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4811 \u00e0 BASE 14547",
+        "REM 1431 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Cusco": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:03:29.226501",
+    "base_id": 10676,
+    "base_name": "Cusco",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Cusco",
+      "base_id": 10676,
+      "base_name": "Cusco",
+      "rem_ids": [
+        1449
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Cyan Racing Lynk & Co": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:03:36.190719",
+    "base_id": 1451,
+    "base_name": "Cyan Racing Lynk & Co",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Cyan Racing Lynk & Co",
+      "base_id": 1451,
+      "base_name": "Cyan Racing Lynk & Co",
+      "rem_ids": [
+        3389
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Hawk Racing": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:03:49.899705",
+    "base_id": 2584,
+    "base_name": "Hawk Racing",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Hawk Racing",
+      "base_id": 2584,
+      "base_name": "Hawk Racing",
+      "rem_ids": [
+        2585,
+        1421
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 8,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4556 \u00e0 BASE 2584",
+        "REM 2585 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Hazama Ando Triple Tree Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:03:50.706336",
+    "base_id": 2586,
+    "base_name": "Hazama Ando Triple Tree Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hazama Ando Triple Tree Racing",
+      "base_id": 2586,
+      "base_name": "Hazama Ando Triple Tree Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "T. Racing": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:05:13.891586",
+    "base_id": 14548,
+    "base_name": "T. Racing",
+    "rems_processed": 6,
+    "stats": {
+      "group_name": "T. Racing",
+      "base_id": 14548,
+      "base_name": "T. Racing",
+      "rem_ids": [
+        2589,
+        5736,
+        7894,
+        7269,
+        7944,
+        8435
+      ],
+      "miniatures_moved": 42,
+      "drivers_moved": 26,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4815 \u00e0 BASE 14548",
+        "REM 2589 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 6002 \u00e0 BASE 14548",
+        "REM 5736 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 11444 \u00e0 BASE 14548",
+        "REM 7944 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Swap Shop": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:05:29.831957",
+    "base_id": 14549,
+    "base_name": "Swap Shop",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Swap Shop",
+      "base_id": 14549,
+      "base_name": "Swap Shop",
+      "rem_ids": [
+        2605,
+        14492
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 3985 \u00e0 BASE 14549",
+        "Falha ao adicionar driver 4310 \u00e0 BASE 14549",
+        "REM 2605 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Henri Peignaux": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:05:30.527721",
+    "base_id": 2608,
+    "base_name": "Henri Peignaux",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Henri Peignaux",
+      "base_id": 2608,
+      "base_name": "Henri Peignaux",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "C.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:05:37.282007",
+    "base_id": 9314,
+    "base_name": "C.",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "C.",
+      "base_id": 9314,
+      "base_name": "C.",
+      "rem_ids": [
+        2612
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Heuer Racing": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:05:54.199420",
+    "base_id": 2619,
+    "base_name": "Heuer Racing",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Heuer Racing",
+      "base_id": 2619,
+      "base_name": "Heuer Racing",
+      "rem_ids": [
+        3907,
+        2700
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 5361 \u00e0 BASE 2619",
+        "REM 3907 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Hideg Team Se": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:01.433209",
+    "base_id": 14550,
+    "base_name": "Hideg Team Se",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Hideg Team Se",
+      "base_id": 14550,
+      "base_name": "Hideg Team Se",
+      "rem_ids": [
+        2623
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "High Class Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:08.117124",
+    "base_id": 2624,
+    "base_name": "High Class Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "High Class Racing",
+      "base_id": 2624,
+      "base_name": "High Class Racing",
+      "rem_ids": [
+        3440
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Hilmer Motorsport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:08.806863",
+    "base_id": 2633,
+    "base_name": "Hilmer Motorsport",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hilmer Motorsport",
+      "base_id": 2633,
+      "base_name": "Hilmer Motorsport",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Holiday Gym G22": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:09.538423",
+    "base_id": 2651,
+    "base_name": "Holiday Gym G22",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Holiday Gym G22",
+      "base_id": 2651,
+      "base_name": "Holiday Gym G22",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Honda Suisse": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:10.376876",
+    "base_id": 2674,
+    "base_name": "Honda Suisse",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Honda Suisse",
+      "base_id": 2674,
+      "base_name": "Honda Suisse",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Horex": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:11.049533",
+    "base_id": 2684,
+    "base_name": "Horex",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Horex",
+      "base_id": 2684,
+      "base_name": "Horex",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Hoshino Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:11.724532",
+    "base_id": 2688,
+    "base_name": "Hoshino Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hoshino Racing",
+      "base_id": 2688,
+      "base_name": "Hoshino Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Hot Racing With I.-Factory": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:18.632237",
+    "base_id": 14551,
+    "base_name": "Hot Racing With I.-Factory",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Hot Racing With I.-Factory",
+      "base_id": 14551,
+      "base_name": "Hot Racing With I.-Factory",
+      "rem_ids": [
+        2689
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Houseman Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:19.391624",
+    "base_id": 2690,
+    "base_name": "Houseman Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Houseman Racing",
+      "base_id": 2690,
+      "base_name": "Houseman Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Hover Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:20.073535",
+    "base_id": 2693,
+    "base_name": "Hover Motorsports",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hover Motorsports",
+      "base_id": 2693,
+      "base_name": "Hover Motorsports",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Hutzel Racing Team": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:20.829057",
+    "base_id": 2707,
+    "base_name": "Hutzel Racing Team",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hutzel Racing Team",
+      "base_id": 2707,
+      "base_name": "Hutzel Racing Team",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Hyak Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:21.497341",
+    "base_id": 2708,
+    "base_name": "Hyak Motorsports",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hyak Motorsports",
+      "base_id": 2708,
+      "base_name": "Hyak Motorsports",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Inging": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:28.160944",
+    "base_id": 9428,
+    "base_name": "Inging",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Inging",
+      "base_id": 9428,
+      "base_name": "Inging",
+      "rem_ids": [
+        2711
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Hyundai Poland Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:28.861006",
+    "base_id": 2720,
+    "base_name": "Hyundai Poland Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hyundai Poland Racing",
+      "base_id": 2720,
+      "base_name": "Hyundai Poland Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Hyundai Rally Sport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:29.649478",
+    "base_id": 2721,
+    "base_name": "Hyundai Rally Sport",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hyundai Rally Sport",
+      "base_id": 2721,
+      "base_name": "Hyundai Rally Sport",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Engstler": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:06:42.600957",
+    "base_id": 7242,
+    "base_name": "Engstler",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Engstler",
+      "base_id": 7242,
+      "base_name": "Engstler",
+      "rem_ids": [
+        2724,
+        1866
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "B. P. Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:07:08.316249",
+    "base_id": 14552,
+    "base_name": "B. P. Racing",
+    "rems_processed": 4,
+    "stats": {
+      "group_name": "B. P. Racing",
+      "base_id": 14552,
+      "base_name": "B. P. Racing",
+      "rem_ids": [
+        2740,
+        7373,
+        7992,
+        659
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": []
+    }
+  },
+  "Kawasaki": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:07:20.889102",
+    "base_id": 3087,
+    "base_name": "Kawasaki",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Kawasaki",
+      "base_id": 3087,
+      "base_name": "Kawasaki",
+      "rem_ids": [
+        2742
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Irwin Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:07:36.929620",
+    "base_id": 14553,
+    "base_name": "Irwin Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Irwin Racing",
+      "base_id": 14553,
+      "base_name": "Irwin Racing",
+      "rem_ids": [
+        2743
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "I. S. R.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:07:58.443998",
+    "base_id": 14554,
+    "base_name": "I. S. R.",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "I. S. R.",
+      "base_id": 14554,
+      "base_name": "I. S. R.",
+      "rem_ids": [
+        2744,
+        4737
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 14,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 5312 \u00e0 BASE 14554",
+        "REM 2744 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Racing Car": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:08:12.739699",
+    "base_id": 14555,
+    "base_name": "Racing Car",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Racing Car",
+      "base_id": 14555,
+      "base_name": "Racing Car",
+      "rem_ids": [
+        2745,
+        14105
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Impul": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:08:42.403362",
+    "base_id": 7383,
+    "base_name": "Impul",
+    "rems_processed": 4,
+    "stats": {
+      "group_name": "Impul",
+      "base_id": 7383,
+      "base_name": "Impul",
+      "rem_ids": [
+        2748,
+        2825,
+        6001,
+        7240
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 12,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar miniature 6171 \u00e0 BASE 7383",
+        "Falha ao adicionar miniature 6172 \u00e0 BASE 7383",
+        "REM 7240 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "I. X. S. Motorradmode": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:08:49.201970",
+    "base_id": 14556,
+    "base_name": "I. X. S. Motorradmode",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "I. X. S. Motorradmode",
+      "base_id": 14556,
+      "base_name": "I. X. S. Motorradmode",
+      "rem_ids": [
+        2749
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Ian Scott & Co. Ltd.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:08:49.860534",
+    "base_id": 2752,
+    "base_name": "Ian Scott & Co. Ltd.",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Ian Scott & Co. Ltd.",
+      "base_id": 2752,
+      "base_name": "Ian Scott & Co. Ltd.",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Idec Sport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:09:05.894572",
+    "base_id": 2756,
+    "base_name": "Idec Sport",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Idec Sport",
+      "base_id": 2756,
+      "base_name": "Idec Sport",
+      "rem_ids": [
+        2757
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Idola Motorsport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:09:06.555801",
+    "base_id": 2759,
+    "base_name": "Idola Motorsport",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Idola Motorsport",
+      "base_id": 2759,
+      "base_name": "Idola Motorsport",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Autosport": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:09:28.270808",
+    "base_id": 632,
+    "base_name": "Autosport",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Autosport",
+      "base_id": 632,
+      "base_name": "Autosport",
+      "rem_ids": [
+        2760,
+        1184,
+        1483
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5686 \u00e0 BASE 632",
+        "REM 1184 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Pramac": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:09:45.193095",
+    "base_id": 7646,
+    "base_name": "Pramac",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Pramac",
+      "base_id": 7646,
+      "base_name": "Pramac",
+      "rem_ids": [
+        2761,
+        4494
+      ],
+      "miniatures_moved": 8,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "S. R. T.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:10:00.687529",
+    "base_id": 14557,
+    "base_name": "S. R. T.",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "S. R. T.",
+      "base_id": 14557,
+      "base_name": "S. R. T.",
+      "rem_ids": [
+        2765,
+        5191
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Imperiale Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:10:01.386530",
+    "base_id": 2767,
+    "base_name": "Imperiale Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Imperiale Racing",
+      "base_id": 2767,
+      "base_name": "Imperiale Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Impreza": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:10:23.072677",
+    "base_id": 7380,
+    "base_name": "Impreza",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Impreza",
+      "base_id": 7380,
+      "base_name": "Impreza",
+      "rem_ids": [
+        2770
+      ],
+      "miniatures_moved": 14,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar miniature 12045 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 13606 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 11688 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 6252 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 11690 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 10551 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 11652 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 13663 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 12643 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 13259 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 9960 \u00e0 BASE 7380",
+        "Falha ao adicionar driver 5525 \u00e0 BASE 7380",
+        "REM 2770 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Inch'S Cider": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:10:31.432242",
+    "base_id": 14558,
+    "base_name": "Inch'S Cider",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Inch'S Cider",
+      "base_id": 14558,
+      "base_name": "Inch'S Cider",
+      "rem_ids": [
+        2778
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4737 \u00e0 BASE 14558",
+        "REM 2778 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Independent": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:10:38.433423",
+    "base_id": 2779,
+    "base_name": "Independent",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Independent",
+      "base_id": 2779,
+      "base_name": "Independent",
+      "rem_ids": [
+        13517
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Gresini": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:10:52.361200",
+    "base_id": 13092,
+    "base_name": "Gresini",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Gresini",
+      "base_id": 13092,
+      "base_name": "Gresini",
+      "rem_ids": [
+        2780,
+        9326
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Indy Regency Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:10:53.041807",
+    "base_id": 2781,
+    "base_name": "Indy Regency Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Indy Regency Racing",
+      "base_id": 2781,
+      "base_name": "Indy Regency Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Infiniti": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:11:04.977782",
+    "base_id": 12288,
+    "base_name": "Infiniti",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Infiniti",
+      "base_id": 12288,
+      "base_name": "Infiniti",
+      "rem_ids": [
+        2782,
+        5655
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Intersport Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:11:05.640932",
+    "base_id": 2798,
+    "base_name": "Intersport Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Intersport Racing",
+      "base_id": 2798,
+      "base_name": "Intersport Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Interwetten.com": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:11:22.931241",
+    "base_id": 2803,
+    "base_name": "Interwetten.com",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Interwetten.com",
+      "base_id": 2803,
+      "base_name": "Interwetten.com",
+      "rem_ids": [
+        2804,
+        2800
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4718 \u00e0 BASE 2803",
+        "Falha ao adicionar driver 4172 \u00e0 BASE 2803",
+        "Falha ao adicionar driver 4169 \u00e0 BASE 2803",
+        "Falha ao adicionar driver 4583 \u00e0 BASE 2803",
+        "REM 2804 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Ioda Team Italia": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:11:23.634058",
+    "base_id": 2807,
+    "base_name": "Ioda Team Italia",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Ioda Team Italia",
+      "base_id": 2807,
+      "base_name": "Ioda Team Italia",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Phoenix": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:12:07.856509",
+    "base_id": 10165,
+    "base_name": "Phoenix",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Phoenix",
+      "base_id": 10165,
+      "base_name": "Phoenix",
+      "rem_ids": [
+        2814,
+        4420
+      ],
+      "miniatures_moved": 24,
+      "drivers_moved": 23,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 11058 \u00e0 BASE 10165",
+        "Falha ao adicionar driver 5680 \u00e0 BASE 10165",
+        "Falha ao adicionar driver 4918 \u00e0 BASE 10165",
+        "REM 4420 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Iso": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:12:44.328632",
+    "base_id": 8473,
+    "base_name": "Iso",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Iso",
+      "base_id": 8473,
+      "base_name": "Iso",
+      "rem_ids": [
+        2817,
+        4584,
+        8593
+      ],
+      "miniatures_moved": 24,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar miniature 31021 \u00e0 BASE 8473",
+        "REM 8593 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Isotta Fraschini": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:12:45.103874",
+    "base_id": 2818,
+    "base_name": "Isotta Fraschini",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Isotta Fraschini",
+      "base_id": 2818,
+      "base_name": "Isotta Fraschini",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Israel F4": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:12:45.761584",
+    "base_id": 2819,
+    "base_name": "Israel F4",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Israel F4",
+      "base_id": 2819,
+      "base_name": "Israel F4",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Issy Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:12:46.473388",
+    "base_id": 2820,
+    "base_name": "Issy Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Issy Racing",
+      "base_id": 2820,
+      "base_name": "Issy Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Iwata Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:12:59.488355",
+    "base_id": 14559,
+    "base_name": "Iwata Racing",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Iwata Racing",
+      "base_id": 14559,
+      "base_name": "Iwata Racing",
+      "rem_ids": [
+        2826,
+        9831
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "A. J. S.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:13:50.780329",
+    "base_id": 14560,
+    "base_name": "A. J. S.",
+    "rems_processed": 6,
+    "stats": {
+      "group_name": "A. J. S.",
+      "base_id": 14560,
+      "base_name": "A. J. S.",
+      "rem_ids": [
+        2837,
+        179,
+        243,
+        2859,
+        2891,
+        118
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 41,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 4173 \u00e0 BASE 14560",
+        "REM 2837 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5999 \u00e0 BASE 14560",
+        "REM 179 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "D.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:14:50.742337",
+    "base_id": 14561,
+    "base_name": "D.",
+    "rems_processed": 6,
+    "stats": {
+      "group_name": "D.",
+      "base_id": 14561,
+      "base_name": "D.",
+      "rem_ids": [
+        2848,
+        2847,
+        1131,
+        8375,
+        1472,
+        2852
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 49,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5423 \u00e0 BASE 14561",
+        "Falha ao adicionar driver 6049 \u00e0 BASE 14561",
+        "Falha ao adicionar driver 5467 \u00e0 BASE 14561",
+        "Falha ao adicionar driver 4067 \u00e0 BASE 14561",
+        "REM 2848 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5687 \u00e0 BASE 14561",
+        "REM 1472 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "J. H. K. T.-Shirt Laglisse": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:15:06.817791",
+    "base_id": 14562,
+    "base_name": "J. H. K. T.-Shirt Laglisse",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "J. H. K. T.-Shirt Laglisse",
+      "base_id": 14562,
+      "base_name": "J. H. K. T.-Shirt Laglisse",
+      "rem_ids": [
+        2854,
+        425
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4157 \u00e0 BASE 14562",
+        "REM 2854 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4529 \u00e0 BASE 14562",
+        "REM 425 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "J. H. R.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:15:37.590856",
+    "base_id": 14563,
+    "base_name": "J. H. R.",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "J. H. R.",
+      "base_id": 14563,
+      "base_name": "J. H. R.",
+      "rem_ids": [
+        2856,
+        2855,
+        2844
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 30,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4830 \u00e0 BASE 14563",
+        "REM 2856 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Minolta": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:15:54.894773",
+    "base_id": 8594,
+    "base_name": "Minolta",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Minolta",
+      "base_id": 8594,
+      "base_name": "Minolta",
+      "rem_ids": [
+        2857,
+        8498
+      ],
+      "miniatures_moved": 10,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "J. J. Racing": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:16:55.249391",
+    "base_id": 14564,
+    "base_name": "J. J. Racing",
+    "rems_processed": 6,
+    "stats": {
+      "group_name": "J. J. Racing",
+      "base_id": 14564,
+      "base_name": "J. J. Racing",
+      "rem_ids": [
+        2860,
+        2868,
+        2833,
+        2672,
+        2840,
+        106
+      ],
+      "miniatures_moved": 18,
+      "drivers_moved": 22,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": [
+        "Falha ao adicionar driver 4340 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 4387 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 4506 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 4905 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 4906 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 5714 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 5359 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 5271 \u00e0 BASE 14564",
+        "REM 2868 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "J. L. M.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:17:16.071928",
+    "base_id": 14565,
+    "base_name": "J. L. M.",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "J. L. M.",
+      "base_id": 14565,
+      "base_name": "J. L. M.",
+      "rem_ids": [
+        2861,
+        2835,
+        2870
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 11,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": []
+    }
+  },
+  "Jloc": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:18:09.718408",
+    "base_id": 14566,
+    "base_name": "Jloc",
+    "rems_processed": 4,
+    "stats": {
+      "group_name": "Jloc",
+      "base_id": 14566,
+      "base_name": "Jloc",
+      "rem_ids": [
+        2862,
+        2863,
+        6005,
+        8617
+      ],
+      "miniatures_moved": 25,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar miniature 12125 \u00e0 BASE 14566",
+        "Falha ao adicionar miniature 11447 \u00e0 BASE 14566",
+        "Falha ao adicionar driver 5184 \u00e0 BASE 14566",
+        "Falha ao adicionar driver 5246 \u00e0 BASE 14566",
+        "REM 2862 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "J. P. Motorsports": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:18:54.699264",
+    "base_id": 14567,
+    "base_name": "J. P. Motorsports",
+    "rems_processed": 6,
+    "stats": {
+      "group_name": "J. P. Motorsports",
+      "base_id": 14567,
+      "base_name": "J. P. Motorsports",
+      "rem_ids": [
+        2865,
+        5753,
+        2878,
+        2885,
+        1136,
+        3218
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 32,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": [
+        "Falha ao adicionar driver 5541 \u00e0 BASE 14567",
+        "Falha ao adicionar driver 4149 \u00e0 BASE 14567",
+        "REM 2885 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "One": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:19:27.457586",
+    "base_id": 9776,
+    "base_name": "One",
+    "rems_processed": 4,
+    "stats": {
+      "group_name": "One",
+      "base_id": 9776,
+      "base_name": "One",
+      "rem_ids": [
+        2595,
+        4134,
+        4793,
+        8813
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 19,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 5528 \u00e0 BASE 9776",
+        "Falha ao adicionar driver 5332 \u00e0 BASE 9776",
+        "REM 4793 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Hofor Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:19:33.926470",
+    "base_id": 2645,
+    "base_name": "Hofor Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Hofor Racing",
+      "base_id": 2645,
+      "base_name": "Hofor Racing",
+      "rem_ids": [
+        2646
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Imsa-Camel": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:19:43.807754",
+    "base_id": 14568,
+    "base_name": "Imsa-Camel",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Imsa-Camel",
+      "base_id": 14568,
+      "base_name": "Imsa-Camel",
+      "rem_ids": [
+        2737
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "General": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:19:49.954859",
+    "base_id": 8351,
+    "base_name": "General",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "General",
+      "base_id": 8351,
+      "base_name": "General",
+      "rem_ids": [
+        90
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "A. W. A.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:20:07.408911",
+    "base_id": 14569,
+    "base_name": "A. W. A.",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "A. W. A.",
+      "base_id": 14569,
+      "base_name": "A. W. A.",
+      "rem_ids": [
+        95,
+        267
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 12,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 5684 \u00e0 BASE 14569",
+        "Falha ao adicionar driver 4785 \u00e0 BASE 14569",
+        "REM 267 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Excelsior": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:20:15.339664",
+    "base_id": 1996,
+    "base_name": "Excelsior",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Excelsior",
+      "base_id": 1996,
+      "base_name": "Excelsior",
+      "rem_ids": [
+        1358
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 5189 \u00e0 BASE 1996",
+        "REM 1358 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Competisport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:20:16.096710",
+    "base_id": 1361,
+    "base_name": "Competisport",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Competisport",
+      "base_id": 1361,
+      "base_name": "Competisport",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Audi": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:21:08.578619",
+    "base_id": 7030,
+    "base_name": "Audi",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Audi",
+      "base_id": 7030,
+      "base_name": "Audi",
+      "rem_ids": [
+        1368,
+        1371,
+        576,
+        1354,
+        7031
+      ],
+      "miniatures_moved": 26,
+      "drivers_moved": 11,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": []
+    }
+  },
+  "Cupra": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:21:55.634150",
+    "base_id": 11298,
+    "base_name": "Cupra",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Cupra",
+      "base_id": 11298,
+      "base_name": "Cupra",
+      "rem_ids": [
+        1369,
+        1370,
+        1486,
+        1454,
+        5971
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 30,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4898 \u00e0 BASE 11298",
+        "Falha ao adicionar driver 5721 \u00e0 BASE 11298",
+        "Falha ao adicionar driver 4212 \u00e0 BASE 11298",
+        "REM 1370 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5350 \u00e0 BASE 11298",
+        "REM 1486 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Conquest Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:22:02.208063",
+    "base_id": 1377,
+    "base_name": "Conquest Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Conquest Racing",
+      "base_id": 1377,
+      "base_name": "Conquest Racing",
+      "rem_ids": [
+        3719
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Conrero": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:22:33.798068",
+    "base_id": 1379,
+    "base_name": "Conrero",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Conrero",
+      "base_id": 1379,
+      "base_name": "Conrero",
+      "rem_ids": [
+        5534,
+        6619,
+        11726,
+        12408,
+        13048
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": []
+    }
+  },
+  "Continental": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:22:51.856790",
+    "base_id": 8209,
+    "base_name": "Continental",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Continental",
+      "base_id": 8209,
+      "base_name": "Continental",
+      "rem_ids": [
+        1380,
+        5412,
+        5413
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": []
+    }
+  },
+  "Champion": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:23:32.219297",
+    "base_id": 7133,
+    "base_name": "Champion",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Champion",
+      "base_id": 7133,
+      "base_name": "Champion",
+      "rem_ids": [
+        1384,
+        1259
+      ],
+      "miniatures_moved": 10,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 11173 \u00e0 BASE 7133",
+        "Falha ao adicionar miniature 12814 \u00e0 BASE 7133",
+        "Falha ao adicionar miniature 11004 \u00e0 BASE 7133",
+        "Falha ao adicionar miniature 30630 \u00e0 BASE 7133",
+        "REM 1259 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Master": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:24:20.538704",
+    "base_id": 7513,
+    "base_name": "Master",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Master",
+      "base_id": 7513,
+      "base_name": "Master",
+      "rem_ids": [
+        1398,
+        6792,
+        6820
+      ],
+      "miniatures_moved": 25,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4123 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4193 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4244 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4378 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4323 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4435 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4767 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4939 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4940 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5054 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5391 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5648 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5532 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5202 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5888 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5981 \u00e0 BASE 7513",
+        "REM 6792 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5287 \u00e0 BASE 7513",
+        "REM 6820 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Corsa": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:24:44.878849",
+    "base_id": 14033,
+    "base_name": "Corsa",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Corsa",
+      "base_id": 14033,
+      "base_name": "Corsa",
+      "rem_ids": [
+        1399,
+        1413
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 18,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4876 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 5222 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 4699 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 4208 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 4078 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 5260 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 5313 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 5759 \u00e0 BASE 14033",
+        "REM 1413 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Cosway Motorcycles": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:24:45.612333",
+    "base_id": 1405,
+    "base_name": "Cosway Motorcycles",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Cosway Motorcycles",
+      "base_id": 1405,
+      "base_name": "Cosway Motorcycles",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Cowman Racing": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:24:58.259929",
+    "base_id": 1408,
+    "base_name": "Cowman Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Cowman Racing",
+      "base_id": 1408,
+      "base_name": "Cowman Racing",
+      "rem_ids": [
+        989
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar miniature 32557 \u00e0 BASE 1408",
+        "REM 989 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Cranfield Automotive Management": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:25:00.294865",
+    "base_id": 1415,
+    "base_name": "Cranfield Automotive Management",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Cranfield Automotive Management",
+      "base_id": 1415,
+      "base_name": "Cranfield Automotive Management",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Crawford Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:25:05.249716",
+    "base_id": 1416,
+    "base_name": "Crawford Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Crawford Racing",
+      "base_id": 1416,
+      "base_name": "Crawford Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Creation": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:25:15.218020",
+    "base_id": 13428,
+    "base_name": "Creation",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Creation",
+      "base_id": 13428,
+      "base_name": "Creation",
+      "rem_ids": [
+        1417
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Creation Autosportif": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:25:16.198910",
+    "base_id": 1418,
+    "base_name": "Creation Autosportif",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Creation Autosportif",
+      "base_id": 1418,
+      "base_name": "Creation Autosportif",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Creation-Cope Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:25:16.911338",
+    "base_id": 1419,
+    "base_name": "Creation-Cope Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Creation-Cope Racing",
+      "base_id": 1419,
+      "base_name": "Creation-Cope Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Crosslink/kiwi Motorsport": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:25:36.862586",
+    "base_id": 14570,
+    "base_name": "Crosslink/kiwi Motorsport",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Crosslink/kiwi Motorsport",
+      "base_id": 14570,
+      "base_name": "Crosslink/kiwi Motorsport",
+      "rem_ids": [
+        1427
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 21,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4744 \u00e0 BASE 14570",
+        "Falha ao adicionar driver 4729 \u00e0 BASE 14570",
+        "Falha ao adicionar driver 5908 \u00e0 BASE 14570",
+        "REM 1427 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Crucial Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:25:37.533986",
+    "base_id": 1435,
+    "base_name": "Crucial Motorsports",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Crucial Motorsports",
+      "base_id": 1435,
+      "base_name": "Crucial Motorsports",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Culture & Sport Qatar Rally Team": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:25:38.269018",
+    "base_id": 1441,
+    "base_name": "Culture & Sport Qatar Rally Team",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Culture & Sport Qatar Rally Team",
+      "base_id": 1441,
+      "base_name": "Culture & Sport Qatar Rally Team",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "E. K. S.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:25:53.867664",
+    "base_id": 14571,
+    "base_name": "E. K. S.",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "E. K. S.",
+      "base_id": 14571,
+      "base_name": "E. K. S.",
+      "rem_ids": [
+        1443,
+        1750
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4190 \u00e0 BASE 14571",
+        "REM 1443 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Curb Agajanian Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:25:54.526740",
+    "base_id": 1445,
+    "base_name": "Curb Agajanian Motorsports",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Curb Agajanian Motorsports",
+      "base_id": 1445,
+      "base_name": "Curb Agajanian Motorsports",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Curb Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:26:14.128604",
+    "base_id": 1447,
+    "base_name": "Curb Racing",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Curb Racing",
+      "base_id": 1447,
+      "base_name": "Curb Racing",
+      "rem_ids": [
+        804,
+        1439,
+        14091
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": []
+    }
+  },
+  "Curb-Agajanian/beck Motorsport": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:26:27.912846",
+    "base_id": 14572,
+    "base_name": "Curb-Agajanian/beck Motorsport",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Curb-Agajanian/beck Motorsport",
+      "base_id": 14572,
+      "base_name": "Curb-Agajanian/beck Motorsport",
+      "rem_ids": [
+        1448,
+        1154
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4727 \u00e0 BASE 14572",
+        "REM 1154 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Heart Of Racing Team": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:26:41.117299",
+    "base_id": 14573,
+    "base_name": "Heart Of Racing Team",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Heart Of Racing Team",
+      "base_id": 14573,
+      "base_name": "Heart Of Racing Team",
+      "rem_ids": [
+        2588
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 12,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4815 \u00e0 BASE 14573",
+        "Falha ao adicionar miniature 11296 \u00e0 BASE 14573",
+        "REM 2588 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Heico": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:26:49.210073",
+    "base_id": 13202,
+    "base_name": "Heico",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Heico",
+      "base_id": 13202,
+      "base_name": "Heico",
+      "rem_ids": [
+        2591
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4950 \u00e0 BASE 13202",
+        "REM 2591 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Heidelberg Honda S. R. T.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:26:55.795124",
+    "base_id": 14574,
+    "base_name": "Heidelberg Honda S. R. T.",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Heidelberg Honda S. R. T.",
+      "base_id": 14574,
+      "base_name": "Heidelberg Honda S. R. T.",
+      "rem_ids": [
+        2592
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Meyer Shank": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:27:38.475270",
+    "base_id": 7528,
+    "base_name": "Meyer Shank",
+    "rems_processed": 4,
+    "stats": {
+      "group_name": "Meyer Shank",
+      "base_id": 7528,
+      "base_name": "Meyer Shank",
+      "rem_ids": [
+        2593,
+        3717,
+        11263,
+        9966
+      ],
+      "miniatures_moved": 22,
+      "drivers_moved": 10,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5115 \u00e0 BASE 7528",
+        "Falha ao adicionar driver 5076 \u00e0 BASE 7528",
+        "Falha ao adicionar driver 4996 \u00e0 BASE 7528",
+        "REM 2593 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 12034 \u00e0 BASE 7528",
+        "Falha ao adicionar miniature 11112 \u00e0 BASE 7528",
+        "Falha ao adicionar miniature 13318 \u00e0 BASE 7528",
+        "REM 3717 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Helm Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:27:52.067732",
+    "base_id": 14575,
+    "base_name": "Helm Motorsports",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Helm Motorsports",
+      "base_id": 14575,
+      "base_name": "Helm Motorsports",
+      "rem_ids": [
+        2597,
+        2499
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Henderson Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:27:52.707473",
+    "base_id": 2603,
+    "base_name": "Henderson Motorsports",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Henderson Motorsports",
+      "base_id": 2603,
+      "base_name": "Henderson Motorsports",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Hendrick Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:27:53.353670",
+    "base_id": 2604,
+    "base_name": "Hendrick Motorsports",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hendrick Motorsports",
+      "base_id": 2604,
+      "base_name": "Hendrick Motorsports",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Herbert Motorsport": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:28:34.226747",
+    "base_id": 2609,
+    "base_name": "Herbert Motorsport",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Herbert Motorsport",
+      "base_id": 2609,
+      "base_name": "Herbert Motorsport",
+      "rem_ids": [
+        2610,
+        4504,
+        10832
+      ],
+      "miniatures_moved": 20,
+      "drivers_moved": 21,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4967 \u00e0 BASE 2609",
+        "Falha ao adicionar driver 5651 \u00e0 BASE 2609",
+        "REM 2610 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Herczig Rallye Sport Kft.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:28:34.953645",
+    "base_id": 2611,
+    "base_name": "Herczig Rallye Sport Kft.",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Herczig Rallye Sport Kft.",
+      "base_id": 2611,
+      "base_name": "Herczig Rallye Sport Kft.",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Heron": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:29:10.773892",
+    "base_id": 9982,
+    "base_name": "Heron",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Heron",
+      "base_id": 9982,
+      "base_name": "Heron",
+      "rem_ids": [
+        2613,
+        5661
+      ],
+      "miniatures_moved": 18,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 12214 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 12210 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 12207 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 12208 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 10062 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 10080 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 13452 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 3970 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4114 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4268 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4420 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4368 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4429 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4968 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4945 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5130 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5220 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5348 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5416 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5367 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5744 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5729 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5770 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5947 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5804 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5955 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5983 \u00e0 BASE 9982",
+        "REM 5661 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Herrero Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:29:11.438955",
+    "base_id": 2615,
+    "base_name": "Herrero Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Herrero Racing",
+      "base_id": 2615,
+      "base_name": "Herrero Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Jota": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:30:20.453881",
+    "base_id": 14576,
+    "base_name": "Jota",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Jota",
+      "base_id": 14576,
+      "base_name": "Jota",
+      "rem_ids": [
+        2616,
+        2875,
+        7354,
+        6012,
+        14477
+      ],
+      "miniatures_moved": 37,
+      "drivers_moved": 22,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5789 \u00e0 BASE 14576",
+        "Falha ao adicionar miniature 6197 \u00e0 BASE 14576",
+        "REM 2616 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Hexis Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:30:58.193186",
+    "base_id": 2620,
+    "base_name": "Hexis Racing",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Hexis Racing",
+      "base_id": 2620,
+      "base_name": "Hexis Racing",
+      "rem_ids": [
+        2621,
+        204,
+        230,
+        3476,
+        3420
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": []
+    }
+  },
+  "Performance": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:31:05.338281",
+    "base_id": 10334,
+    "base_name": "Performance",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Performance",
+      "base_id": 10334,
+      "base_name": "Performance",
+      "rem_ids": [
+        2625
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Hillenburg Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:31:05.967218",
+    "base_id": 2629,
+    "base_name": "Hillenburg Motorsports",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hillenburg Motorsports",
+      "base_id": 2629,
+      "base_name": "Hillenburg Motorsports",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Hillin Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:31:06.680219",
+    "base_id": 2630,
+    "base_name": "Hillin Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hillin Racing",
+      "base_id": 2630,
+      "base_name": "Hillin Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Hoff Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:31:07.358985",
+    "base_id": 2644,
+    "base_name": "Hoff Motorsports",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hoff Motorsports",
+      "base_id": 2644,
+      "base_name": "Hoff Motorsports",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Challenge": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:31:13.756916",
+    "base_id": 7130,
+    "base_name": "Challenge",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Challenge",
+      "base_id": 7130,
+      "base_name": "Challenge",
+      "rem_ids": [
+        2648
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Holbert Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:31:21.173783",
+    "base_id": 2649,
+    "base_name": "Holbert Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Holbert Racing",
+      "base_id": 2649,
+      "base_name": "Holbert Racing",
+      "rem_ids": [
+        11947
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Dealer": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:31:33.443063",
+    "base_id": 8763,
+    "base_name": "Dealer",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Dealer",
+      "base_id": 8763,
+      "base_name": "Dealer",
+      "rem_ids": [
+        2661,
+        10954
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "France": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:31:39.473760",
+    "base_id": 7291,
+    "base_name": "France",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "France",
+      "base_id": 7291,
+      "base_name": "France",
+      "rem_ids": [
+        2663
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Castrol": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:32:17.430889",
+    "base_id": 7122,
+    "base_name": "Castrol",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "Castrol",
+      "base_id": 7122,
+      "base_name": "Castrol",
+      "rem_ids": [
+        2666,
+        2665,
+        1223,
+        1105,
+        3214
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4580 \u00e0 BASE 7122",
+        "REM 2666 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4013 \u00e0 BASE 7122",
+        "REM 1223 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Honda Joe Darcey": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:32:18.179927",
+    "base_id": 2667,
+    "base_name": "Honda Joe Darcey",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Honda Joe Darcey",
+      "base_id": 2667,
+      "base_name": "Honda Joe Darcey",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Honda Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:32:30.675260",
+    "base_id": 2670,
+    "base_name": "Honda Racing",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Honda Racing",
+      "base_id": 2670,
+      "base_name": "Honda Racing",
+      "rem_ids": [
+        2671,
+        14146
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Asia": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:32:50.037128",
+    "base_id": 11839,
+    "base_name": "Asia",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Asia",
+      "base_id": 11839,
+      "base_name": "Asia",
+      "rem_ids": [
+        2675,
+        2758
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 22,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4216 \u00e0 BASE 11839",
+        "Falha ao adicionar driver 5164 \u00e0 BASE 11839",
+        "REM 2675 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5164 \u00e0 BASE 11839",
+        "REM 2758 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Wall Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:32:55.739820",
+    "base_id": 6687,
+    "base_name": "Wall Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Wall Racing",
+      "base_id": 6687,
+      "base_name": "Wall Racing",
+      "rem_ids": [
+        2676
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Honda World Superbike Team": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:33:13.252330",
+    "base_id": 2677,
+    "base_name": "Honda World Superbike Team",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Honda World Superbike Team",
+      "base_id": 2677,
+      "base_name": "Honda World Superbike Team",
+      "rem_ids": [
+        4315,
+        4891,
+        6447
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": []
+    }
+  },
+  "Hoonigan": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:33:19.614587",
+    "base_id": 8506,
+    "base_name": "Hoonigan",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Hoonigan",
+      "base_id": 8506,
+      "base_name": "Hoonigan",
+      "rem_ids": [
+        2678
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Hubauto Corsa": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:33:26.338255",
+    "base_id": 14577,
+    "base_name": "Hubauto Corsa",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Hubauto Corsa",
+      "base_id": 14577,
+      "base_name": "Hubauto Corsa",
+      "rem_ids": [
+        2697
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Hutto Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:33:27.072053",
+    "base_id": 2706,
+    "base_name": "Hutto Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hutto Racing",
+      "base_id": 2706,
+      "base_name": "Hutto Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Hybrid R&d": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:33:33.921561",
+    "base_id": 14578,
+    "base_name": "Hybrid R&d",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Hybrid R&d",
+      "base_id": 14578,
+      "base_name": "Hybrid R&d",
+      "rem_ids": [
+        2709
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Hyundai Canarias Motorsport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:33:34.600697",
+    "base_id": 2713,
+    "base_name": "Hyundai Canarias Motorsport",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hyundai Canarias Motorsport",
+      "base_id": 2713,
+      "base_name": "Hyundai Canarias Motorsport",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Icar Canada Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:33:41.156321",
+    "base_id": 14579,
+    "base_name": "Icar Canada Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Icar Canada Racing",
+      "base_id": 14579,
+      "base_name": "Icar Canada Racing",
+      "rem_ids": [
+        2726
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "S. C. I.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:33:53.198704",
+    "base_id": 14580,
+    "base_name": "S. C. I.",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "S. C. I.",
+      "base_id": 14580,
+      "base_name": "S. C. I.",
+      "rem_ids": [
+        2727,
+        5134
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "R. L. L.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:34:40.562056",
+    "base_id": 14581,
+    "base_name": "R. L. L.",
+    "rems_processed": 4,
+    "stats": {
+      "group_name": "R. L. L.",
+      "base_id": 14581,
+      "base_name": "R. L. L.",
+      "rem_ids": [
+        2732,
+        3215,
+        7671,
+        11680
+      ],
+      "miniatures_moved": 29,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": []
+    }
+  },
+  "Imsa": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:35:17.697527",
+    "base_id": 14582,
+    "base_name": "Imsa",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Imsa",
+      "base_id": 14582,
+      "base_name": "Imsa",
+      "rem_ids": [
+        2735,
+        9308,
+        2736
+      ],
+      "miniatures_moved": 16,
+      "drivers_moved": 17,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": []
+    }
+  },
+  "Italjet": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:35:25.238225",
+    "base_id": 11805,
+    "base_name": "Italjet",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Italjet",
+      "base_id": 11805,
+      "base_name": "Italjet",
+      "rem_ids": [
+        2746
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4469 \u00e0 BASE 11805",
+        "REM 2746 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Ian Khan": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:35:25.966413",
+    "base_id": 2751,
+    "base_name": "Ian Khan",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Ian Khan",
+      "base_id": 2751,
+      "base_name": "Ian Khan",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Ibanez Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:35:26.634134",
+    "base_id": 2753,
+    "base_name": "Ibanez Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Ibanez Racing",
+      "base_id": 2753,
+      "base_name": "Ibanez Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Icari Rally Team": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:35:27.370496",
+    "base_id": 2754,
+    "base_name": "Icari Rally Team",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Icari Rally Team",
+      "base_id": 2754,
+      "base_name": "Icari Rally Team",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Pol Racing": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:35:53.085530",
+    "base_id": 14583,
+    "base_name": "Pol Racing",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Pol Racing",
+      "base_id": 14583,
+      "base_name": "Pol Racing",
+      "rem_ids": [
+        2755,
+        12394,
+        12395
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5093 \u00e0 BASE 14583",
+        "REM 2755 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Immonen Motorsport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:35:53.779144",
+    "base_id": 2766,
+    "base_name": "Immonen Motorsport",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Immonen Motorsport",
+      "base_id": 2766,
+      "base_name": "Immonen Motorsport",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Inalter": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:36:08.639717",
+    "base_id": 12449,
+    "base_name": "Inalter",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Inalter",
+      "base_id": 12449,
+      "base_name": "Inalter",
+      "rem_ids": [
+        2775,
+        9621
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Inception Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:36:09.326788",
+    "base_id": 2776,
+    "base_name": "Inception Motorsports",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Inception Motorsports",
+      "base_id": 2776,
+      "base_name": "Inception Motorsports",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Inging Motorsport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:36:10.122222",
+    "base_id": 2783,
+    "base_name": "Inging Motorsport",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Inging Motorsport",
+      "base_id": 2783,
+      "base_name": "Inging Motorsport",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Innovative Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:36:10.814903",
+    "base_id": 2784,
+    "base_name": "Innovative Motorsports",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Innovative Motorsports",
+      "base_id": 2784,
+      "base_name": "Innovative Motorsports",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Inspire Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:36:11.467772",
+    "base_id": 2788,
+    "base_name": "Inspire Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Inspire Racing",
+      "base_id": 2788,
+      "base_name": "Inspire Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Inter Europol Competition": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:36:12.119903",
+    "base_id": 2790,
+    "base_name": "Inter Europol Competition",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Inter Europol Competition",
+      "base_id": 2790,
+      "base_name": "Inter Europol Competition",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "International Draco Racing": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:36:24.576588",
+    "base_id": 2793,
+    "base_name": "International Draco Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "International Draco Racing",
+      "base_id": 2793,
+      "base_name": "International Draco Racing",
+      "rem_ids": [
+        3583
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4947 \u00e0 BASE 2793",
+        "REM 3583 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Interwetten Racing Team": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:36:25.279758",
+    "base_id": 2801,
+    "base_name": "Interwetten Racing Team",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Interwetten Racing Team",
+      "base_id": 2801,
+      "base_name": "Interwetten Racing Team",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Invicta": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:36:31.479016",
+    "base_id": 10033,
+    "base_name": "Invicta",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Invicta",
+      "base_id": 10033,
+      "base_name": "Invicta",
+      "rem_ids": [
+        2805
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Project": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:36:44.599295",
+    "base_id": 8411,
+    "base_name": "Project",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Project",
+      "base_id": 8411,
+      "base_name": "Project",
+      "rem_ids": [
+        2808,
+        1174
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 5951 \u00e0 BASE 8411",
+        "REM 2808 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Proton": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:37:25.217966",
+    "base_id": 7657,
+    "base_name": "Proton",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Proton",
+      "base_id": 7657,
+      "base_name": "Proton",
+      "rem_ids": [
+        2813,
+        2812
+      ],
+      "miniatures_moved": 22,
+      "drivers_moved": 24,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 13342 \u00e0 BASE 7657",
+        "Falha ao adicionar miniature 13177 \u00e0 BASE 7657",
+        "Falha ao adicionar miniature 13343 \u00e0 BASE 7657",
+        "Falha ao adicionar driver 4718 \u00e0 BASE 7657",
+        "Falha ao adicionar driver 4641 \u00e0 BASE 7657",
+        "Falha ao adicionar driver 5302 \u00e0 BASE 7657",
+        "Falha ao adicionar driver 5432 \u00e0 BASE 7657",
+        "Falha ao adicionar driver 5246 \u00e0 BASE 7657",
+        "REM 2812 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Isler Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:37:25.880205",
+    "base_id": 2816,
+    "base_name": "Isler Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Isler Racing",
+      "base_id": 2816,
+      "base_name": "Isler Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "J. A. Gr\u00e9goire": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:37:26.528527",
+    "base_id": 2830,
+    "base_name": "J. A. Gr\u00e9goire",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "J. A. Gr\u00e9goire",
+      "base_id": 2830,
+      "base_name": "J. A. Gr\u00e9goire",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "J.-C. Bamford Excavators Ltd.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:37:27.185870",
+    "base_id": 2832,
+    "base_name": "J.-C. Bamford Excavators Ltd.",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "J.-C. Bamford Excavators Ltd.",
+      "base_id": 2832,
+      "base_name": "J.-C. Bamford Excavators Ltd.",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "D'Antin": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:37:40.579263",
+    "base_id": 14584,
+    "base_name": "D'Antin",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "D'Antin",
+      "base_id": 14584,
+      "base_name": "D'Antin",
+      "rem_ids": [
+        1455,
+        13854
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "A&s Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:37:53.248851",
+    "base_id": 14585,
+    "base_name": "A&s Racing",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "A&s Racing",
+      "base_id": 14585,
+      "base_name": "A&s Racing",
+      "rem_ids": [
+        92,
+        2829
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "A.-Level Engineering": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:38:04.875351",
+    "base_id": 14586,
+    "base_name": "A.-Level Engineering",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "A.-Level Engineering",
+      "base_id": 14586,
+      "base_name": "A.-Level Engineering",
+      "rem_ids": [
+        93
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "A. C. Alcalans": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:38:21.995998",
+    "base_id": 14587,
+    "base_name": "A. C. Alcalans",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "A. C. Alcalans",
+      "base_id": 14587,
+      "base_name": "A. C. Alcalans",
+      "rem_ids": [
+        96
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Compass Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:38:29.542956",
+    "base_id": 1359,
+    "base_name": "Compass Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Compass Racing",
+      "base_id": 1359,
+      "base_name": "Compass Racing",
+      "rem_ids": [
+        1360
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Competitive Edge Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:38:30.322345",
+    "base_id": 1362,
+    "base_name": "Competitive Edge Motorsports",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Competitive Edge Motorsports",
+      "base_id": 1362,
+      "base_name": "Competitive Edge Motorsports",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Complete Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:38:31.080456",
+    "base_id": 1363,
+    "base_name": "Complete Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Complete Racing",
+      "base_id": 1363,
+      "base_name": "Complete Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Comprep Competition Preparati": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:38:31.772292",
+    "base_id": 1366,
+    "base_name": "Comprep Competition Preparati",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Comprep Competition Preparati",
+      "base_id": 1366,
+      "base_name": "Comprep Competition Preparati",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Conegliano": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:38:32.463520",
+    "base_id": 1375,
+    "base_name": "Conegliano",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Conegliano",
+      "base_id": 1375,
+      "base_name": "Conegliano",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Conely Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:38:33.155771",
+    "base_id": 1376,
+    "base_name": "Conely Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Conely Racing",
+      "base_id": 1376,
+      "base_name": "Conely Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Conrad Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:38:33.858803",
+    "base_id": 1378,
+    "base_name": "Conrad Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Conrad Racing",
+      "base_id": 1378,
+      "base_name": "Conrad Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Copi Sport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:38:34.538506",
+    "base_id": 1392,
+    "base_name": "Copi Sport",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Copi Sport",
+      "base_id": 1392,
+      "base_name": "Copi Sport",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Copp Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:38:35.172914",
+    "base_id": 1393,
+    "base_name": "Copp Motorsports",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Copp Motorsports",
+      "base_id": 1393,
+      "base_name": "Copp Motorsports",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Coronas Suzuki Motorrad": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:38:35.889878",
+    "base_id": 1397,
+    "base_name": "Coronas Suzuki Motorrad",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Coronas Suzuki Motorrad",
+      "base_id": 1397,
+      "base_name": "Coronas Suzuki Motorrad",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Corvette": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:39:16.027698",
+    "base_id": 7173,
+    "base_name": "Corvette",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Corvette",
+      "base_id": 7173,
+      "base_name": "Corvette",
+      "rem_ids": [
+        1402,
+        1403
+      ],
+      "miniatures_moved": 19,
+      "drivers_moved": 24,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar miniature 5969 \u00e0 BASE 7173",
+        "Falha ao adicionar miniature 5974 \u00e0 BASE 7173",
+        "Falha ao adicionar miniature 11115 \u00e0 BASE 7173",
+        "Falha ao adicionar miniature 11113 \u00e0 BASE 7173",
+        "Falha ao adicionar miniature 11120 \u00e0 BASE 7173",
+        "Falha ao adicionar miniature 10760 \u00e0 BASE 7173",
+        "Falha ao adicionar driver 4633 \u00e0 BASE 7173",
+        "Falha ao adicionar driver 4828 \u00e0 BASE 7173",
+        "Falha ao adicionar driver 5541 \u00e0 BASE 7173",
+        "Falha ao adicionar driver 5797 \u00e0 BASE 7173",
+        "REM 1402 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4867 \u00e0 BASE 7173",
+        "Falha ao adicionar driver 5797 \u00e0 BASE 7173",
+        "REM 1403 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Cosmo Hairstyling": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:39:16.780704",
+    "base_id": 1404,
+    "base_name": "Cosmo Hairstyling",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Cosmo Hairstyling",
+      "base_id": 1404,
+      "base_name": "Cosmo Hairstyling",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Courage": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:39:40.729547",
+    "base_id": 7177,
+    "base_name": "Courage",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Courage",
+      "base_id": 7177,
+      "base_name": "Courage",
+      "rem_ids": [
+        1407,
+        14411
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 18,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4260 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 4838 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 4669 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 4349 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 5156 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 5266 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 5443 \u00e0 BASE 7177",
+        "REM 1407 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Cp Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:39:46.948079",
+    "base_id": 1409,
+    "base_name": "Cp Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Cp Racing",
+      "base_id": 1409,
+      "base_name": "Cp Racing",
+      "rem_ids": [
+        12155
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Cram Competition": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:39:47.694077",
+    "base_id": 1412,
+    "base_name": "Cram Competition",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Cram Competition",
+      "base_id": 1412,
+      "base_name": "Cram Competition",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "B. M. W.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:40:31.054254",
+    "base_id": 14588,
+    "base_name": "B. M. W.",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "B. M. W.",
+      "base_id": 14588,
+      "base_name": "B. M. W.",
+      "rem_ids": [
+        1432,
+        17
+      ],
+      "miniatures_moved": 25,
+      "drivers_moved": 17,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Crubile Sport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:40:31.776555",
+    "base_id": 1434,
+    "base_name": "Crubile Sport",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Crubile Sport",
+      "base_id": 1434,
+      "base_name": "Crubile Sport",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Cruzinc Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:40:32.453426",
+    "base_id": 1436,
+    "base_name": "Cruzinc Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Cruzinc Racing",
+      "base_id": 1436,
+      "base_name": "Cruzinc Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Cryptotower Racing Team": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:40:41.838344",
+    "base_id": 14589,
+    "base_name": "Cryptotower Racing Team",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Cryptotower Racing Team",
+      "base_id": 14589,
+      "base_name": "Cryptotower Racing Team",
+      "rem_ids": [
+        1437
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 10,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Crypton Engineering": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:40:42.523518",
+    "base_id": 1438,
+    "base_name": "Crypton Engineering",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Crypton Engineering",
+      "base_id": 1438,
+      "base_name": "Crypton Engineering",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Curb Agajanian Performance Group": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:40:43.292166",
+    "base_id": 1446,
+    "base_name": "Curb Agajanian Performance Group",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Curb Agajanian Performance Group",
+      "base_id": 1446,
+      "base_name": "Curb Agajanian Performance Group",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Cyan Performance Lynk & Co": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:40:44.012788",
+    "base_id": 1450,
+    "base_name": "Cyan Performance Lynk & Co",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Cyan Performance Lynk & Co",
+      "base_id": 1450,
+      "base_name": "Cyan Performance Lynk & Co",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Cyclerep": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:40:44.745769",
+    "base_id": 1452,
+    "base_name": "Cyclerep",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Cyclerep",
+      "base_id": 1452,
+      "base_name": "Cyclerep",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Hearn Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:40:45.417391",
+    "base_id": 2587,
+    "base_name": "Hearn Motorsports",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hearn Motorsports",
+      "base_id": 2587,
+      "base_name": "Hearn Motorsports",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Hedstr\u00f8ms Motorsport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:40:46.132637",
+    "base_id": 2590,
+    "base_name": "Hedstr\u00f8ms Motorsport",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hedstr\u00f8ms Motorsport",
+      "base_id": 2590,
+      "base_name": "Hedstr\u00f8ms Motorsport",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Marko": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:40:58.208928",
+    "base_id": 9606,
+    "base_name": "Marko",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Marko",
+      "base_id": 9606,
+      "base_name": "Marko",
+      "rem_ids": [
+        2598,
+        13792
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Hemelgarn/racing Professionals": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:41:04.946790",
+    "base_id": 14590,
+    "base_name": "Hemelgarn/racing Professionals",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Hemelgarn/racing Professionals",
+      "base_id": 14590,
+      "base_name": "Hemelgarn/racing Professionals",
+      "rem_ids": [
+        2601
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Henderson Brothers Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:41:05.677088",
+    "base_id": 2602,
+    "base_name": "Henderson Brothers Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Henderson Brothers Racing",
+      "base_id": 2602,
+      "base_name": "Henderson Brothers Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Hill": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:41:30.298553",
+    "base_id": 11100,
+    "base_name": "Hill",
+    "rems_processed": 4,
+    "stats": {
+      "group_name": "Hill",
+      "base_id": 11100,
+      "base_name": "Hill",
+      "rem_ids": [
+        2628,
+        3025,
+        3529,
+        2546
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 12,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 3987 \u00e0 BASE 11100",
+        "REM 3529 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Hillman": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:41:38.252643",
+    "base_id": 9552,
+    "base_name": "Hillman",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Hillman",
+      "base_id": 9552,
+      "base_name": "Hillman",
+      "rem_ids": [
+        2631
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Hillspeed": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:41:38.914491",
+    "base_id": 2632,
+    "base_name": "Hillspeed",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hillspeed",
+      "base_id": 2632,
+      "base_name": "Hillspeed",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Hitech Gp": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:41:53.563313",
+    "base_id": 14591,
+    "base_name": "Hitech Gp",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Hitech Gp",
+      "base_id": 14591,
+      "base_name": "Hitech Gp",
+      "rem_ids": [
+        2635,
+        2636
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 9,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4801 \u00e0 BASE 14591",
+        "REM 2635 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Grand Prix": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:42:12.388930",
+    "base_id": 14592,
+    "base_name": "Grand Prix",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Grand Prix",
+      "base_id": 14592,
+      "base_name": "Grand Prix",
+      "rem_ids": [
+        2637,
+        13856
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4752 \u00e0 BASE 14592",
+        "REM 2637 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Hitech Pulse-Eight": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:42:13.121960",
+    "base_id": 2638,
+    "base_name": "Hitech Pulse-Eight",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hitech Pulse-Eight",
+      "base_id": 2638,
+      "base_name": "Hitech Pulse-Eight",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Hitotsuyama": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:42:27.483961",
+    "base_id": 8467,
+    "base_name": "Hitotsuyama",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Hitotsuyama",
+      "base_id": 8467,
+      "base_name": "Hitotsuyama",
+      "rem_ids": [
+        2642,
+        13773
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Hobbs Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:42:28.230398",
+    "base_id": 2643,
+    "base_name": "Hobbs Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hobbs Racing",
+      "base_id": 2643,
+      "base_name": "Hobbs Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Holder": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:42:34.914905",
+    "base_id": 11273,
+    "base_name": "Holder",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Holder",
+      "base_id": 11273,
+      "base_name": "Holder",
+      "rem_ids": [
+        2650
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Althea Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:42:52.364946",
+    "base_id": 396,
+    "base_name": "Althea Racing",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Althea Racing",
+      "base_id": 396,
+      "base_name": "Althea Racing",
+      "rem_ids": [
+        2655,
+        3454
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Q.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:43:23.370168",
+    "base_id": 14593,
+    "base_name": "Q.",
+    "rems_processed": 4,
+    "stats": {
+      "group_name": "Q.",
+      "base_id": 14593,
+      "base_name": "Q.",
+      "rem_ids": [
+        2657,
+        4671,
+        7661,
+        9139
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar miniature 30868 \u00e0 BASE 14593",
+        "REM 9139 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Honda Britain": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:43:35.069339",
+    "base_id": 2659,
+    "base_name": "Honda Britain",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Honda Britain",
+      "base_id": 2659,
+      "base_name": "Honda Britain",
+      "rem_ids": [
+        2576,
+        6058
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Honda Mayerhofer": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:43:35.825623",
+    "base_id": 2668,
+    "base_name": "Honda Mayerhofer",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Honda Mayerhofer",
+      "base_id": 2668,
+      "base_name": "Honda Mayerhofer",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Honda Motor Co. Ltd.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:43:36.536160",
+    "base_id": 2669,
+    "base_name": "Honda Motor Co. Ltd.",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Honda Motor Co. Ltd.",
+      "base_id": 2669,
+      "base_name": "Honda Motor Co. Ltd.",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Uk": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:43:47.516452",
+    "base_id": 10573,
+    "base_name": "Uk",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Uk",
+      "base_id": 10573,
+      "base_name": "Uk",
+      "rem_ids": [
+        2673
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 5447 \u00e0 BASE 10573",
+        "REM 2673 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Tsuchiya": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:43:53.565605",
+    "base_id": 8087,
+    "base_name": "Tsuchiya",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Tsuchiya",
+      "base_id": 8087,
+      "base_name": "Tsuchiya",
+      "rem_ids": [
+        2681
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Horag": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:44:05.110696",
+    "base_id": 13164,
+    "base_name": "Horag",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Horag",
+      "base_id": 13164,
+      "base_name": "Horag",
+      "rem_ids": [
+        2682,
+        2683
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Horse Power Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:44:05.836352",
+    "base_id": 2686,
+    "base_name": "Horse Power Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Horse Power Racing",
+      "base_id": 2686,
+      "base_name": "Horse Power Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Horv\u00e1th Rallye A. S. E.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:44:12.065243",
+    "base_id": 14594,
+    "base_name": "Horv\u00e1th Rallye A. S. E.",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Horv\u00e1th Rallye A. S. E.",
+      "base_id": 14594,
+      "base_name": "Horv\u00e1th Rallye A. S. E.",
+      "rem_ids": [
+        2687
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Houston Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:44:12.802571",
+    "base_id": 2691,
+    "base_name": "Houston Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Houston Racing",
+      "base_id": 2691,
+      "base_name": "Houston Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Howmet": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:44:19.013733",
+    "base_id": 12436,
+    "base_name": "Howmet",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Howmet",
+      "base_id": 12436,
+      "base_name": "Howmet",
+      "rem_ids": [
+        2694
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "A. R. C.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:44:50.164483",
+    "base_id": 14595,
+    "base_name": "A. R. C.",
+    "rems_processed": 5,
+    "stats": {
+      "group_name": "A. R. C.",
+      "base_id": 14595,
+      "base_name": "A. R. C.",
+      "rem_ids": [
+        2695,
+        231,
+        6116,
+        6990,
+        6539
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5697 \u00e0 BASE 14595",
+        "REM 6116 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Huber": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:45:24.001363",
+    "base_id": 14596,
+    "base_name": "Huber",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Huber",
+      "base_id": 14596,
+      "base_name": "Huber",
+      "rem_ids": [
+        2699,
+        7347,
+        5811
+      ],
+      "miniatures_moved": 15,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": []
+    }
+  },
+  "Smith Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:45:30.431970",
+    "base_id": 5437,
+    "base_name": "Smith Racing",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Smith Racing",
+      "base_id": 5437,
+      "base_name": "Smith Racing",
+      "rem_ids": [
+        2702
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Hylton Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:45:31.123822",
+    "base_id": 2710,
+    "base_name": "Hylton Motorsports",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Hylton Motorsports",
+      "base_id": 2710,
+      "base_name": "Hylton Motorsports",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Rally Team Italia": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:45:39.215447",
+    "base_id": 4843,
+    "base_name": "Rally Team Italia",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Rally Team Italia",
+      "base_id": 4843,
+      "base_name": "Rally Team Italia",
+      "rem_ids": [
+        2722
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4701 \u00e0 BASE 4843",
+        "REM 2722 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Mobis": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:46:35.139445",
+    "base_id": 7535,
+    "base_name": "Mobis",
+    "rems_processed": 4,
+    "stats": {
+      "group_name": "Mobis",
+      "base_id": 7535,
+      "base_name": "Mobis",
+      "rem_ids": [
+        2723,
+        7737,
+        7973,
+        7921
+      ],
+      "miniatures_moved": 43,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 5362 \u00e0 BASE 7535",
+        "Falha ao adicionar driver 4184 \u00e0 BASE 7535",
+        "REM 2723 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 10300 \u00e0 BASE 7535",
+        "Falha ao adicionar miniature 10253 \u00e0 BASE 7535",
+        "REM 7737 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 12341 \u00e0 BASE 7535",
+        "REM 7973 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 11220 \u00e0 BASE 7535",
+        "REM 7921 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Sard": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:47:15.380625",
+    "base_id": 14597,
+    "base_name": "Sard",
+    "rems_processed": 6,
+    "stats": {
+      "group_name": "Sard",
+      "base_id": 14597,
+      "base_name": "Sard",
+      "rem_ids": [
+        2731,
+        2728,
+        1108,
+        5997,
+        7706,
+        5150
+      ],
+      "miniatures_moved": 8,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 6,
+      "errors": []
+    }
+  },
+  "Team E.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:47:30.601485",
+    "base_id": 14598,
+    "base_name": "Team E.",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Team E.",
+      "base_id": 14598,
+      "base_name": "Team E.",
+      "rem_ids": [
+        2733,
+        5924
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4088 \u00e0 BASE 14598",
+        "REM 2733 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Igy6 Motorsports": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:47:37.284018",
+    "base_id": 14599,
+    "base_name": "Igy6 Motorsports",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Igy6 Motorsports",
+      "base_id": 14599,
+      "base_name": "Igy6 Motorsports",
+      "rem_ids": [
+        2734
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Indycar Provisional": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:47:44.273429",
+    "base_id": 14600,
+    "base_name": "Indycar Provisional",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Indycar Provisional",
+      "base_id": 14600,
+      "base_name": "Indycar Provisional",
+      "rem_ids": [
+        2738
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Aprilia": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:48:11.949564",
+    "base_id": 9312,
+    "base_name": "Aprilia",
+    "rems_processed": 4,
+    "stats": {
+      "group_name": "Aprilia",
+      "base_id": 9312,
+      "base_name": "Aprilia",
+      "rem_ids": [
+        2739,
+        472,
+        473,
+        6044
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4673 \u00e0 BASE 9312",
+        "REM 2739 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4580 \u00e0 BASE 9312",
+        "REM 472 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "I. P. S.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:48:25.396055",
+    "base_id": 14601,
+    "base_name": "I. P. S.",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "I. P. S.",
+      "base_id": 14601,
+      "base_name": "I. P. S.",
+      "rem_ids": [
+        2741,
+        7374
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Ian Forrest": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:48:26.164931",
+    "base_id": 2750,
+    "base_name": "Ian Forrest",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Ian Forrest",
+      "base_id": 2750,
+      "base_name": "Ian Forrest",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Iic Provisional": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:48:33.136412",
+    "base_id": 14602,
+    "base_name": "Iic Provisional",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Iic Provisional",
+      "base_id": 14602,
+      "base_name": "Iic Provisional",
+      "rem_ids": [
+        2762
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Impossible R. X. Team": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:48:39.477182",
+    "base_id": 14603,
+    "base_name": "Impossible R. X. Team",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Impossible R. X. Team",
+      "base_id": 14603,
+      "base_name": "Impossible R. X. Team",
+      "rem_ids": [
+        2768
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Inception Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:48:40.179555",
+    "base_id": 2777,
+    "base_name": "Inception Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Inception Racing",
+      "base_id": 2777,
+      "base_name": "Inception Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Insight Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:48:51.849621",
+    "base_id": 2785,
+    "base_name": "Insight Racing",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Insight Racing",
+      "base_id": 2785,
+      "base_name": "Insight Racing",
+      "rem_ids": [
+        2786,
+        2787
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "Pr1 Motorsports": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:49:14.114723",
+    "base_id": 14604,
+    "base_name": "Pr1 Motorsports",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "Pr1 Motorsports",
+      "base_id": 14604,
+      "base_name": "Pr1 Motorsports",
+      "rem_ids": [
+        2791,
+        4239,
+        8021
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4302 \u00e0 BASE 14604",
+        "REM 4239 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 11308 \u00e0 BASE 14604",
+        "REM 8021 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "International Motorsport": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:49:27.225640",
+    "base_id": 2794,
+    "base_name": "International Motorsport",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "International Motorsport",
+      "base_id": 2794,
+      "base_name": "International Motorsport",
+      "rem_ids": [
+        486,
+        2795
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4418 \u00e0 BASE 2794",
+        "REM 2795 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Invictus Games Racing": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:49:27.945947",
+    "base_id": 2806,
+    "base_name": "Invictus Games Racing",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Invictus Games Racing",
+      "base_id": 2806,
+      "base_name": "Invictus Games Racing",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Island Motorsport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:49:34.466014",
+    "base_id": 2815,
+    "base_name": "Island Motorsport",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Island Motorsport",
+      "base_id": 2815,
+      "base_name": "Island Motorsport",
+      "rem_ids": [
+        3908
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Italian Promotor Sport": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:49:35.438397",
+    "base_id": 2821,
+    "base_name": "Italian Promotor Sport",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Italian Promotor Sport",
+      "base_id": 2821,
+      "base_name": "Italian Promotor Sport",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "Italspares Pty. Ltd.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:49:36.200087",
+    "base_id": 2822,
+    "base_name": "Italspares Pty. Ltd.",
+    "rems_processed": 0,
+    "stats": {
+      "group_name": "Italspares Pty. Ltd.",
+      "base_id": 2822,
+      "base_name": "Italspares Pty. Ltd.",
+      "rem_ids": [],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": []
+    }
+  },
+  "J. Team Motorsport With Tech Tuning": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:49:42.917853",
+    "base_id": 14605,
+    "base_name": "J. Team Motorsport With Tech Tuning",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "J. Team Motorsport With Tech Tuning",
+      "base_id": 14605,
+      "base_name": "J. Team Motorsport With Tech Tuning",
+      "rem_ids": [
+        2827
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "J&s Energy Rally Team": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:49:49.717735",
+    "base_id": 14606,
+    "base_name": "J&s Energy Rally Team",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "J&s Energy Rally Team",
+      "base_id": 14606,
+      "base_name": "J&s Energy Rally Team",
+      "rem_ids": [
+        2828
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "Jbxe": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:49:58.133659",
+    "base_id": 14607,
+    "base_name": "Jbxe",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "Jbxe",
+      "base_id": 14607,
+      "base_name": "Jbxe",
+      "rem_ids": [
+        2842
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 5087 \u00e0 BASE 14607",
+        "Falha ao adicionar driver 5333 \u00e0 BASE 14607",
+        "REM 2842 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "G.": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:50:19.697886",
+    "base_id": 14608,
+    "base_name": "G.",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "G.",
+      "base_id": 14608,
+      "base_name": "G.",
+      "rem_ids": [
+        2834,
+        11645,
+        9517
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": []
+    }
+  },
+  "Moody": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:50:54.318143",
+    "base_id": 7997,
+    "base_name": "Moody",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Moody",
+      "base_id": 7997,
+      "base_name": "Moody",
+      "rem_ids": [
+        2652,
+        8063
+      ],
+      "miniatures_moved": 27,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 10767 \u00e0 BASE 7997",
+        "REM 8063 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "Cars": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:51:08.229899",
+    "base_id": 13033,
+    "base_name": "Cars",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "Cars",
+      "base_id": 13033,
+      "base_name": "Cars",
+      "rem_ids": [
+        97,
+        98
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": []
+    }
+  },
+  "A. C. Principado De Asturias": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:51:16.719126",
+    "base_id": 14609,
+    "base_name": "A. C. Principado De Asturias",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "A. C. Principado De Asturias",
+      "base_id": 14609,
+      "base_name": "A. C. Principado De Asturias",
+      "rem_ids": [
+        99
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "A. D. Etc\u00e9tera": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:51:22.962180",
+    "base_id": 14610,
+    "base_name": "A. D. Etc\u00e9tera",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "A. D. Etc\u00e9tera",
+      "base_id": 14610,
+      "base_name": "A. D. Etc\u00e9tera",
+      "rem_ids": [
+        100
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "A. D. Pe\u00f1ucas": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:51:29.611090",
+    "base_id": 14611,
+    "base_name": "A. D. Pe\u00f1ucas",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "A. D. Pe\u00f1ucas",
+      "base_id": 14611,
+      "base_name": "A. D. Pe\u00f1ucas",
+      "rem_ids": [
+        101
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "A. I. A.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:52:18.302590",
+    "base_id": 14612,
+    "base_name": "A. I. A.",
+    "rems_processed": 6,
+    "stats": {
+      "group_name": "A. I. A.",
+      "base_id": 14612,
+      "base_name": "A. I. A.",
+      "rem_ids": [
+        104,
+        128,
+        152,
+        170,
+        172,
+        173
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 30,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4723 \u00e0 BASE 14612",
+        "REM 104 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5294 \u00e0 BASE 14612",
+        "REM 128 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5469 \u00e0 BASE 14612",
+        "Falha ao adicionar driver 5672 \u00e0 BASE 14612",
+        "REM 170 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "A. J. Foyt Enterprises": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:52:46.452105",
+    "base_id": 14613,
+    "base_name": "A. J. Foyt Enterprises",
+    "rems_processed": 2,
+    "stats": {
+      "group_name": "A. J. Foyt Enterprises",
+      "base_id": 14613,
+      "base_name": "A. J. Foyt Enterprises",
+      "rem_ids": [
+        105,
+        8491
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 22,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4821 \u00e0 BASE 14613",
+        "Falha ao adicionar driver 3986 \u00e0 BASE 14613",
+        "Falha ao adicionar driver 4312 \u00e0 BASE 14613",
+        "REM 105 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "R. Racing": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:53:08.135484",
+    "base_id": 14614,
+    "base_name": "R. Racing",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "R. Racing",
+      "base_id": 14614,
+      "base_name": "R. Racing",
+      "rem_ids": [
+        108,
+        233,
+        4630
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5044 \u00e0 BASE 14614",
+        "REM 233 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "A. S. Ecole Superieure De Tourisme": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:53:14.884826",
+    "base_id": 14615,
+    "base_name": "A. S. Ecole Superieure De Tourisme",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "A. S. Ecole Superieure De Tourisme",
+      "base_id": 14615,
+      "base_name": "A. S. Ecole Superieure De Tourisme",
+      "rem_ids": [
+        110
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "A. S. Igualada": {
+    "status": "completed",
+    "timestamp": "2025-11-24T17:53:21.379427",
+    "base_id": 14616,
+    "base_name": "A. S. Igualada",
+    "rems_processed": 1,
+    "stats": {
+      "group_name": "A. S. Igualada",
+      "base_id": 14616,
+      "base_name": "A. S. Igualada",
+      "rem_ids": [
+        111
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": []
+    }
+  },
+  "N.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:53:41.735849",
+    "base_id": 14617,
+    "base_name": "N.",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "N.",
+      "base_id": 14617,
+      "base_name": "N.",
+      "rem_ids": [
+        113,
+        8137,
+        8545
+      ],
+      "miniatures_moved": 7,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar miniature 10052 \u00e0 BASE 14617",
+        "REM 8137 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "B. B. A.": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:54:26.361360",
+    "base_id": 14618,
+    "base_name": "B. B. A.",
+    "rems_processed": 3,
+    "stats": {
+      "group_name": "B. B. A.",
+      "base_id": 14618,
+      "base_name": "B. B. A.",
+      "rem_ids": [
+        114,
+        1202,
+        7045
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5704 \u00e0 BASE 14618",
+        "REM 114 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "A. B. Racing": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:54:51.711127",
+    "base_id": 14619,
+    "base_name": "A. B. Racing",
+    "rems_processed": 4,
+    "stats": {
+      "group_name": "A. B. Racing",
+      "base_id": 14619,
+      "base_name": "A. B. Racing",
+      "rem_ids": [
+        115,
+        6987,
+        3771,
+        3450
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4918 \u00e0 BASE 14619",
+        "REM 115 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  "B. C. Motorsports": {
+    "status": "completed_with_errors",
+    "timestamp": "2025-11-24T17:55:35.469016",
+    "base_id": 14620,
+    "base_name": "B. C. Motorsports",
+    "rems_processed": 6,
+    "stats": {
+      "group_name": "B. C. Motorsports",
+      "base_id": 14620,
+      "base_name": "B. C. Motorsports",
+      "rem_ids": [
+        116,
+        117,
+        684,
+        693,
+        2204,
+        3423
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 30,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 4380 \u00e0 BASE 14620",
+        "REM 117 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5768 \u00e0 BASE 14620",
+        "REM 2204 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  }
+}

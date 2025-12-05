@@ -1,0 +1,5764 @@
+[
+  {
+    "group_name": "Cadillac",
+    "timestamp": "2025-11-24T15:08:18.463825",
+    "base_id": 18,
+    "errors": [
+      "Falha ao deletar team REM 376",
+      "Falha ao deletar team REM 1164",
+      "Falha ao adicionar driver 4785 \u00e0 BASE 18",
+      "Falha ao adicionar driver 4801 \u00e0 BASE 18",
+      "Falha ao adicionar driver 4785 \u00e0 BASE 18",
+      "Falha ao adicionar driver 4801 \u00e0 BASE 18",
+      "REM 1162 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 4785 \u00e0 BASE 18",
+      "REM 1161 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Cadillac",
+      "base_id": 18,
+      "base_name": "Cadillac",
+      "rem_ids": [
+        376,
+        1164,
+        1162,
+        1163,
+        1161
+      ],
+      "miniatures_moved": 30,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao deletar team REM 376",
+        "Falha ao deletar team REM 1164",
+        "Falha ao adicionar driver 4785 \u00e0 BASE 18",
+        "Falha ao adicionar driver 4801 \u00e0 BASE 18",
+        "Falha ao adicionar driver 4785 \u00e0 BASE 18",
+        "Falha ao adicionar driver 4801 \u00e0 BASE 18",
+        "REM 1162 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4785 \u00e0 BASE 18",
+        "REM 1161 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Cadillac",
+    "timestamp": "2025-11-24T15:08:18.464236",
+    "stats": {
+      "group_name": "Cadillac",
+      "base_id": 18,
+      "base_name": "Cadillac",
+      "rem_ids": [
+        376,
+        1164,
+        1162,
+        1163,
+        1161
+      ],
+      "miniatures_moved": 30,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao deletar team REM 376",
+        "Falha ao deletar team REM 1164",
+        "Falha ao adicionar driver 4785 \u00e0 BASE 18",
+        "Falha ao adicionar driver 4801 \u00e0 BASE 18",
+        "Falha ao adicionar driver 4785 \u00e0 BASE 18",
+        "Falha ao adicionar driver 4801 \u00e0 BASE 18",
+        "REM 1162 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4785 \u00e0 BASE 18",
+        "REM 1161 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Cadillac",
+    "timestamp": "2025-11-24T16:10:38.916526",
+    "base_id": 18,
+    "errors": [
+      "Falha ao deletar team REM 376",
+      "Falha ao deletar team REM 1164",
+      "Falha ao deletar team REM 1162",
+      "Falha ao deletar team REM 1163",
+      "Falha ao deletar team REM 1161"
+    ],
+    "stats": {
+      "group_name": "Cadillac",
+      "base_id": 18,
+      "base_name": "Cadillac",
+      "rem_ids": [
+        376,
+        1164,
+        1162,
+        1163,
+        1161
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao deletar team REM 376",
+        "Falha ao deletar team REM 1164",
+        "Falha ao deletar team REM 1162",
+        "Falha ao deletar team REM 1163",
+        "Falha ao deletar team REM 1161"
+      ]
+    }
+  },
+  {
+    "group_name": "Cadillac",
+    "timestamp": "2025-11-24T16:10:38.917499",
+    "stats": {
+      "group_name": "Cadillac",
+      "base_id": 18,
+      "base_name": "Cadillac",
+      "rem_ids": [
+        376,
+        1164,
+        1162,
+        1163,
+        1161
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao deletar team REM 376",
+        "Falha ao deletar team REM 1164",
+        "Falha ao deletar team REM 1162",
+        "Falha ao deletar team REM 1163",
+        "Falha ao deletar team REM 1161"
+      ]
+    }
+  },
+  {
+    "group_name": "Fiat",
+    "timestamp": "2025-11-24T16:23:24.637145",
+    "base_id": 36,
+    "errors": [
+      "Falha ao adicionar miniature 11654 \u00e0 BASE 36",
+      "Falha ao adicionar miniature 12649 \u00e0 BASE 36",
+      "REM 8088 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Fiat",
+      "base_id": 36,
+      "base_name": "Fiat",
+      "rem_ids": [
+        1962,
+        2084,
+        2027,
+        2085,
+        8088
+      ],
+      "miniatures_moved": 17,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar miniature 11654 \u00e0 BASE 36",
+        "Falha ao adicionar miniature 12649 \u00e0 BASE 36",
+        "REM 8088 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Fiat",
+    "timestamp": "2025-11-24T16:23:24.638462",
+    "stats": {
+      "group_name": "Fiat",
+      "base_id": 36,
+      "base_name": "Fiat",
+      "rem_ids": [
+        1962,
+        2084,
+        2027,
+        2085,
+        8088
+      ],
+      "miniatures_moved": 17,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar miniature 11654 \u00e0 BASE 36",
+        "Falha ao adicionar miniature 12649 \u00e0 BASE 36",
+        "REM 8088 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Ferrari",
+    "timestamp": "2025-11-24T16:24:16.512160",
+    "base_id": 7,
+    "errors": [
+      "Falha ao adicionar driver 4398 \u00e0 BASE 7",
+      "REM 1691 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Ferrari",
+      "base_id": 7,
+      "base_name": "Ferrari",
+      "rem_ids": [
+        2839,
+        171,
+        1691,
+        2867,
+        2079
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 11,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 4398 \u00e0 BASE 7",
+        "REM 1691 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Ferrari",
+    "timestamp": "2025-11-24T16:24:16.512658",
+    "stats": {
+      "group_name": "Ferrari",
+      "base_id": 7,
+      "base_name": "Ferrari",
+      "rem_ids": [
+        2839,
+        171,
+        1691,
+        2867,
+        2079
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 11,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 4398 \u00e0 BASE 7",
+        "REM 1691 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Mercedes",
+    "timestamp": "2025-11-24T16:25:07.251847",
+    "base_id": 46,
+    "errors": [
+      "Falha ao adicionar driver 2219 \u00e0 BASE 46",
+      "REM 6 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 4918 \u00e0 BASE 46",
+      "REM 5574 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Mercedes",
+      "base_id": 46,
+      "base_name": "Mercedes",
+      "rem_ids": [
+        6,
+        5266,
+        4175,
+        5574,
+        5788
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 9,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 2219 \u00e0 BASE 46",
+        "REM 6 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4918 \u00e0 BASE 46",
+        "REM 5574 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Mercedes",
+    "timestamp": "2025-11-24T16:25:07.252833",
+    "stats": {
+      "group_name": "Mercedes",
+      "base_id": 46,
+      "base_name": "Mercedes",
+      "rem_ids": [
+        6,
+        5266,
+        4175,
+        5574,
+        5788
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 9,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 2219 \u00e0 BASE 46",
+        "REM 6 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4918 \u00e0 BASE 46",
+        "REM 5574 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "McLaren",
+    "timestamp": "2025-11-24T16:27:51.925967",
+    "base_id": 12,
+    "errors": [
+      "Falha ao adicionar miniature 13321 \u00e0 BASE 12",
+      "Falha ao adicionar miniature 13320 \u00e0 BASE 12",
+      "Falha ao adicionar miniature 13319 \u00e0 BASE 12",
+      "REM 510 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 4752 \u00e0 BASE 12",
+      "REM 3674 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 5451 \u00e0 BASE 12",
+      "REM 3675 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 4801 \u00e0 BASE 12",
+      "REM 3673 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "McLaren",
+      "base_id": 12,
+      "base_name": "McLaren",
+      "rem_ids": [
+        510,
+        511,
+        3674,
+        3675,
+        3673
+      ],
+      "miniatures_moved": 16,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 13321 \u00e0 BASE 12",
+        "Falha ao adicionar miniature 13320 \u00e0 BASE 12",
+        "Falha ao adicionar miniature 13319 \u00e0 BASE 12",
+        "REM 510 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4752 \u00e0 BASE 12",
+        "REM 3674 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5451 \u00e0 BASE 12",
+        "REM 3675 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4801 \u00e0 BASE 12",
+        "REM 3673 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "McLaren",
+    "timestamp": "2025-11-24T16:27:51.926422",
+    "stats": {
+      "group_name": "McLaren",
+      "base_id": 12,
+      "base_name": "McLaren",
+      "rem_ids": [
+        510,
+        511,
+        3674,
+        3675,
+        3673
+      ],
+      "miniatures_moved": 16,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 13321 \u00e0 BASE 12",
+        "Falha ao adicionar miniature 13320 \u00e0 BASE 12",
+        "Falha ao adicionar miniature 13319 \u00e0 BASE 12",
+        "REM 510 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4752 \u00e0 BASE 12",
+        "REM 3674 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5451 \u00e0 BASE 12",
+        "REM 3675 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4801 \u00e0 BASE 12",
+        "REM 3673 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Racing",
+    "timestamp": "2025-11-24T16:33:03.701267",
+    "base_id": 8038,
+    "errors": [
+      "Falha ao adicionar miniature 6019 \u00e0 BASE 8038",
+      "Falha ao adicionar miniature 11845 \u00e0 BASE 8038",
+      "Falha ao adicionar miniature 13482 \u00e0 BASE 8038",
+      "Falha ao adicionar miniature 10960 \u00e0 BASE 8038",
+      "Falha ao adicionar miniature 10541 \u00e0 BASE 8038",
+      "Falha ao adicionar miniature 11923 \u00e0 BASE 8038",
+      "Falha ao adicionar miniature 11151 \u00e0 BASE 8038",
+      "Falha ao adicionar miniature 11800 \u00e0 BASE 8038",
+      "REM 32 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Racing",
+      "base_id": 8038,
+      "base_name": "Racing",
+      "rem_ids": [
+        45,
+        32,
+        4910,
+        7691
+      ],
+      "miniatures_moved": 42,
+      "drivers_moved": 21,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar miniature 6019 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 11845 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 13482 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 10960 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 10541 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 11923 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 11151 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 11800 \u00e0 BASE 8038",
+        "REM 32 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Racing",
+    "timestamp": "2025-11-24T16:33:03.702264",
+    "stats": {
+      "group_name": "Racing",
+      "base_id": 8038,
+      "base_name": "Racing",
+      "rem_ids": [
+        45,
+        32,
+        4910,
+        7691
+      ],
+      "miniatures_moved": 42,
+      "drivers_moved": 21,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar miniature 6019 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 11845 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 13482 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 10960 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 10541 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 11923 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 11151 \u00e0 BASE 8038",
+        "Falha ao adicionar miniature 11800 \u00e0 BASE 8038",
+        "REM 32 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Toyota",
+    "timestamp": "2025-11-24T16:33:41.102168",
+    "base_id": 25,
+    "errors": [
+      "Falha ao adicionar driver 5986 \u00e0 BASE 25",
+      "REM 3606 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Toyota",
+      "base_id": 25,
+      "base_name": "Toyota",
+      "rem_ids": [
+        2692,
+        309,
+        1865,
+        3606,
+        4306
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5986 \u00e0 BASE 25",
+        "REM 3606 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Toyota",
+    "timestamp": "2025-11-24T16:33:41.103399",
+    "stats": {
+      "group_name": "Toyota",
+      "base_id": 25,
+      "base_name": "Toyota",
+      "rem_ids": [
+        2692,
+        309,
+        1865,
+        3606,
+        4306
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5986 \u00e0 BASE 25",
+        "REM 3606 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Hyundai",
+    "timestamp": "2025-11-24T16:35:45.950305",
+    "base_id": 27,
+    "errors": [
+      "Falha ao adicionar driver 5862 \u00e0 BASE 27",
+      "REM 2717 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Hyundai",
+      "base_id": 27,
+      "base_name": "Hyundai",
+      "rem_ids": [
+        2712,
+        2716,
+        2717,
+        2718,
+        2719
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 29,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5862 \u00e0 BASE 27",
+        "REM 2717 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Hyundai",
+    "timestamp": "2025-11-24T16:35:45.951797",
+    "stats": {
+      "group_name": "Hyundai",
+      "base_id": 27,
+      "base_name": "Hyundai",
+      "rem_ids": [
+        2712,
+        2716,
+        2717,
+        2718,
+        2719
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 29,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5862 \u00e0 BASE 27",
+        "REM 2717 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Lotus",
+    "timestamp": "2025-11-24T16:38:05.653850",
+    "base_id": 34,
+    "errors": [
+      "Falha ao adicionar driver 5198 \u00e0 BASE 34",
+      "REM 1889 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Lotus",
+      "base_id": 34,
+      "base_name": "Lotus",
+      "rem_ids": [
+        2981,
+        1889,
+        2297,
+        3358,
+        3359
+      ],
+      "miniatures_moved": 24,
+      "drivers_moved": 11,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5198 \u00e0 BASE 34",
+        "REM 1889 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Lotus",
+    "timestamp": "2025-11-24T16:38:05.655430",
+    "stats": {
+      "group_name": "Lotus",
+      "base_id": 34,
+      "base_name": "Lotus",
+      "rem_ids": [
+        2981,
+        1889,
+        2297,
+        3358,
+        3359
+      ],
+      "miniatures_moved": 24,
+      "drivers_moved": 11,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5198 \u00e0 BASE 34",
+        "REM 1889 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Chevrolet",
+    "timestamp": "2025-11-24T16:38:31.595933",
+    "base_id": 15,
+    "errors": [
+      "Falha ao adicionar driver 4786 \u00e0 BASE 15",
+      "REM 5405 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Chevrolet",
+      "base_id": 15,
+      "base_name": "Chevrolet",
+      "rem_ids": [
+        1537,
+        1276,
+        5405
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4786 \u00e0 BASE 15",
+        "REM 5405 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Chevrolet",
+    "timestamp": "2025-11-24T16:38:31.597610",
+    "stats": {
+      "group_name": "Chevrolet",
+      "base_id": 15,
+      "base_name": "Chevrolet",
+      "rem_ids": [
+        1537,
+        1276,
+        5405
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4786 \u00e0 BASE 15",
+        "REM 5405 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Car",
+    "timestamp": "2025-11-24T16:40:06.186978",
+    "base_id": 14159,
+    "errors": [
+      "Falha ao adicionar miniature 11931 \u00e0 BASE 14159",
+      "REM 16 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Car",
+      "base_id": 14159,
+      "base_name": "Car",
+      "rem_ids": [
+        16,
+        9903
+      ],
+      "miniatures_moved": 25,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 11931 \u00e0 BASE 14159",
+        "REM 16 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Car",
+    "timestamp": "2025-11-24T16:40:06.188777",
+    "stats": {
+      "group_name": "Car",
+      "base_id": 14159,
+      "base_name": "Car",
+      "rem_ids": [
+        16,
+        9903
+      ],
+      "miniatures_moved": 25,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 11931 \u00e0 BASE 14159",
+        "REM 16 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Alfa Romeo",
+    "timestamp": "2025-11-24T16:41:40.110577",
+    "base_id": 21,
+    "errors": [
+      "Falha ao adicionar driver 3993 \u00e0 BASE 21",
+      "Falha ao adicionar driver 3994 \u00e0 BASE 21",
+      "REM 358 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 5844 \u00e0 BASE 21",
+      "REM 359 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Alfa Romeo",
+      "base_id": 21,
+      "base_name": "Alfa Romeo",
+      "rem_ids": [
+        355,
+        356,
+        357,
+        358,
+        359
+      ],
+      "miniatures_moved": 8,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 3993 \u00e0 BASE 21",
+        "Falha ao adicionar driver 3994 \u00e0 BASE 21",
+        "REM 358 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5844 \u00e0 BASE 21",
+        "REM 359 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Alfa Romeo",
+    "timestamp": "2025-11-24T16:41:40.112393",
+    "stats": {
+      "group_name": "Alfa Romeo",
+      "base_id": 21,
+      "base_name": "Alfa Romeo",
+      "rem_ids": [
+        355,
+        356,
+        357,
+        358,
+        359
+      ],
+      "miniatures_moved": 8,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 3993 \u00e0 BASE 21",
+        "Falha ao adicionar driver 3994 \u00e0 BASE 21",
+        "REM 358 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5844 \u00e0 BASE 21",
+        "REM 359 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Sauber",
+    "timestamp": "2025-11-24T16:42:40.143376",
+    "base_id": 47,
+    "errors": [
+      "Falha ao adicionar driver 4113 \u00e0 BASE 47",
+      "REM 5264 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Sauber",
+      "base_id": 47,
+      "base_name": "Sauber",
+      "rem_ids": [
+        2155,
+        5265,
+        5264,
+        5541,
+        10556
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 4113 \u00e0 BASE 47",
+        "REM 5264 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Sauber",
+    "timestamp": "2025-11-24T16:42:40.144335",
+    "stats": {
+      "group_name": "Sauber",
+      "base_id": 47,
+      "base_name": "Sauber",
+      "rem_ids": [
+        2155,
+        5265,
+        5264,
+        5541,
+        10556
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 4113 \u00e0 BASE 47",
+        "REM 5264 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Ford",
+    "timestamp": "2025-11-24T16:45:12.688863",
+    "base_id": 11,
+    "errors": [
+      "Falha ao adicionar driver 4122 \u00e0 BASE 11",
+      "REM 2128 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 5860 \u00e0 BASE 11",
+      "REM 760 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Ford",
+      "base_id": 11,
+      "base_name": "Ford",
+      "rem_ids": [
+        2125,
+        2128,
+        2129,
+        760,
+        2115
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 10,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4122 \u00e0 BASE 11",
+        "REM 2128 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5860 \u00e0 BASE 11",
+        "REM 760 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Ford",
+    "timestamp": "2025-11-24T16:45:12.690731",
+    "stats": {
+      "group_name": "Ford",
+      "base_id": 11,
+      "base_name": "Ford",
+      "rem_ids": [
+        2125,
+        2128,
+        2129,
+        760,
+        2115
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 10,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4122 \u00e0 BASE 11",
+        "REM 2128 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5860 \u00e0 BASE 11",
+        "REM 760 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Land",
+    "timestamp": "2025-11-24T16:45:58.605551",
+    "base_id": 12525,
+    "errors": [
+      "Falha ao adicionar miniature 10793 \u00e0 BASE 12525",
+      "Falha ao adicionar miniature 12472 \u00e0 BASE 12525",
+      "Falha ao adicionar miniature 5846 \u00e0 BASE 12525",
+      "Falha ao adicionar miniature 13075 \u00e0 BASE 12525",
+      "Falha ao adicionar miniature 12729 \u00e0 BASE 12525",
+      "Falha ao adicionar miniature 10153 \u00e0 BASE 12525",
+      "Falha ao adicionar miniature 10508 \u00e0 BASE 12525",
+      "Falha ao adicionar miniature 13367 \u00e0 BASE 12525",
+      "Falha ao adicionar miniature 13427 \u00e0 BASE 12525",
+      "REM 29 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar miniature 13563 \u00e0 BASE 12525",
+      "REM 7701 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Land",
+      "base_id": 12525,
+      "base_name": "Land",
+      "rem_ids": [
+        29,
+        7701
+      ],
+      "miniatures_moved": 40,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar miniature 10793 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 12472 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 5846 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 13075 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 12729 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 10153 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 10508 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 13367 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 13427 \u00e0 BASE 12525",
+        "REM 29 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 13563 \u00e0 BASE 12525",
+        "REM 7701 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Land",
+    "timestamp": "2025-11-24T16:45:58.607881",
+    "stats": {
+      "group_name": "Land",
+      "base_id": 12525,
+      "base_name": "Land",
+      "rem_ids": [
+        29,
+        7701
+      ],
+      "miniatures_moved": 40,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar miniature 10793 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 12472 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 5846 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 13075 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 12729 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 10153 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 10508 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 13367 \u00e0 BASE 12525",
+        "Falha ao adicionar miniature 13427 \u00e0 BASE 12525",
+        "REM 29 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 13563 \u00e0 BASE 12525",
+        "REM 7701 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Acura",
+    "timestamp": "2025-11-24T16:46:50.358575",
+    "base_id": 2,
+    "errors": [
+      "Falha ao adicionar driver 4801 \u00e0 BASE 2",
+      "REM 294 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Acura",
+      "base_id": 2,
+      "base_name": "Acura",
+      "rem_ids": [
+        294,
+        295,
+        3167
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 10,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4801 \u00e0 BASE 2",
+        "REM 294 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Acura",
+    "timestamp": "2025-11-24T16:46:50.359835",
+    "stats": {
+      "group_name": "Acura",
+      "base_id": 2,
+      "base_name": "Acura",
+      "rem_ids": [
+        294,
+        295,
+        3167
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 10,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4801 \u00e0 BASE 2",
+        "REM 294 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Honda",
+    "timestamp": "2025-11-24T16:47:22.514578",
+    "base_id": 20,
+    "errors": [
+      "Falha ao adicionar driver 75 \u00e0 BASE 20",
+      "Falha ao adicionar driver 2218 \u00e0 BASE 20",
+      "REM 5 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 4825 \u00e0 BASE 20",
+      "REM 2662 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Honda",
+      "base_id": 20,
+      "base_name": "Honda",
+      "rem_ids": [
+        5,
+        2658,
+        2660,
+        2662,
+        2664
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 75 \u00e0 BASE 20",
+        "Falha ao adicionar driver 2218 \u00e0 BASE 20",
+        "REM 5 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4825 \u00e0 BASE 20",
+        "REM 2662 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Honda",
+    "timestamp": "2025-11-24T16:47:22.516838",
+    "stats": {
+      "group_name": "Honda",
+      "base_id": 20,
+      "base_name": "Honda",
+      "rem_ids": [
+        5,
+        2658,
+        2660,
+        2662,
+        2664
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 75 \u00e0 BASE 20",
+        "Falha ao adicionar driver 2218 \u00e0 BASE 20",
+        "REM 5 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4825 \u00e0 BASE 20",
+        "REM 2662 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "T. G. M.",
+    "timestamp": "2025-11-24T16:48:13.540193",
+    "base_id": 14530,
+    "errors": [
+      "Falha ao adicionar miniature 6177 \u00e0 BASE 14530",
+      "Falha ao adicionar miniature 6176 \u00e0 BASE 14530",
+      "REM 7788 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 4592 \u00e0 BASE 14530",
+      "REM 3483 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 5930 \u00e0 BASE 14530",
+      "REM 3703 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "T. G. M.",
+      "base_id": 14530,
+      "base_name": "T. G. M.",
+      "rem_ids": [
+        7788,
+        211,
+        796,
+        3483,
+        3703,
+        4088
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 34,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar miniature 6177 \u00e0 BASE 14530",
+        "Falha ao adicionar miniature 6176 \u00e0 BASE 14530",
+        "REM 7788 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4592 \u00e0 BASE 14530",
+        "REM 3483 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5930 \u00e0 BASE 14530",
+        "REM 3703 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "T. G. M.",
+    "timestamp": "2025-11-24T16:48:13.541468",
+    "stats": {
+      "group_name": "T. G. M.",
+      "base_id": 14530,
+      "base_name": "T. G. M.",
+      "rem_ids": [
+        7788,
+        211,
+        796,
+        3483,
+        3703,
+        4088
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 34,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar miniature 6177 \u00e0 BASE 14530",
+        "Falha ao adicionar miniature 6176 \u00e0 BASE 14530",
+        "REM 7788 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4592 \u00e0 BASE 14530",
+        "REM 3483 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5930 \u00e0 BASE 14530",
+        "REM 3703 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "B.",
+    "timestamp": "2025-11-24T16:49:01.561841",
+    "base_id": 14532,
+    "errors": [
+      "Falha ao adicionar miniature 13609 \u00e0 BASE 14532",
+      "Falha ao adicionar miniature 5975 \u00e0 BASE 14532",
+      "Falha ao adicionar miniature 6099 \u00e0 BASE 14532",
+      "Falha ao adicionar miniature 9963 \u00e0 BASE 14532",
+      "REM 37 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "B.",
+      "base_id": 14532,
+      "base_name": "B.",
+      "rem_ids": [
+        37,
+        7862,
+        13670
+      ],
+      "miniatures_moved": 31,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar miniature 13609 \u00e0 BASE 14532",
+        "Falha ao adicionar miniature 5975 \u00e0 BASE 14532",
+        "Falha ao adicionar miniature 6099 \u00e0 BASE 14532",
+        "Falha ao adicionar miniature 9963 \u00e0 BASE 14532",
+        "REM 37 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "B.",
+    "timestamp": "2025-11-24T16:49:01.562892",
+    "stats": {
+      "group_name": "B.",
+      "base_id": 14532,
+      "base_name": "B.",
+      "rem_ids": [
+        37,
+        7862,
+        13670
+      ],
+      "miniatures_moved": 31,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar miniature 13609 \u00e0 BASE 14532",
+        "Falha ao adicionar miniature 5975 \u00e0 BASE 14532",
+        "Falha ao adicionar miniature 6099 \u00e0 BASE 14532",
+        "Falha ao adicionar miniature 9963 \u00e0 BASE 14532",
+        "REM 37 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Pandem",
+    "timestamp": "2025-11-24T16:49:18.094290",
+    "base_id": 38,
+    "errors": [
+      "Falha ao adicionar miniature 11118 \u00e0 BASE 38",
+      "REM 8201 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Pandem",
+      "base_id": 38,
+      "base_name": "Pandem",
+      "rem_ids": [
+        7866,
+        8201
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 11118 \u00e0 BASE 38",
+        "REM 8201 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Pandem",
+    "timestamp": "2025-11-24T16:49:18.096445",
+    "stats": {
+      "group_name": "Pandem",
+      "base_id": 38,
+      "base_name": "Pandem",
+      "rem_ids": [
+        7866,
+        8201
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 11118 \u00e0 BASE 38",
+        "REM 8201 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Porsche",
+    "timestamp": "2025-11-24T16:50:51.489720",
+    "base_id": 9,
+    "errors": [
+      "Falha ao adicionar driver 5151 \u00e0 BASE 9",
+      "REM 2882 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Porsche",
+      "base_id": 9,
+      "base_name": "Porsche",
+      "rem_ids": [
+        2882,
+        345,
+        1993,
+        2036,
+        1044
+      ],
+      "miniatures_moved": 9,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5151 \u00e0 BASE 9",
+        "REM 2882 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Porsche",
+    "timestamp": "2025-11-24T16:50:51.490406",
+    "stats": {
+      "group_name": "Porsche",
+      "base_id": 9,
+      "base_name": "Porsche",
+      "rem_ids": [
+        2882,
+        345,
+        1993,
+        2036,
+        1044
+      ],
+      "miniatures_moved": 9,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5151 \u00e0 BASE 9",
+        "REM 2882 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "1",
+    "timestamp": "2025-11-24T16:51:20.056430",
+    "base_id": 6929,
+    "errors": [
+      "Falha ao adicionar driver 4651 \u00e0 BASE 6929",
+      "REM 51 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 5754 \u00e0 BASE 6929",
+      "REM 6612 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "1",
+      "base_id": 6929,
+      "base_name": "1",
+      "rem_ids": [
+        51,
+        6612,
+        9601,
+        9696
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 9,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4651 \u00e0 BASE 6929",
+        "REM 51 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5754 \u00e0 BASE 6929",
+        "REM 6612 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "1",
+    "timestamp": "2025-11-24T16:51:20.057969",
+    "stats": {
+      "group_name": "1",
+      "base_id": 6929,
+      "base_name": "1",
+      "rem_ids": [
+        51,
+        6612,
+        9601,
+        9696
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 9,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4651 \u00e0 BASE 6929",
+        "REM 51 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5754 \u00e0 BASE 6929",
+        "REM 6612 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Team",
+    "timestamp": "2025-11-24T16:52:27.971088",
+    "base_id": 10036,
+    "errors": [
+      "Falha ao adicionar driver 4794 \u00e0 BASE 10036",
+      "REM 6125 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 4253 \u00e0 BASE 10036",
+      "REM 3272 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Team",
+      "base_id": 10036,
+      "base_name": "Team",
+      "rem_ids": [
+        53,
+        6125,
+        12861,
+        1577,
+        3272
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4794 \u00e0 BASE 10036",
+        "REM 6125 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4253 \u00e0 BASE 10036",
+        "REM 3272 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Team",
+    "timestamp": "2025-11-24T16:52:27.972210",
+    "stats": {
+      "group_name": "Team",
+      "base_id": 10036,
+      "base_name": "Team",
+      "rem_ids": [
+        53,
+        6125,
+        12861,
+        1577,
+        3272
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4794 \u00e0 BASE 10036",
+        "REM 6125 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4253 \u00e0 BASE 10036",
+        "REM 3272 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Nissan",
+    "timestamp": "2025-11-24T16:53:03.828396",
+    "base_id": 19,
+    "errors": [
+      "Falha ao adicionar driver 5433 \u00e0 BASE 19",
+      "REM 4044 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Nissan",
+      "base_id": 19,
+      "base_name": "Nissan",
+      "rem_ids": [
+        2888,
+        4038,
+        4044,
+        4037,
+        4039
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5433 \u00e0 BASE 19",
+        "REM 4044 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Nissan",
+    "timestamp": "2025-11-24T16:53:03.831018",
+    "stats": {
+      "group_name": "Nissan",
+      "base_id": 19,
+      "base_name": "Nissan",
+      "rem_ids": [
+        2888,
+        4038,
+        4044,
+        4037,
+        4039
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5433 \u00e0 BASE 19",
+        "REM 4044 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Lamborghini",
+    "timestamp": "2025-11-24T16:54:43.923619",
+    "base_id": 14,
+    "errors": [
+      "Falha ao adicionar driver 5246 \u00e0 BASE 14",
+      "REM 3243 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 4169 \u00e0 BASE 14",
+      "REM 3244 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Lamborghini",
+      "base_id": 14,
+      "base_name": "Lamborghini",
+      "rem_ids": [
+        624,
+        3063,
+        3243,
+        3244,
+        3245
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 10,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 5246 \u00e0 BASE 14",
+        "REM 3243 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4169 \u00e0 BASE 14",
+        "REM 3244 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Lamborghini",
+    "timestamp": "2025-11-24T16:54:43.926769",
+    "stats": {
+      "group_name": "Lamborghini",
+      "base_id": 14,
+      "base_name": "Lamborghini",
+      "rem_ids": [
+        624,
+        3063,
+        3243,
+        3244,
+        3245
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 10,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 5246 \u00e0 BASE 14",
+        "REM 3243 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4169 \u00e0 BASE 14",
+        "REM 3244 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Williams",
+    "timestamp": "2025-11-24T16:55:52.492773",
+    "base_id": 42,
+    "errors": [
+      "Falha ao adicionar driver 4202 \u00e0 BASE 42",
+      "Falha ao adicionar driver 6055 \u00e0 BASE 42",
+      "REM 4884 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Williams",
+      "base_id": 42,
+      "base_name": "Williams",
+      "rem_ids": [
+        556,
+        2159,
+        4718,
+        4884,
+        6454
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 4202 \u00e0 BASE 42",
+        "Falha ao adicionar driver 6055 \u00e0 BASE 42",
+        "REM 4884 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Williams",
+    "timestamp": "2025-11-24T16:55:52.494037",
+    "stats": {
+      "group_name": "Williams",
+      "base_id": 42,
+      "base_name": "Williams",
+      "rem_ids": [
+        556,
+        2159,
+        4718,
+        4884,
+        6454
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 4202 \u00e0 BASE 42",
+        "Falha ao adicionar driver 6055 \u00e0 BASE 42",
+        "REM 4884 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Alpine",
+    "timestamp": "2025-11-24T16:56:56.753250",
+    "base_id": 44,
+    "errors": [
+      "Falha ao adicionar driver 5215 \u00e0 BASE 44",
+      "REM 389 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 5215 \u00e0 BASE 44",
+      "REM 5394 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Alpine",
+      "base_id": 44,
+      "base_name": "Alpine",
+      "rem_ids": [
+        389,
+        390,
+        391,
+        792,
+        5394
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 18,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 5215 \u00e0 BASE 44",
+        "REM 389 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5215 \u00e0 BASE 44",
+        "REM 5394 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Alpine",
+    "timestamp": "2025-11-24T16:56:56.754839",
+    "stats": {
+      "group_name": "Alpine",
+      "base_id": 44,
+      "base_name": "Alpine",
+      "rem_ids": [
+        389,
+        390,
+        391,
+        792,
+        5394
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 18,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 5215 \u00e0 BASE 44",
+        "REM 389 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5215 \u00e0 BASE 44",
+        "REM 5394 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "3art",
+    "timestamp": "2025-11-24T16:57:56.845580",
+    "base_id": 14535,
+    "errors": [
+      "Falha ao adicionar driver 4805 \u00e0 BASE 14535",
+      "REM 71 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "3art",
+      "base_id": 14535,
+      "base_name": "3art",
+      "rem_ids": [
+        71
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4805 \u00e0 BASE 14535",
+        "REM 71 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "3art",
+    "timestamp": "2025-11-24T16:57:56.848043",
+    "stats": {
+      "group_name": "3art",
+      "base_id": 14535,
+      "base_name": "3art",
+      "rem_ids": [
+        71
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4805 \u00e0 BASE 14535",
+        "REM 71 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "W.",
+    "timestamp": "2025-11-24T16:59:41.488579",
+    "base_id": 14540,
+    "errors": [
+      "Falha ao adicionar miniature 12195 \u00e0 BASE 14540",
+      "Falha ao adicionar miniature 12204 \u00e0 BASE 14540",
+      "Falha ao adicionar miniature 12199 \u00e0 BASE 14540",
+      "Falha ao adicionar miniature 12196 \u00e0 BASE 14540",
+      "Falha ao adicionar miniature 12200 \u00e0 BASE 14540",
+      "Falha ao adicionar miniature 12456 \u00e0 BASE 14540",
+      "Falha ao adicionar miniature 12194 \u00e0 BASE 14540",
+      "Falha ao adicionar miniature 12597 \u00e0 BASE 14540",
+      "Falha ao adicionar miniature 12212 \u00e0 BASE 14540",
+      "Falha ao adicionar miniature 12596 \u00e0 BASE 14540",
+      "REM 33 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "W.",
+      "base_id": 14540,
+      "base_name": "W.",
+      "rem_ids": [
+        77,
+        7911,
+        7847,
+        8330,
+        8921,
+        33
+      ],
+      "miniatures_moved": 43,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": [
+        "Falha ao adicionar miniature 12195 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12204 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12199 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12196 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12200 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12456 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12194 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12597 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12212 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12596 \u00e0 BASE 14540",
+        "REM 33 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "W.",
+    "timestamp": "2025-11-24T16:59:41.490702",
+    "stats": {
+      "group_name": "W.",
+      "base_id": 14540,
+      "base_name": "W.",
+      "rem_ids": [
+        77,
+        7911,
+        7847,
+        8330,
+        8921,
+        33
+      ],
+      "miniatures_moved": 43,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": [
+        "Falha ao adicionar miniature 12195 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12204 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12199 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12196 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12200 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12456 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12194 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12597 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12212 \u00e0 BASE 14540",
+        "Falha ao adicionar miniature 12596 \u00e0 BASE 14540",
+        "REM 33 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Rally",
+    "timestamp": "2025-11-24T16:59:57.221523",
+    "base_id": 13705,
+    "errors": [
+      "Falha ao adicionar driver 4053 \u00e0 BASE 13705",
+      "REM 78 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Rally",
+      "base_id": 13705,
+      "base_name": "Rally",
+      "rem_ids": [
+        78,
+        5624,
+        9284
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4053 \u00e0 BASE 13705",
+        "REM 78 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Rally",
+    "timestamp": "2025-11-24T16:59:57.224378",
+    "stats": {
+      "group_name": "Rally",
+      "base_id": 13705,
+      "base_name": "Rally",
+      "rem_ids": [
+        78,
+        5624,
+        9284
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4053 \u00e0 BASE 13705",
+        "REM 78 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "99",
+    "timestamp": "2025-11-24T17:00:37.055320",
+    "base_id": 6980,
+    "errors": [
+      "Falha ao adicionar driver 4207 \u00e0 BASE 6980",
+      "REM 89 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "99",
+      "base_id": 6980,
+      "base_name": "99",
+      "rem_ids": [
+        89
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4207 \u00e0 BASE 6980",
+        "REM 89 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "99",
+    "timestamp": "2025-11-24T17:00:37.056740",
+    "stats": {
+      "group_name": "99",
+      "base_id": 6980,
+      "base_name": "99",
+      "rem_ids": [
+        89
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4207 \u00e0 BASE 6980",
+        "REM 89 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Robinson Racing",
+    "timestamp": "2025-11-24T17:01:07.405562",
+    "base_id": 5029,
+    "errors": [
+      "Falha ao adicionar driver 5526 \u00e0 BASE 5029",
+      "REM 2933 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Robinson Racing",
+      "base_id": 5029,
+      "base_name": "Robinson Racing",
+      "rem_ids": [
+        91,
+        2933,
+        3965
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 28,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5526 \u00e0 BASE 5029",
+        "REM 2933 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Robinson Racing",
+    "timestamp": "2025-11-24T17:01:07.408581",
+    "stats": {
+      "group_name": "Robinson Racing",
+      "base_id": 5029,
+      "base_name": "Robinson Racing",
+      "rem_ids": [
+        91,
+        2933,
+        3965
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 28,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5526 \u00e0 BASE 5029",
+        "REM 2933 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "W. Racing Team",
+    "timestamp": "2025-11-24T17:01:36.774201",
+    "base_id": 14545,
+    "errors": [
+      "Falha ao adicionar driver 5680 \u00e0 BASE 14545",
+      "REM 6658 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "W. Racing Team",
+      "base_id": 14545,
+      "base_name": "W. Racing Team",
+      "rem_ids": [
+        1401,
+        6658
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 8,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 5680 \u00e0 BASE 14545",
+        "REM 6658 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "W. Racing Team",
+    "timestamp": "2025-11-24T17:01:36.776629",
+    "stats": {
+      "group_name": "W. Racing Team",
+      "base_id": 14545,
+      "base_name": "W. Racing Team",
+      "rem_ids": [
+        1401,
+        6658
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 8,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 5680 \u00e0 BASE 14545",
+        "REM 6658 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Z.",
+    "timestamp": "2025-11-24T17:02:27.530407",
+    "base_id": 14546,
+    "errors": [
+      "Falha ao adicionar driver 4852 \u00e0 BASE 14546",
+      "REM 1424 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Z.",
+      "base_id": 14546,
+      "base_name": "Z.",
+      "rem_ids": [
+        1424,
+        3391,
+        8848
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4852 \u00e0 BASE 14546",
+        "REM 1424 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Z.",
+    "timestamp": "2025-11-24T17:02:27.533632",
+    "stats": {
+      "group_name": "Z.",
+      "base_id": 14546,
+      "base_name": "Z.",
+      "rem_ids": [
+        1424,
+        3391,
+        8848
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4852 \u00e0 BASE 14546",
+        "REM 1424 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "P.",
+    "timestamp": "2025-11-24T17:03:22.180724",
+    "base_id": 14547,
+    "errors": [
+      "Falha ao adicionar driver 4811 \u00e0 BASE 14547",
+      "REM 1431 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "P.",
+      "base_id": 14547,
+      "base_name": "P.",
+      "rem_ids": [
+        1430,
+        13970,
+        1431
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4811 \u00e0 BASE 14547",
+        "REM 1431 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "P.",
+    "timestamp": "2025-11-24T17:03:22.184668",
+    "stats": {
+      "group_name": "P.",
+      "base_id": 14547,
+      "base_name": "P.",
+      "rem_ids": [
+        1430,
+        13970,
+        1431
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4811 \u00e0 BASE 14547",
+        "REM 1431 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Hawk Racing",
+    "timestamp": "2025-11-24T17:03:49.903030",
+    "base_id": 2584,
+    "errors": [
+      "Falha ao adicionar driver 4556 \u00e0 BASE 2584",
+      "REM 2585 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Hawk Racing",
+      "base_id": 2584,
+      "base_name": "Hawk Racing",
+      "rem_ids": [
+        2585,
+        1421
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 8,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4556 \u00e0 BASE 2584",
+        "REM 2585 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Hawk Racing",
+    "timestamp": "2025-11-24T17:03:49.905987",
+    "stats": {
+      "group_name": "Hawk Racing",
+      "base_id": 2584,
+      "base_name": "Hawk Racing",
+      "rem_ids": [
+        2585,
+        1421
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 8,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4556 \u00e0 BASE 2584",
+        "REM 2585 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "T. Racing",
+    "timestamp": "2025-11-24T17:05:13.895242",
+    "base_id": 14548,
+    "errors": [
+      "Falha ao adicionar driver 4815 \u00e0 BASE 14548",
+      "REM 2589 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 6002 \u00e0 BASE 14548",
+      "REM 5736 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar miniature 11444 \u00e0 BASE 14548",
+      "REM 7944 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "T. Racing",
+      "base_id": 14548,
+      "base_name": "T. Racing",
+      "rem_ids": [
+        2589,
+        5736,
+        7894,
+        7269,
+        7944,
+        8435
+      ],
+      "miniatures_moved": 42,
+      "drivers_moved": 26,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4815 \u00e0 BASE 14548",
+        "REM 2589 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 6002 \u00e0 BASE 14548",
+        "REM 5736 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 11444 \u00e0 BASE 14548",
+        "REM 7944 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "T. Racing",
+    "timestamp": "2025-11-24T17:05:13.898687",
+    "stats": {
+      "group_name": "T. Racing",
+      "base_id": 14548,
+      "base_name": "T. Racing",
+      "rem_ids": [
+        2589,
+        5736,
+        7894,
+        7269,
+        7944,
+        8435
+      ],
+      "miniatures_moved": 42,
+      "drivers_moved": 26,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4815 \u00e0 BASE 14548",
+        "REM 2589 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 6002 \u00e0 BASE 14548",
+        "REM 5736 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 11444 \u00e0 BASE 14548",
+        "REM 7944 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Swap Shop",
+    "timestamp": "2025-11-24T17:05:29.834798",
+    "base_id": 14549,
+    "errors": [
+      "Falha ao adicionar driver 3985 \u00e0 BASE 14549",
+      "Falha ao adicionar driver 4310 \u00e0 BASE 14549",
+      "REM 2605 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Swap Shop",
+      "base_id": 14549,
+      "base_name": "Swap Shop",
+      "rem_ids": [
+        2605,
+        14492
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 3985 \u00e0 BASE 14549",
+        "Falha ao adicionar driver 4310 \u00e0 BASE 14549",
+        "REM 2605 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Swap Shop",
+    "timestamp": "2025-11-24T17:05:29.838020",
+    "stats": {
+      "group_name": "Swap Shop",
+      "base_id": 14549,
+      "base_name": "Swap Shop",
+      "rem_ids": [
+        2605,
+        14492
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 3985 \u00e0 BASE 14549",
+        "Falha ao adicionar driver 4310 \u00e0 BASE 14549",
+        "REM 2605 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Heuer Racing",
+    "timestamp": "2025-11-24T17:05:54.204055",
+    "base_id": 2619,
+    "errors": [
+      "Falha ao adicionar driver 5361 \u00e0 BASE 2619",
+      "REM 3907 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Heuer Racing",
+      "base_id": 2619,
+      "base_name": "Heuer Racing",
+      "rem_ids": [
+        3907,
+        2700
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 5361 \u00e0 BASE 2619",
+        "REM 3907 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Heuer Racing",
+    "timestamp": "2025-11-24T17:05:54.207846",
+    "stats": {
+      "group_name": "Heuer Racing",
+      "base_id": 2619,
+      "base_name": "Heuer Racing",
+      "rem_ids": [
+        3907,
+        2700
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 5361 \u00e0 BASE 2619",
+        "REM 3907 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "I. S. R.",
+    "timestamp": "2025-11-24T17:07:58.447653",
+    "base_id": 14554,
+    "errors": [
+      "Falha ao adicionar driver 5312 \u00e0 BASE 14554",
+      "REM 2744 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "I. S. R.",
+      "base_id": 14554,
+      "base_name": "I. S. R.",
+      "rem_ids": [
+        2744,
+        4737
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 14,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 5312 \u00e0 BASE 14554",
+        "REM 2744 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "I. S. R.",
+    "timestamp": "2025-11-24T17:07:58.451448",
+    "stats": {
+      "group_name": "I. S. R.",
+      "base_id": 14554,
+      "base_name": "I. S. R.",
+      "rem_ids": [
+        2744,
+        4737
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 14,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 5312 \u00e0 BASE 14554",
+        "REM 2744 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Impul",
+    "timestamp": "2025-11-24T17:08:42.407327",
+    "base_id": 7383,
+    "errors": [
+      "Falha ao adicionar miniature 6171 \u00e0 BASE 7383",
+      "Falha ao adicionar miniature 6172 \u00e0 BASE 7383",
+      "REM 7240 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Impul",
+      "base_id": 7383,
+      "base_name": "Impul",
+      "rem_ids": [
+        2748,
+        2825,
+        6001,
+        7240
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 12,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar miniature 6171 \u00e0 BASE 7383",
+        "Falha ao adicionar miniature 6172 \u00e0 BASE 7383",
+        "REM 7240 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Impul",
+    "timestamp": "2025-11-24T17:08:42.411136",
+    "stats": {
+      "group_name": "Impul",
+      "base_id": 7383,
+      "base_name": "Impul",
+      "rem_ids": [
+        2748,
+        2825,
+        6001,
+        7240
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 12,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar miniature 6171 \u00e0 BASE 7383",
+        "Falha ao adicionar miniature 6172 \u00e0 BASE 7383",
+        "REM 7240 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Autosport",
+    "timestamp": "2025-11-24T17:09:28.273821",
+    "base_id": 632,
+    "errors": [
+      "Falha ao adicionar driver 5686 \u00e0 BASE 632",
+      "REM 1184 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Autosport",
+      "base_id": 632,
+      "base_name": "Autosport",
+      "rem_ids": [
+        2760,
+        1184,
+        1483
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5686 \u00e0 BASE 632",
+        "REM 1184 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Autosport",
+    "timestamp": "2025-11-24T17:09:28.276465",
+    "stats": {
+      "group_name": "Autosport",
+      "base_id": 632,
+      "base_name": "Autosport",
+      "rem_ids": [
+        2760,
+        1184,
+        1483
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5686 \u00e0 BASE 632",
+        "REM 1184 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Impreza",
+    "timestamp": "2025-11-24T17:10:23.073948",
+    "base_id": 7380,
+    "errors": [
+      "Falha ao adicionar miniature 12045 \u00e0 BASE 7380",
+      "Falha ao adicionar miniature 13606 \u00e0 BASE 7380",
+      "Falha ao adicionar miniature 11688 \u00e0 BASE 7380",
+      "Falha ao adicionar miniature 6252 \u00e0 BASE 7380",
+      "Falha ao adicionar miniature 11690 \u00e0 BASE 7380",
+      "Falha ao adicionar miniature 10551 \u00e0 BASE 7380",
+      "Falha ao adicionar miniature 11652 \u00e0 BASE 7380",
+      "Falha ao adicionar miniature 13663 \u00e0 BASE 7380",
+      "Falha ao adicionar miniature 12643 \u00e0 BASE 7380",
+      "Falha ao adicionar miniature 13259 \u00e0 BASE 7380",
+      "Falha ao adicionar miniature 9960 \u00e0 BASE 7380",
+      "Falha ao adicionar driver 5525 \u00e0 BASE 7380",
+      "REM 2770 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Impreza",
+      "base_id": 7380,
+      "base_name": "Impreza",
+      "rem_ids": [
+        2770
+      ],
+      "miniatures_moved": 14,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar miniature 12045 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 13606 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 11688 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 6252 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 11690 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 10551 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 11652 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 13663 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 12643 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 13259 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 9960 \u00e0 BASE 7380",
+        "Falha ao adicionar driver 5525 \u00e0 BASE 7380",
+        "REM 2770 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Impreza",
+    "timestamp": "2025-11-24T17:10:23.075463",
+    "stats": {
+      "group_name": "Impreza",
+      "base_id": 7380,
+      "base_name": "Impreza",
+      "rem_ids": [
+        2770
+      ],
+      "miniatures_moved": 14,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar miniature 12045 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 13606 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 11688 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 6252 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 11690 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 10551 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 11652 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 13663 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 12643 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 13259 \u00e0 BASE 7380",
+        "Falha ao adicionar miniature 9960 \u00e0 BASE 7380",
+        "Falha ao adicionar driver 5525 \u00e0 BASE 7380",
+        "REM 2770 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Inch'S Cider",
+    "timestamp": "2025-11-24T17:10:31.437182",
+    "base_id": 14558,
+    "errors": [
+      "Falha ao adicionar driver 4737 \u00e0 BASE 14558",
+      "REM 2778 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Inch'S Cider",
+      "base_id": 14558,
+      "base_name": "Inch'S Cider",
+      "rem_ids": [
+        2778
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4737 \u00e0 BASE 14558",
+        "REM 2778 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Inch'S Cider",
+    "timestamp": "2025-11-24T17:10:31.439185",
+    "stats": {
+      "group_name": "Inch'S Cider",
+      "base_id": 14558,
+      "base_name": "Inch'S Cider",
+      "rem_ids": [
+        2778
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4737 \u00e0 BASE 14558",
+        "REM 2778 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Interwetten.com",
+    "timestamp": "2025-11-24T17:11:22.935380",
+    "base_id": 2803,
+    "errors": [
+      "Falha ao adicionar driver 4718 \u00e0 BASE 2803",
+      "Falha ao adicionar driver 4172 \u00e0 BASE 2803",
+      "Falha ao adicionar driver 4169 \u00e0 BASE 2803",
+      "Falha ao adicionar driver 4583 \u00e0 BASE 2803",
+      "REM 2804 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Interwetten.com",
+      "base_id": 2803,
+      "base_name": "Interwetten.com",
+      "rem_ids": [
+        2804,
+        2800
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4718 \u00e0 BASE 2803",
+        "Falha ao adicionar driver 4172 \u00e0 BASE 2803",
+        "Falha ao adicionar driver 4169 \u00e0 BASE 2803",
+        "Falha ao adicionar driver 4583 \u00e0 BASE 2803",
+        "REM 2804 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Interwetten.com",
+    "timestamp": "2025-11-24T17:11:22.939919",
+    "stats": {
+      "group_name": "Interwetten.com",
+      "base_id": 2803,
+      "base_name": "Interwetten.com",
+      "rem_ids": [
+        2804,
+        2800
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4718 \u00e0 BASE 2803",
+        "Falha ao adicionar driver 4172 \u00e0 BASE 2803",
+        "Falha ao adicionar driver 4169 \u00e0 BASE 2803",
+        "Falha ao adicionar driver 4583 \u00e0 BASE 2803",
+        "REM 2804 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Phoenix",
+    "timestamp": "2025-11-24T17:12:07.860274",
+    "base_id": 10165,
+    "errors": [
+      "Falha ao adicionar miniature 11058 \u00e0 BASE 10165",
+      "Falha ao adicionar driver 5680 \u00e0 BASE 10165",
+      "Falha ao adicionar driver 4918 \u00e0 BASE 10165",
+      "REM 4420 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Phoenix",
+      "base_id": 10165,
+      "base_name": "Phoenix",
+      "rem_ids": [
+        2814,
+        4420
+      ],
+      "miniatures_moved": 24,
+      "drivers_moved": 23,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 11058 \u00e0 BASE 10165",
+        "Falha ao adicionar driver 5680 \u00e0 BASE 10165",
+        "Falha ao adicionar driver 4918 \u00e0 BASE 10165",
+        "REM 4420 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Phoenix",
+    "timestamp": "2025-11-24T17:12:07.863376",
+    "stats": {
+      "group_name": "Phoenix",
+      "base_id": 10165,
+      "base_name": "Phoenix",
+      "rem_ids": [
+        2814,
+        4420
+      ],
+      "miniatures_moved": 24,
+      "drivers_moved": 23,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 11058 \u00e0 BASE 10165",
+        "Falha ao adicionar driver 5680 \u00e0 BASE 10165",
+        "Falha ao adicionar driver 4918 \u00e0 BASE 10165",
+        "REM 4420 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Iso",
+    "timestamp": "2025-11-24T17:12:44.334598",
+    "base_id": 8473,
+    "errors": [
+      "Falha ao adicionar miniature 31021 \u00e0 BASE 8473",
+      "REM 8593 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Iso",
+      "base_id": 8473,
+      "base_name": "Iso",
+      "rem_ids": [
+        2817,
+        4584,
+        8593
+      ],
+      "miniatures_moved": 24,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar miniature 31021 \u00e0 BASE 8473",
+        "REM 8593 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Iso",
+    "timestamp": "2025-11-24T17:12:44.339164",
+    "stats": {
+      "group_name": "Iso",
+      "base_id": 8473,
+      "base_name": "Iso",
+      "rem_ids": [
+        2817,
+        4584,
+        8593
+      ],
+      "miniatures_moved": 24,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar miniature 31021 \u00e0 BASE 8473",
+        "REM 8593 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "A. J. S.",
+    "timestamp": "2025-11-24T17:13:50.784260",
+    "base_id": 14560,
+    "errors": [
+      "Falha ao adicionar driver 4173 \u00e0 BASE 14560",
+      "REM 2837 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 5999 \u00e0 BASE 14560",
+      "REM 179 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "A. J. S.",
+      "base_id": 14560,
+      "base_name": "A. J. S.",
+      "rem_ids": [
+        2837,
+        179,
+        243,
+        2859,
+        2891,
+        118
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 41,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 4173 \u00e0 BASE 14560",
+        "REM 2837 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5999 \u00e0 BASE 14560",
+        "REM 179 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "A. J. S.",
+    "timestamp": "2025-11-24T17:13:50.788996",
+    "stats": {
+      "group_name": "A. J. S.",
+      "base_id": 14560,
+      "base_name": "A. J. S.",
+      "rem_ids": [
+        2837,
+        179,
+        243,
+        2859,
+        2891,
+        118
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 41,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 4173 \u00e0 BASE 14560",
+        "REM 2837 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5999 \u00e0 BASE 14560",
+        "REM 179 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "D.",
+    "timestamp": "2025-11-24T17:14:50.748379",
+    "base_id": 14561,
+    "errors": [
+      "Falha ao adicionar driver 5423 \u00e0 BASE 14561",
+      "Falha ao adicionar driver 6049 \u00e0 BASE 14561",
+      "Falha ao adicionar driver 5467 \u00e0 BASE 14561",
+      "Falha ao adicionar driver 4067 \u00e0 BASE 14561",
+      "REM 2848 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 5687 \u00e0 BASE 14561",
+      "REM 1472 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "D.",
+      "base_id": 14561,
+      "base_name": "D.",
+      "rem_ids": [
+        2848,
+        2847,
+        1131,
+        8375,
+        1472,
+        2852
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 49,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5423 \u00e0 BASE 14561",
+        "Falha ao adicionar driver 6049 \u00e0 BASE 14561",
+        "Falha ao adicionar driver 5467 \u00e0 BASE 14561",
+        "Falha ao adicionar driver 4067 \u00e0 BASE 14561",
+        "REM 2848 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5687 \u00e0 BASE 14561",
+        "REM 1472 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "D.",
+    "timestamp": "2025-11-24T17:14:50.752967",
+    "stats": {
+      "group_name": "D.",
+      "base_id": 14561,
+      "base_name": "D.",
+      "rem_ids": [
+        2848,
+        2847,
+        1131,
+        8375,
+        1472,
+        2852
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 49,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5423 \u00e0 BASE 14561",
+        "Falha ao adicionar driver 6049 \u00e0 BASE 14561",
+        "Falha ao adicionar driver 5467 \u00e0 BASE 14561",
+        "Falha ao adicionar driver 4067 \u00e0 BASE 14561",
+        "REM 2848 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5687 \u00e0 BASE 14561",
+        "REM 1472 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "J. H. K. T.-Shirt Laglisse",
+    "timestamp": "2025-11-24T17:15:06.821922",
+    "base_id": 14562,
+    "errors": [
+      "Falha ao adicionar driver 4157 \u00e0 BASE 14562",
+      "REM 2854 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 4529 \u00e0 BASE 14562",
+      "REM 425 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "J. H. K. T.-Shirt Laglisse",
+      "base_id": 14562,
+      "base_name": "J. H. K. T.-Shirt Laglisse",
+      "rem_ids": [
+        2854,
+        425
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4157 \u00e0 BASE 14562",
+        "REM 2854 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4529 \u00e0 BASE 14562",
+        "REM 425 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "J. H. K. T.-Shirt Laglisse",
+    "timestamp": "2025-11-24T17:15:06.826063",
+    "stats": {
+      "group_name": "J. H. K. T.-Shirt Laglisse",
+      "base_id": 14562,
+      "base_name": "J. H. K. T.-Shirt Laglisse",
+      "rem_ids": [
+        2854,
+        425
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4157 \u00e0 BASE 14562",
+        "REM 2854 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4529 \u00e0 BASE 14562",
+        "REM 425 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "J. H. R.",
+    "timestamp": "2025-11-24T17:15:37.594999",
+    "base_id": 14563,
+    "errors": [
+      "Falha ao adicionar driver 4830 \u00e0 BASE 14563",
+      "REM 2856 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "J. H. R.",
+      "base_id": 14563,
+      "base_name": "J. H. R.",
+      "rem_ids": [
+        2856,
+        2855,
+        2844
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 30,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4830 \u00e0 BASE 14563",
+        "REM 2856 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "J. H. R.",
+    "timestamp": "2025-11-24T17:15:37.600020",
+    "stats": {
+      "group_name": "J. H. R.",
+      "base_id": 14563,
+      "base_name": "J. H. R.",
+      "rem_ids": [
+        2856,
+        2855,
+        2844
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 30,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4830 \u00e0 BASE 14563",
+        "REM 2856 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "J. J. Racing",
+    "timestamp": "2025-11-24T17:16:55.253488",
+    "base_id": 14564,
+    "errors": [
+      "Falha ao adicionar driver 4340 \u00e0 BASE 14564",
+      "Falha ao adicionar driver 4387 \u00e0 BASE 14564",
+      "Falha ao adicionar driver 4506 \u00e0 BASE 14564",
+      "Falha ao adicionar driver 4905 \u00e0 BASE 14564",
+      "Falha ao adicionar driver 4906 \u00e0 BASE 14564",
+      "Falha ao adicionar driver 5714 \u00e0 BASE 14564",
+      "Falha ao adicionar driver 5359 \u00e0 BASE 14564",
+      "Falha ao adicionar driver 5271 \u00e0 BASE 14564",
+      "REM 2868 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "J. J. Racing",
+      "base_id": 14564,
+      "base_name": "J. J. Racing",
+      "rem_ids": [
+        2860,
+        2868,
+        2833,
+        2672,
+        2840,
+        106
+      ],
+      "miniatures_moved": 18,
+      "drivers_moved": 22,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": [
+        "Falha ao adicionar driver 4340 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 4387 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 4506 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 4905 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 4906 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 5714 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 5359 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 5271 \u00e0 BASE 14564",
+        "REM 2868 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "J. J. Racing",
+    "timestamp": "2025-11-24T17:16:55.258889",
+    "stats": {
+      "group_name": "J. J. Racing",
+      "base_id": 14564,
+      "base_name": "J. J. Racing",
+      "rem_ids": [
+        2860,
+        2868,
+        2833,
+        2672,
+        2840,
+        106
+      ],
+      "miniatures_moved": 18,
+      "drivers_moved": 22,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": [
+        "Falha ao adicionar driver 4340 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 4387 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 4506 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 4905 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 4906 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 5714 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 5359 \u00e0 BASE 14564",
+        "Falha ao adicionar driver 5271 \u00e0 BASE 14564",
+        "REM 2868 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Jloc",
+    "timestamp": "2025-11-24T17:18:09.723423",
+    "base_id": 14566,
+    "errors": [
+      "Falha ao adicionar miniature 12125 \u00e0 BASE 14566",
+      "Falha ao adicionar miniature 11447 \u00e0 BASE 14566",
+      "Falha ao adicionar driver 5184 \u00e0 BASE 14566",
+      "Falha ao adicionar driver 5246 \u00e0 BASE 14566",
+      "REM 2862 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Jloc",
+      "base_id": 14566,
+      "base_name": "Jloc",
+      "rem_ids": [
+        2862,
+        2863,
+        6005,
+        8617
+      ],
+      "miniatures_moved": 25,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar miniature 12125 \u00e0 BASE 14566",
+        "Falha ao adicionar miniature 11447 \u00e0 BASE 14566",
+        "Falha ao adicionar driver 5184 \u00e0 BASE 14566",
+        "Falha ao adicionar driver 5246 \u00e0 BASE 14566",
+        "REM 2862 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Jloc",
+    "timestamp": "2025-11-24T17:18:09.727419",
+    "stats": {
+      "group_name": "Jloc",
+      "base_id": 14566,
+      "base_name": "Jloc",
+      "rem_ids": [
+        2862,
+        2863,
+        6005,
+        8617
+      ],
+      "miniatures_moved": 25,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar miniature 12125 \u00e0 BASE 14566",
+        "Falha ao adicionar miniature 11447 \u00e0 BASE 14566",
+        "Falha ao adicionar driver 5184 \u00e0 BASE 14566",
+        "Falha ao adicionar driver 5246 \u00e0 BASE 14566",
+        "REM 2862 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "J. P. Motorsports",
+    "timestamp": "2025-11-24T17:18:54.703307",
+    "base_id": 14567,
+    "errors": [
+      "Falha ao adicionar driver 5541 \u00e0 BASE 14567",
+      "Falha ao adicionar driver 4149 \u00e0 BASE 14567",
+      "REM 2885 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "J. P. Motorsports",
+      "base_id": 14567,
+      "base_name": "J. P. Motorsports",
+      "rem_ids": [
+        2865,
+        5753,
+        2878,
+        2885,
+        1136,
+        3218
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 32,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": [
+        "Falha ao adicionar driver 5541 \u00e0 BASE 14567",
+        "Falha ao adicionar driver 4149 \u00e0 BASE 14567",
+        "REM 2885 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "J. P. Motorsports",
+    "timestamp": "2025-11-24T17:18:54.708842",
+    "stats": {
+      "group_name": "J. P. Motorsports",
+      "base_id": 14567,
+      "base_name": "J. P. Motorsports",
+      "rem_ids": [
+        2865,
+        5753,
+        2878,
+        2885,
+        1136,
+        3218
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 32,
+      "competitions_moved": 0,
+      "teams_deleted": 5,
+      "errors": [
+        "Falha ao adicionar driver 5541 \u00e0 BASE 14567",
+        "Falha ao adicionar driver 4149 \u00e0 BASE 14567",
+        "REM 2885 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "One",
+    "timestamp": "2025-11-24T17:19:27.461606",
+    "base_id": 9776,
+    "errors": [
+      "Falha ao adicionar driver 5528 \u00e0 BASE 9776",
+      "Falha ao adicionar driver 5332 \u00e0 BASE 9776",
+      "REM 4793 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "One",
+      "base_id": 9776,
+      "base_name": "One",
+      "rem_ids": [
+        2595,
+        4134,
+        4793,
+        8813
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 19,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 5528 \u00e0 BASE 9776",
+        "Falha ao adicionar driver 5332 \u00e0 BASE 9776",
+        "REM 4793 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "One",
+    "timestamp": "2025-11-24T17:19:27.466651",
+    "stats": {
+      "group_name": "One",
+      "base_id": 9776,
+      "base_name": "One",
+      "rem_ids": [
+        2595,
+        4134,
+        4793,
+        8813
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 19,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 5528 \u00e0 BASE 9776",
+        "Falha ao adicionar driver 5332 \u00e0 BASE 9776",
+        "REM 4793 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "A. W. A.",
+    "timestamp": "2025-11-24T17:20:07.414775",
+    "base_id": 14569,
+    "errors": [
+      "Falha ao adicionar driver 5684 \u00e0 BASE 14569",
+      "Falha ao adicionar driver 4785 \u00e0 BASE 14569",
+      "REM 267 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "A. W. A.",
+      "base_id": 14569,
+      "base_name": "A. W. A.",
+      "rem_ids": [
+        95,
+        267
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 12,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 5684 \u00e0 BASE 14569",
+        "Falha ao adicionar driver 4785 \u00e0 BASE 14569",
+        "REM 267 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "A. W. A.",
+    "timestamp": "2025-11-24T17:20:07.418243",
+    "stats": {
+      "group_name": "A. W. A.",
+      "base_id": 14569,
+      "base_name": "A. W. A.",
+      "rem_ids": [
+        95,
+        267
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 12,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 5684 \u00e0 BASE 14569",
+        "Falha ao adicionar driver 4785 \u00e0 BASE 14569",
+        "REM 267 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Excelsior",
+    "timestamp": "2025-11-24T17:20:15.344013",
+    "base_id": 1996,
+    "errors": [
+      "Falha ao adicionar driver 5189 \u00e0 BASE 1996",
+      "REM 1358 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Excelsior",
+      "base_id": 1996,
+      "base_name": "Excelsior",
+      "rem_ids": [
+        1358
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 5189 \u00e0 BASE 1996",
+        "REM 1358 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Excelsior",
+    "timestamp": "2025-11-24T17:20:15.349468",
+    "stats": {
+      "group_name": "Excelsior",
+      "base_id": 1996,
+      "base_name": "Excelsior",
+      "rem_ids": [
+        1358
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 5189 \u00e0 BASE 1996",
+        "REM 1358 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Cupra",
+    "timestamp": "2025-11-24T17:21:55.639332",
+    "base_id": 11298,
+    "errors": [
+      "Falha ao adicionar driver 4898 \u00e0 BASE 11298",
+      "Falha ao adicionar driver 5721 \u00e0 BASE 11298",
+      "Falha ao adicionar driver 4212 \u00e0 BASE 11298",
+      "REM 1370 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 5350 \u00e0 BASE 11298",
+      "REM 1486 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Cupra",
+      "base_id": 11298,
+      "base_name": "Cupra",
+      "rem_ids": [
+        1369,
+        1370,
+        1486,
+        1454,
+        5971
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 30,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4898 \u00e0 BASE 11298",
+        "Falha ao adicionar driver 5721 \u00e0 BASE 11298",
+        "Falha ao adicionar driver 4212 \u00e0 BASE 11298",
+        "REM 1370 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5350 \u00e0 BASE 11298",
+        "REM 1486 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Cupra",
+    "timestamp": "2025-11-24T17:21:55.643918",
+    "stats": {
+      "group_name": "Cupra",
+      "base_id": 11298,
+      "base_name": "Cupra",
+      "rem_ids": [
+        1369,
+        1370,
+        1486,
+        1454,
+        5971
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 30,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4898 \u00e0 BASE 11298",
+        "Falha ao adicionar driver 5721 \u00e0 BASE 11298",
+        "Falha ao adicionar driver 4212 \u00e0 BASE 11298",
+        "REM 1370 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5350 \u00e0 BASE 11298",
+        "REM 1486 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Champion",
+    "timestamp": "2025-11-24T17:23:32.225298",
+    "base_id": 7133,
+    "errors": [
+      "Falha ao adicionar miniature 11173 \u00e0 BASE 7133",
+      "Falha ao adicionar miniature 12814 \u00e0 BASE 7133",
+      "Falha ao adicionar miniature 11004 \u00e0 BASE 7133",
+      "Falha ao adicionar miniature 30630 \u00e0 BASE 7133",
+      "REM 1259 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Champion",
+      "base_id": 7133,
+      "base_name": "Champion",
+      "rem_ids": [
+        1384,
+        1259
+      ],
+      "miniatures_moved": 10,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 11173 \u00e0 BASE 7133",
+        "Falha ao adicionar miniature 12814 \u00e0 BASE 7133",
+        "Falha ao adicionar miniature 11004 \u00e0 BASE 7133",
+        "Falha ao adicionar miniature 30630 \u00e0 BASE 7133",
+        "REM 1259 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Champion",
+    "timestamp": "2025-11-24T17:23:32.230215",
+    "stats": {
+      "group_name": "Champion",
+      "base_id": 7133,
+      "base_name": "Champion",
+      "rem_ids": [
+        1384,
+        1259
+      ],
+      "miniatures_moved": 10,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 11173 \u00e0 BASE 7133",
+        "Falha ao adicionar miniature 12814 \u00e0 BASE 7133",
+        "Falha ao adicionar miniature 11004 \u00e0 BASE 7133",
+        "Falha ao adicionar miniature 30630 \u00e0 BASE 7133",
+        "REM 1259 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Master",
+    "timestamp": "2025-11-24T17:24:20.541568",
+    "base_id": 7513,
+    "errors": [
+      "Falha ao adicionar driver 4123 \u00e0 BASE 7513",
+      "Falha ao adicionar driver 4193 \u00e0 BASE 7513",
+      "Falha ao adicionar driver 4244 \u00e0 BASE 7513",
+      "Falha ao adicionar driver 4378 \u00e0 BASE 7513",
+      "Falha ao adicionar driver 4323 \u00e0 BASE 7513",
+      "Falha ao adicionar driver 4435 \u00e0 BASE 7513",
+      "Falha ao adicionar driver 4767 \u00e0 BASE 7513",
+      "Falha ao adicionar driver 4939 \u00e0 BASE 7513",
+      "Falha ao adicionar driver 4940 \u00e0 BASE 7513",
+      "Falha ao adicionar driver 5054 \u00e0 BASE 7513",
+      "Falha ao adicionar driver 5391 \u00e0 BASE 7513",
+      "Falha ao adicionar driver 5648 \u00e0 BASE 7513",
+      "Falha ao adicionar driver 5532 \u00e0 BASE 7513",
+      "Falha ao adicionar driver 5202 \u00e0 BASE 7513",
+      "Falha ao adicionar driver 5888 \u00e0 BASE 7513",
+      "Falha ao adicionar driver 5981 \u00e0 BASE 7513",
+      "REM 6792 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 5287 \u00e0 BASE 7513",
+      "REM 6820 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Master",
+      "base_id": 7513,
+      "base_name": "Master",
+      "rem_ids": [
+        1398,
+        6792,
+        6820
+      ],
+      "miniatures_moved": 25,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4123 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4193 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4244 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4378 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4323 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4435 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4767 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4939 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4940 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5054 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5391 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5648 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5532 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5202 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5888 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5981 \u00e0 BASE 7513",
+        "REM 6792 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5287 \u00e0 BASE 7513",
+        "REM 6820 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Master",
+    "timestamp": "2025-11-24T17:24:20.544531",
+    "stats": {
+      "group_name": "Master",
+      "base_id": 7513,
+      "base_name": "Master",
+      "rem_ids": [
+        1398,
+        6792,
+        6820
+      ],
+      "miniatures_moved": 25,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4123 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4193 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4244 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4378 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4323 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4435 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4767 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4939 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 4940 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5054 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5391 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5648 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5532 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5202 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5888 \u00e0 BASE 7513",
+        "Falha ao adicionar driver 5981 \u00e0 BASE 7513",
+        "REM 6792 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5287 \u00e0 BASE 7513",
+        "REM 6820 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Corsa",
+    "timestamp": "2025-11-24T17:24:44.883777",
+    "base_id": 14033,
+    "errors": [
+      "Falha ao adicionar driver 4876 \u00e0 BASE 14033",
+      "Falha ao adicionar driver 5222 \u00e0 BASE 14033",
+      "Falha ao adicionar driver 4699 \u00e0 BASE 14033",
+      "Falha ao adicionar driver 4208 \u00e0 BASE 14033",
+      "Falha ao adicionar driver 4078 \u00e0 BASE 14033",
+      "Falha ao adicionar driver 5260 \u00e0 BASE 14033",
+      "Falha ao adicionar driver 5313 \u00e0 BASE 14033",
+      "Falha ao adicionar driver 5759 \u00e0 BASE 14033",
+      "REM 1413 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Corsa",
+      "base_id": 14033,
+      "base_name": "Corsa",
+      "rem_ids": [
+        1399,
+        1413
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 18,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4876 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 5222 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 4699 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 4208 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 4078 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 5260 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 5313 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 5759 \u00e0 BASE 14033",
+        "REM 1413 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Corsa",
+    "timestamp": "2025-11-24T17:24:44.887674",
+    "stats": {
+      "group_name": "Corsa",
+      "base_id": 14033,
+      "base_name": "Corsa",
+      "rem_ids": [
+        1399,
+        1413
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 18,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4876 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 5222 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 4699 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 4208 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 4078 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 5260 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 5313 \u00e0 BASE 14033",
+        "Falha ao adicionar driver 5759 \u00e0 BASE 14033",
+        "REM 1413 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Cowman Racing",
+    "timestamp": "2025-11-24T17:24:58.265983",
+    "base_id": 1408,
+    "errors": [
+      "Falha ao adicionar miniature 32557 \u00e0 BASE 1408",
+      "REM 989 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Cowman Racing",
+      "base_id": 1408,
+      "base_name": "Cowman Racing",
+      "rem_ids": [
+        989
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar miniature 32557 \u00e0 BASE 1408",
+        "REM 989 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Cowman Racing",
+    "timestamp": "2025-11-24T17:24:58.269602",
+    "stats": {
+      "group_name": "Cowman Racing",
+      "base_id": 1408,
+      "base_name": "Cowman Racing",
+      "rem_ids": [
+        989
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar miniature 32557 \u00e0 BASE 1408",
+        "REM 989 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Crosslink/kiwi Motorsport",
+    "timestamp": "2025-11-24T17:25:36.867644",
+    "base_id": 14570,
+    "errors": [
+      "Falha ao adicionar driver 4744 \u00e0 BASE 14570",
+      "Falha ao adicionar driver 4729 \u00e0 BASE 14570",
+      "Falha ao adicionar driver 5908 \u00e0 BASE 14570",
+      "REM 1427 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Crosslink/kiwi Motorsport",
+      "base_id": 14570,
+      "base_name": "Crosslink/kiwi Motorsport",
+      "rem_ids": [
+        1427
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 21,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4744 \u00e0 BASE 14570",
+        "Falha ao adicionar driver 4729 \u00e0 BASE 14570",
+        "Falha ao adicionar driver 5908 \u00e0 BASE 14570",
+        "REM 1427 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Crosslink/kiwi Motorsport",
+    "timestamp": "2025-11-24T17:25:36.871549",
+    "stats": {
+      "group_name": "Crosslink/kiwi Motorsport",
+      "base_id": 14570,
+      "base_name": "Crosslink/kiwi Motorsport",
+      "rem_ids": [
+        1427
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 21,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4744 \u00e0 BASE 14570",
+        "Falha ao adicionar driver 4729 \u00e0 BASE 14570",
+        "Falha ao adicionar driver 5908 \u00e0 BASE 14570",
+        "REM 1427 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "E. K. S.",
+    "timestamp": "2025-11-24T17:25:53.873422",
+    "base_id": 14571,
+    "errors": [
+      "Falha ao adicionar driver 4190 \u00e0 BASE 14571",
+      "REM 1443 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "E. K. S.",
+      "base_id": 14571,
+      "base_name": "E. K. S.",
+      "rem_ids": [
+        1443,
+        1750
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4190 \u00e0 BASE 14571",
+        "REM 1443 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "E. K. S.",
+    "timestamp": "2025-11-24T17:25:53.877991",
+    "stats": {
+      "group_name": "E. K. S.",
+      "base_id": 14571,
+      "base_name": "E. K. S.",
+      "rem_ids": [
+        1443,
+        1750
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 7,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4190 \u00e0 BASE 14571",
+        "REM 1443 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Curb-Agajanian/beck Motorsport",
+    "timestamp": "2025-11-24T17:26:27.920108",
+    "base_id": 14572,
+    "errors": [
+      "Falha ao adicionar driver 4727 \u00e0 BASE 14572",
+      "REM 1154 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Curb-Agajanian/beck Motorsport",
+      "base_id": 14572,
+      "base_name": "Curb-Agajanian/beck Motorsport",
+      "rem_ids": [
+        1448,
+        1154
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4727 \u00e0 BASE 14572",
+        "REM 1154 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Curb-Agajanian/beck Motorsport",
+    "timestamp": "2025-11-24T17:26:27.924807",
+    "stats": {
+      "group_name": "Curb-Agajanian/beck Motorsport",
+      "base_id": 14572,
+      "base_name": "Curb-Agajanian/beck Motorsport",
+      "rem_ids": [
+        1448,
+        1154
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4727 \u00e0 BASE 14572",
+        "REM 1154 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Heart Of Racing Team",
+    "timestamp": "2025-11-24T17:26:41.122545",
+    "base_id": 14573,
+    "errors": [
+      "Falha ao adicionar driver 4815 \u00e0 BASE 14573",
+      "Falha ao adicionar miniature 11296 \u00e0 BASE 14573",
+      "REM 2588 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Heart Of Racing Team",
+      "base_id": 14573,
+      "base_name": "Heart Of Racing Team",
+      "rem_ids": [
+        2588
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 12,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4815 \u00e0 BASE 14573",
+        "Falha ao adicionar miniature 11296 \u00e0 BASE 14573",
+        "REM 2588 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Heart Of Racing Team",
+    "timestamp": "2025-11-24T17:26:41.126386",
+    "stats": {
+      "group_name": "Heart Of Racing Team",
+      "base_id": 14573,
+      "base_name": "Heart Of Racing Team",
+      "rem_ids": [
+        2588
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 12,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4815 \u00e0 BASE 14573",
+        "Falha ao adicionar miniature 11296 \u00e0 BASE 14573",
+        "REM 2588 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Heico",
+    "timestamp": "2025-11-24T17:26:49.215340",
+    "base_id": 13202,
+    "errors": [
+      "Falha ao adicionar driver 4950 \u00e0 BASE 13202",
+      "REM 2591 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Heico",
+      "base_id": 13202,
+      "base_name": "Heico",
+      "rem_ids": [
+        2591
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4950 \u00e0 BASE 13202",
+        "REM 2591 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Heico",
+    "timestamp": "2025-11-24T17:26:49.218971",
+    "stats": {
+      "group_name": "Heico",
+      "base_id": 13202,
+      "base_name": "Heico",
+      "rem_ids": [
+        2591
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4950 \u00e0 BASE 13202",
+        "REM 2591 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Meyer Shank",
+    "timestamp": "2025-11-24T17:27:38.480080",
+    "base_id": 7528,
+    "errors": [
+      "Falha ao adicionar driver 5115 \u00e0 BASE 7528",
+      "Falha ao adicionar driver 5076 \u00e0 BASE 7528",
+      "Falha ao adicionar driver 4996 \u00e0 BASE 7528",
+      "REM 2593 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar miniature 12034 \u00e0 BASE 7528",
+      "Falha ao adicionar miniature 11112 \u00e0 BASE 7528",
+      "Falha ao adicionar miniature 13318 \u00e0 BASE 7528",
+      "REM 3717 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Meyer Shank",
+      "base_id": 7528,
+      "base_name": "Meyer Shank",
+      "rem_ids": [
+        2593,
+        3717,
+        11263,
+        9966
+      ],
+      "miniatures_moved": 22,
+      "drivers_moved": 10,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5115 \u00e0 BASE 7528",
+        "Falha ao adicionar driver 5076 \u00e0 BASE 7528",
+        "Falha ao adicionar driver 4996 \u00e0 BASE 7528",
+        "REM 2593 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 12034 \u00e0 BASE 7528",
+        "Falha ao adicionar miniature 11112 \u00e0 BASE 7528",
+        "Falha ao adicionar miniature 13318 \u00e0 BASE 7528",
+        "REM 3717 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Meyer Shank",
+    "timestamp": "2025-11-24T17:27:38.484327",
+    "stats": {
+      "group_name": "Meyer Shank",
+      "base_id": 7528,
+      "base_name": "Meyer Shank",
+      "rem_ids": [
+        2593,
+        3717,
+        11263,
+        9966
+      ],
+      "miniatures_moved": 22,
+      "drivers_moved": 10,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5115 \u00e0 BASE 7528",
+        "Falha ao adicionar driver 5076 \u00e0 BASE 7528",
+        "Falha ao adicionar driver 4996 \u00e0 BASE 7528",
+        "REM 2593 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 12034 \u00e0 BASE 7528",
+        "Falha ao adicionar miniature 11112 \u00e0 BASE 7528",
+        "Falha ao adicionar miniature 13318 \u00e0 BASE 7528",
+        "REM 3717 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Herbert Motorsport",
+    "timestamp": "2025-11-24T17:28:34.232561",
+    "base_id": 2609,
+    "errors": [
+      "Falha ao adicionar driver 4967 \u00e0 BASE 2609",
+      "Falha ao adicionar driver 5651 \u00e0 BASE 2609",
+      "REM 2610 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Herbert Motorsport",
+      "base_id": 2609,
+      "base_name": "Herbert Motorsport",
+      "rem_ids": [
+        2610,
+        4504,
+        10832
+      ],
+      "miniatures_moved": 20,
+      "drivers_moved": 21,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4967 \u00e0 BASE 2609",
+        "Falha ao adicionar driver 5651 \u00e0 BASE 2609",
+        "REM 2610 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Herbert Motorsport",
+    "timestamp": "2025-11-24T17:28:34.236935",
+    "stats": {
+      "group_name": "Herbert Motorsport",
+      "base_id": 2609,
+      "base_name": "Herbert Motorsport",
+      "rem_ids": [
+        2610,
+        4504,
+        10832
+      ],
+      "miniatures_moved": 20,
+      "drivers_moved": 21,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4967 \u00e0 BASE 2609",
+        "Falha ao adicionar driver 5651 \u00e0 BASE 2609",
+        "REM 2610 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Heron",
+    "timestamp": "2025-11-24T17:29:10.777836",
+    "base_id": 9982,
+    "errors": [
+      "Falha ao adicionar miniature 12214 \u00e0 BASE 9982",
+      "Falha ao adicionar miniature 12210 \u00e0 BASE 9982",
+      "Falha ao adicionar miniature 12207 \u00e0 BASE 9982",
+      "Falha ao adicionar miniature 12208 \u00e0 BASE 9982",
+      "Falha ao adicionar miniature 10062 \u00e0 BASE 9982",
+      "Falha ao adicionar miniature 10080 \u00e0 BASE 9982",
+      "Falha ao adicionar miniature 13452 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 3970 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 4114 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 4268 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 4420 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 4368 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 4429 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 4968 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 4945 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 5130 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 5220 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 5348 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 5416 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 5367 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 5744 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 5729 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 5770 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 5947 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 5804 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 5955 \u00e0 BASE 9982",
+      "Falha ao adicionar driver 5983 \u00e0 BASE 9982",
+      "REM 5661 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Heron",
+      "base_id": 9982,
+      "base_name": "Heron",
+      "rem_ids": [
+        2613,
+        5661
+      ],
+      "miniatures_moved": 18,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 12214 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 12210 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 12207 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 12208 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 10062 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 10080 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 13452 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 3970 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4114 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4268 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4420 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4368 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4429 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4968 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4945 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5130 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5220 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5348 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5416 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5367 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5744 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5729 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5770 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5947 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5804 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5955 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5983 \u00e0 BASE 9982",
+        "REM 5661 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Heron",
+    "timestamp": "2025-11-24T17:29:10.782186",
+    "stats": {
+      "group_name": "Heron",
+      "base_id": 9982,
+      "base_name": "Heron",
+      "rem_ids": [
+        2613,
+        5661
+      ],
+      "miniatures_moved": 18,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 12214 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 12210 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 12207 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 12208 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 10062 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 10080 \u00e0 BASE 9982",
+        "Falha ao adicionar miniature 13452 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 3970 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4114 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4268 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4420 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4368 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4429 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4968 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 4945 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5130 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5220 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5348 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5416 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5367 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5744 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5729 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5770 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5947 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5804 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5955 \u00e0 BASE 9982",
+        "Falha ao adicionar driver 5983 \u00e0 BASE 9982",
+        "REM 5661 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Jota",
+    "timestamp": "2025-11-24T17:30:20.459988",
+    "base_id": 14576,
+    "errors": [
+      "Falha ao adicionar driver 5789 \u00e0 BASE 14576",
+      "Falha ao adicionar miniature 6197 \u00e0 BASE 14576",
+      "REM 2616 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Jota",
+      "base_id": 14576,
+      "base_name": "Jota",
+      "rem_ids": [
+        2616,
+        2875,
+        7354,
+        6012,
+        14477
+      ],
+      "miniatures_moved": 37,
+      "drivers_moved": 22,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5789 \u00e0 BASE 14576",
+        "Falha ao adicionar miniature 6197 \u00e0 BASE 14576",
+        "REM 2616 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Jota",
+    "timestamp": "2025-11-24T17:30:20.464229",
+    "stats": {
+      "group_name": "Jota",
+      "base_id": 14576,
+      "base_name": "Jota",
+      "rem_ids": [
+        2616,
+        2875,
+        7354,
+        6012,
+        14477
+      ],
+      "miniatures_moved": 37,
+      "drivers_moved": 22,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5789 \u00e0 BASE 14576",
+        "Falha ao adicionar miniature 6197 \u00e0 BASE 14576",
+        "REM 2616 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Castrol",
+    "timestamp": "2025-11-24T17:32:17.436495",
+    "base_id": 7122,
+    "errors": [
+      "Falha ao adicionar driver 4580 \u00e0 BASE 7122",
+      "REM 2666 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 4013 \u00e0 BASE 7122",
+      "REM 1223 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Castrol",
+      "base_id": 7122,
+      "base_name": "Castrol",
+      "rem_ids": [
+        2666,
+        2665,
+        1223,
+        1105,
+        3214
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4580 \u00e0 BASE 7122",
+        "REM 2666 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4013 \u00e0 BASE 7122",
+        "REM 1223 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Castrol",
+    "timestamp": "2025-11-24T17:32:17.440894",
+    "stats": {
+      "group_name": "Castrol",
+      "base_id": 7122,
+      "base_name": "Castrol",
+      "rem_ids": [
+        2666,
+        2665,
+        1223,
+        1105,
+        3214
+      ],
+      "miniatures_moved": 5,
+      "drivers_moved": 20,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4580 \u00e0 BASE 7122",
+        "REM 2666 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4013 \u00e0 BASE 7122",
+        "REM 1223 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Asia",
+    "timestamp": "2025-11-24T17:32:50.042301",
+    "base_id": 11839,
+    "errors": [
+      "Falha ao adicionar driver 4216 \u00e0 BASE 11839",
+      "Falha ao adicionar driver 5164 \u00e0 BASE 11839",
+      "REM 2675 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 5164 \u00e0 BASE 11839",
+      "REM 2758 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Asia",
+      "base_id": 11839,
+      "base_name": "Asia",
+      "rem_ids": [
+        2675,
+        2758
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 22,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4216 \u00e0 BASE 11839",
+        "Falha ao adicionar driver 5164 \u00e0 BASE 11839",
+        "REM 2675 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5164 \u00e0 BASE 11839",
+        "REM 2758 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Asia",
+    "timestamp": "2025-11-24T17:32:50.046772",
+    "stats": {
+      "group_name": "Asia",
+      "base_id": 11839,
+      "base_name": "Asia",
+      "rem_ids": [
+        2675,
+        2758
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 22,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4216 \u00e0 BASE 11839",
+        "Falha ao adicionar driver 5164 \u00e0 BASE 11839",
+        "REM 2675 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5164 \u00e0 BASE 11839",
+        "REM 2758 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Italjet",
+    "timestamp": "2025-11-24T17:35:25.244932",
+    "base_id": 11805,
+    "errors": [
+      "Falha ao adicionar driver 4469 \u00e0 BASE 11805",
+      "REM 2746 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Italjet",
+      "base_id": 11805,
+      "base_name": "Italjet",
+      "rem_ids": [
+        2746
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4469 \u00e0 BASE 11805",
+        "REM 2746 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Italjet",
+    "timestamp": "2025-11-24T17:35:25.249361",
+    "stats": {
+      "group_name": "Italjet",
+      "base_id": 11805,
+      "base_name": "Italjet",
+      "rem_ids": [
+        2746
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4469 \u00e0 BASE 11805",
+        "REM 2746 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Pol Racing",
+    "timestamp": "2025-11-24T17:35:53.088362",
+    "base_id": 14583,
+    "errors": [
+      "Falha ao adicionar driver 5093 \u00e0 BASE 14583",
+      "REM 2755 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Pol Racing",
+      "base_id": 14583,
+      "base_name": "Pol Racing",
+      "rem_ids": [
+        2755,
+        12394,
+        12395
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5093 \u00e0 BASE 14583",
+        "REM 2755 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Pol Racing",
+    "timestamp": "2025-11-24T17:35:53.094877",
+    "stats": {
+      "group_name": "Pol Racing",
+      "base_id": 14583,
+      "base_name": "Pol Racing",
+      "rem_ids": [
+        2755,
+        12394,
+        12395
+      ],
+      "miniatures_moved": 4,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5093 \u00e0 BASE 14583",
+        "REM 2755 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "International Draco Racing",
+    "timestamp": "2025-11-24T17:36:24.581384",
+    "base_id": 2793,
+    "errors": [
+      "Falha ao adicionar driver 4947 \u00e0 BASE 2793",
+      "REM 3583 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "International Draco Racing",
+      "base_id": 2793,
+      "base_name": "International Draco Racing",
+      "rem_ids": [
+        3583
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4947 \u00e0 BASE 2793",
+        "REM 3583 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "International Draco Racing",
+    "timestamp": "2025-11-24T17:36:24.585585",
+    "stats": {
+      "group_name": "International Draco Racing",
+      "base_id": 2793,
+      "base_name": "International Draco Racing",
+      "rem_ids": [
+        3583
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4947 \u00e0 BASE 2793",
+        "REM 3583 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Project",
+    "timestamp": "2025-11-24T17:36:44.606686",
+    "base_id": 8411,
+    "errors": [
+      "Falha ao adicionar driver 5951 \u00e0 BASE 8411",
+      "REM 2808 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Project",
+      "base_id": 8411,
+      "base_name": "Project",
+      "rem_ids": [
+        2808,
+        1174
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 5951 \u00e0 BASE 8411",
+        "REM 2808 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Project",
+    "timestamp": "2025-11-24T17:36:44.611830",
+    "stats": {
+      "group_name": "Project",
+      "base_id": 8411,
+      "base_name": "Project",
+      "rem_ids": [
+        2808,
+        1174
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 5951 \u00e0 BASE 8411",
+        "REM 2808 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Proton",
+    "timestamp": "2025-11-24T17:37:25.223580",
+    "base_id": 7657,
+    "errors": [
+      "Falha ao adicionar miniature 13342 \u00e0 BASE 7657",
+      "Falha ao adicionar miniature 13177 \u00e0 BASE 7657",
+      "Falha ao adicionar miniature 13343 \u00e0 BASE 7657",
+      "Falha ao adicionar driver 4718 \u00e0 BASE 7657",
+      "Falha ao adicionar driver 4641 \u00e0 BASE 7657",
+      "Falha ao adicionar driver 5302 \u00e0 BASE 7657",
+      "Falha ao adicionar driver 5432 \u00e0 BASE 7657",
+      "Falha ao adicionar driver 5246 \u00e0 BASE 7657",
+      "REM 2812 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Proton",
+      "base_id": 7657,
+      "base_name": "Proton",
+      "rem_ids": [
+        2813,
+        2812
+      ],
+      "miniatures_moved": 22,
+      "drivers_moved": 24,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 13342 \u00e0 BASE 7657",
+        "Falha ao adicionar miniature 13177 \u00e0 BASE 7657",
+        "Falha ao adicionar miniature 13343 \u00e0 BASE 7657",
+        "Falha ao adicionar driver 4718 \u00e0 BASE 7657",
+        "Falha ao adicionar driver 4641 \u00e0 BASE 7657",
+        "Falha ao adicionar driver 5302 \u00e0 BASE 7657",
+        "Falha ao adicionar driver 5432 \u00e0 BASE 7657",
+        "Falha ao adicionar driver 5246 \u00e0 BASE 7657",
+        "REM 2812 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Proton",
+    "timestamp": "2025-11-24T17:37:25.230901",
+    "stats": {
+      "group_name": "Proton",
+      "base_id": 7657,
+      "base_name": "Proton",
+      "rem_ids": [
+        2813,
+        2812
+      ],
+      "miniatures_moved": 22,
+      "drivers_moved": 24,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 13342 \u00e0 BASE 7657",
+        "Falha ao adicionar miniature 13177 \u00e0 BASE 7657",
+        "Falha ao adicionar miniature 13343 \u00e0 BASE 7657",
+        "Falha ao adicionar driver 4718 \u00e0 BASE 7657",
+        "Falha ao adicionar driver 4641 \u00e0 BASE 7657",
+        "Falha ao adicionar driver 5302 \u00e0 BASE 7657",
+        "Falha ao adicionar driver 5432 \u00e0 BASE 7657",
+        "Falha ao adicionar driver 5246 \u00e0 BASE 7657",
+        "REM 2812 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Corvette",
+    "timestamp": "2025-11-24T17:39:16.033041",
+    "base_id": 7173,
+    "errors": [
+      "Falha ao adicionar miniature 5969 \u00e0 BASE 7173",
+      "Falha ao adicionar miniature 5974 \u00e0 BASE 7173",
+      "Falha ao adicionar miniature 11115 \u00e0 BASE 7173",
+      "Falha ao adicionar miniature 11113 \u00e0 BASE 7173",
+      "Falha ao adicionar miniature 11120 \u00e0 BASE 7173",
+      "Falha ao adicionar miniature 10760 \u00e0 BASE 7173",
+      "Falha ao adicionar driver 4633 \u00e0 BASE 7173",
+      "Falha ao adicionar driver 4828 \u00e0 BASE 7173",
+      "Falha ao adicionar driver 5541 \u00e0 BASE 7173",
+      "Falha ao adicionar driver 5797 \u00e0 BASE 7173",
+      "REM 1402 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 4867 \u00e0 BASE 7173",
+      "Falha ao adicionar driver 5797 \u00e0 BASE 7173",
+      "REM 1403 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Corvette",
+      "base_id": 7173,
+      "base_name": "Corvette",
+      "rem_ids": [
+        1402,
+        1403
+      ],
+      "miniatures_moved": 19,
+      "drivers_moved": 24,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar miniature 5969 \u00e0 BASE 7173",
+        "Falha ao adicionar miniature 5974 \u00e0 BASE 7173",
+        "Falha ao adicionar miniature 11115 \u00e0 BASE 7173",
+        "Falha ao adicionar miniature 11113 \u00e0 BASE 7173",
+        "Falha ao adicionar miniature 11120 \u00e0 BASE 7173",
+        "Falha ao adicionar miniature 10760 \u00e0 BASE 7173",
+        "Falha ao adicionar driver 4633 \u00e0 BASE 7173",
+        "Falha ao adicionar driver 4828 \u00e0 BASE 7173",
+        "Falha ao adicionar driver 5541 \u00e0 BASE 7173",
+        "Falha ao adicionar driver 5797 \u00e0 BASE 7173",
+        "REM 1402 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4867 \u00e0 BASE 7173",
+        "Falha ao adicionar driver 5797 \u00e0 BASE 7173",
+        "REM 1403 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Corvette",
+    "timestamp": "2025-11-24T17:39:16.037587",
+    "stats": {
+      "group_name": "Corvette",
+      "base_id": 7173,
+      "base_name": "Corvette",
+      "rem_ids": [
+        1402,
+        1403
+      ],
+      "miniatures_moved": 19,
+      "drivers_moved": 24,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar miniature 5969 \u00e0 BASE 7173",
+        "Falha ao adicionar miniature 5974 \u00e0 BASE 7173",
+        "Falha ao adicionar miniature 11115 \u00e0 BASE 7173",
+        "Falha ao adicionar miniature 11113 \u00e0 BASE 7173",
+        "Falha ao adicionar miniature 11120 \u00e0 BASE 7173",
+        "Falha ao adicionar miniature 10760 \u00e0 BASE 7173",
+        "Falha ao adicionar driver 4633 \u00e0 BASE 7173",
+        "Falha ao adicionar driver 4828 \u00e0 BASE 7173",
+        "Falha ao adicionar driver 5541 \u00e0 BASE 7173",
+        "Falha ao adicionar driver 5797 \u00e0 BASE 7173",
+        "REM 1402 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4867 \u00e0 BASE 7173",
+        "Falha ao adicionar driver 5797 \u00e0 BASE 7173",
+        "REM 1403 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Courage",
+    "timestamp": "2025-11-24T17:39:40.736084",
+    "base_id": 7177,
+    "errors": [
+      "Falha ao adicionar driver 4260 \u00e0 BASE 7177",
+      "Falha ao adicionar driver 4838 \u00e0 BASE 7177",
+      "Falha ao adicionar driver 4669 \u00e0 BASE 7177",
+      "Falha ao adicionar driver 4349 \u00e0 BASE 7177",
+      "Falha ao adicionar driver 5156 \u00e0 BASE 7177",
+      "Falha ao adicionar driver 5266 \u00e0 BASE 7177",
+      "Falha ao adicionar driver 5443 \u00e0 BASE 7177",
+      "REM 1407 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Courage",
+      "base_id": 7177,
+      "base_name": "Courage",
+      "rem_ids": [
+        1407,
+        14411
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 18,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4260 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 4838 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 4669 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 4349 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 5156 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 5266 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 5443 \u00e0 BASE 7177",
+        "REM 1407 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Courage",
+    "timestamp": "2025-11-24T17:39:40.740167",
+    "stats": {
+      "group_name": "Courage",
+      "base_id": 7177,
+      "base_name": "Courage",
+      "rem_ids": [
+        1407,
+        14411
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 18,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4260 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 4838 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 4669 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 4349 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 5156 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 5266 \u00e0 BASE 7177",
+        "Falha ao adicionar driver 5443 \u00e0 BASE 7177",
+        "REM 1407 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Hill",
+    "timestamp": "2025-11-24T17:41:30.304426",
+    "base_id": 11100,
+    "errors": [
+      "Falha ao adicionar driver 3987 \u00e0 BASE 11100",
+      "REM 3529 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Hill",
+      "base_id": 11100,
+      "base_name": "Hill",
+      "rem_ids": [
+        2628,
+        3025,
+        3529,
+        2546
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 12,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 3987 \u00e0 BASE 11100",
+        "REM 3529 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Hill",
+    "timestamp": "2025-11-24T17:41:30.308844",
+    "stats": {
+      "group_name": "Hill",
+      "base_id": 11100,
+      "base_name": "Hill",
+      "rem_ids": [
+        2628,
+        3025,
+        3529,
+        2546
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 12,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 3987 \u00e0 BASE 11100",
+        "REM 3529 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Hitech Gp",
+    "timestamp": "2025-11-24T17:41:53.569770",
+    "base_id": 14591,
+    "errors": [
+      "Falha ao adicionar driver 4801 \u00e0 BASE 14591",
+      "REM 2635 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Hitech Gp",
+      "base_id": 14591,
+      "base_name": "Hitech Gp",
+      "rem_ids": [
+        2635,
+        2636
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 9,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4801 \u00e0 BASE 14591",
+        "REM 2635 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Hitech Gp",
+    "timestamp": "2025-11-24T17:41:53.574491",
+    "stats": {
+      "group_name": "Hitech Gp",
+      "base_id": 14591,
+      "base_name": "Hitech Gp",
+      "rem_ids": [
+        2635,
+        2636
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 9,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4801 \u00e0 BASE 14591",
+        "REM 2635 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Grand Prix",
+    "timestamp": "2025-11-24T17:42:12.394880",
+    "base_id": 14592,
+    "errors": [
+      "Falha ao adicionar driver 4752 \u00e0 BASE 14592",
+      "REM 2637 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Grand Prix",
+      "base_id": 14592,
+      "base_name": "Grand Prix",
+      "rem_ids": [
+        2637,
+        13856
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4752 \u00e0 BASE 14592",
+        "REM 2637 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Grand Prix",
+    "timestamp": "2025-11-24T17:42:12.399687",
+    "stats": {
+      "group_name": "Grand Prix",
+      "base_id": 14592,
+      "base_name": "Grand Prix",
+      "rem_ids": [
+        2637,
+        13856
+      ],
+      "miniatures_moved": 2,
+      "drivers_moved": 16,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4752 \u00e0 BASE 14592",
+        "REM 2637 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Q.",
+    "timestamp": "2025-11-24T17:43:23.375382",
+    "base_id": 14593,
+    "errors": [
+      "Falha ao adicionar miniature 30868 \u00e0 BASE 14593",
+      "REM 9139 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Q.",
+      "base_id": 14593,
+      "base_name": "Q.",
+      "rem_ids": [
+        2657,
+        4671,
+        7661,
+        9139
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar miniature 30868 \u00e0 BASE 14593",
+        "REM 9139 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Q.",
+    "timestamp": "2025-11-24T17:43:23.379886",
+    "stats": {
+      "group_name": "Q.",
+      "base_id": 14593,
+      "base_name": "Q.",
+      "rem_ids": [
+        2657,
+        4671,
+        7661,
+        9139
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar miniature 30868 \u00e0 BASE 14593",
+        "REM 9139 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Uk",
+    "timestamp": "2025-11-24T17:43:47.523982",
+    "base_id": 10573,
+    "errors": [
+      "Falha ao adicionar driver 5447 \u00e0 BASE 10573",
+      "REM 2673 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Uk",
+      "base_id": 10573,
+      "base_name": "Uk",
+      "rem_ids": [
+        2673
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 5447 \u00e0 BASE 10573",
+        "REM 2673 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Uk",
+    "timestamp": "2025-11-24T17:43:47.528771",
+    "stats": {
+      "group_name": "Uk",
+      "base_id": 10573,
+      "base_name": "Uk",
+      "rem_ids": [
+        2673
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 5447 \u00e0 BASE 10573",
+        "REM 2673 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "A. R. C.",
+    "timestamp": "2025-11-24T17:44:50.170916",
+    "base_id": 14595,
+    "errors": [
+      "Falha ao adicionar driver 5697 \u00e0 BASE 14595",
+      "REM 6116 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "A. R. C.",
+      "base_id": 14595,
+      "base_name": "A. R. C.",
+      "rem_ids": [
+        2695,
+        231,
+        6116,
+        6990,
+        6539
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5697 \u00e0 BASE 14595",
+        "REM 6116 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "A. R. C.",
+    "timestamp": "2025-11-24T17:44:50.175382",
+    "stats": {
+      "group_name": "A. R. C.",
+      "base_id": 14595,
+      "base_name": "A. R. C.",
+      "rem_ids": [
+        2695,
+        231,
+        6116,
+        6990,
+        6539
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 5697 \u00e0 BASE 14595",
+        "REM 6116 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Rally Team Italia",
+    "timestamp": "2025-11-24T17:45:39.221902",
+    "base_id": 4843,
+    "errors": [
+      "Falha ao adicionar driver 4701 \u00e0 BASE 4843",
+      "REM 2722 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Rally Team Italia",
+      "base_id": 4843,
+      "base_name": "Rally Team Italia",
+      "rem_ids": [
+        2722
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4701 \u00e0 BASE 4843",
+        "REM 2722 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Rally Team Italia",
+    "timestamp": "2025-11-24T17:45:39.226988",
+    "stats": {
+      "group_name": "Rally Team Italia",
+      "base_id": 4843,
+      "base_name": "Rally Team Italia",
+      "rem_ids": [
+        2722
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 2,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 4701 \u00e0 BASE 4843",
+        "REM 2722 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Mobis",
+    "timestamp": "2025-11-24T17:46:35.145513",
+    "base_id": 7535,
+    "errors": [
+      "Falha ao adicionar driver 5362 \u00e0 BASE 7535",
+      "Falha ao adicionar driver 4184 \u00e0 BASE 7535",
+      "REM 2723 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar miniature 10300 \u00e0 BASE 7535",
+      "Falha ao adicionar miniature 10253 \u00e0 BASE 7535",
+      "REM 7737 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar miniature 12341 \u00e0 BASE 7535",
+      "REM 7973 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar miniature 11220 \u00e0 BASE 7535",
+      "REM 7921 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Mobis",
+      "base_id": 7535,
+      "base_name": "Mobis",
+      "rem_ids": [
+        2723,
+        7737,
+        7973,
+        7921
+      ],
+      "miniatures_moved": 43,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 5362 \u00e0 BASE 7535",
+        "Falha ao adicionar driver 4184 \u00e0 BASE 7535",
+        "REM 2723 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 10300 \u00e0 BASE 7535",
+        "Falha ao adicionar miniature 10253 \u00e0 BASE 7535",
+        "REM 7737 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 12341 \u00e0 BASE 7535",
+        "REM 7973 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 11220 \u00e0 BASE 7535",
+        "REM 7921 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Mobis",
+    "timestamp": "2025-11-24T17:46:35.150271",
+    "stats": {
+      "group_name": "Mobis",
+      "base_id": 7535,
+      "base_name": "Mobis",
+      "rem_ids": [
+        2723,
+        7737,
+        7973,
+        7921
+      ],
+      "miniatures_moved": 43,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 5362 \u00e0 BASE 7535",
+        "Falha ao adicionar driver 4184 \u00e0 BASE 7535",
+        "REM 2723 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 10300 \u00e0 BASE 7535",
+        "Falha ao adicionar miniature 10253 \u00e0 BASE 7535",
+        "REM 7737 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 12341 \u00e0 BASE 7535",
+        "REM 7973 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 11220 \u00e0 BASE 7535",
+        "REM 7921 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Team E.",
+    "timestamp": "2025-11-24T17:47:30.608058",
+    "base_id": 14598,
+    "errors": [
+      "Falha ao adicionar driver 4088 \u00e0 BASE 14598",
+      "REM 2733 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Team E.",
+      "base_id": 14598,
+      "base_name": "Team E.",
+      "rem_ids": [
+        2733,
+        5924
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4088 \u00e0 BASE 14598",
+        "REM 2733 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Team E.",
+    "timestamp": "2025-11-24T17:47:30.613002",
+    "stats": {
+      "group_name": "Team E.",
+      "base_id": 14598,
+      "base_name": "Team E.",
+      "rem_ids": [
+        2733,
+        5924
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 6,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4088 \u00e0 BASE 14598",
+        "REM 2733 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Aprilia",
+    "timestamp": "2025-11-24T17:48:11.955950",
+    "base_id": 9312,
+    "errors": [
+      "Falha ao adicionar driver 4673 \u00e0 BASE 9312",
+      "REM 2739 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 4580 \u00e0 BASE 9312",
+      "REM 472 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Aprilia",
+      "base_id": 9312,
+      "base_name": "Aprilia",
+      "rem_ids": [
+        2739,
+        472,
+        473,
+        6044
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4673 \u00e0 BASE 9312",
+        "REM 2739 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4580 \u00e0 BASE 9312",
+        "REM 472 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Aprilia",
+    "timestamp": "2025-11-24T17:48:11.960256",
+    "stats": {
+      "group_name": "Aprilia",
+      "base_id": 9312,
+      "base_name": "Aprilia",
+      "rem_ids": [
+        2739,
+        472,
+        473,
+        6044
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 13,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 4673 \u00e0 BASE 9312",
+        "REM 2739 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 4580 \u00e0 BASE 9312",
+        "REM 472 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Pr1 Motorsports",
+    "timestamp": "2025-11-24T17:49:14.121276",
+    "base_id": 14604,
+    "errors": [
+      "Falha ao adicionar driver 4302 \u00e0 BASE 14604",
+      "REM 4239 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar miniature 11308 \u00e0 BASE 14604",
+      "REM 8021 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Pr1 Motorsports",
+      "base_id": 14604,
+      "base_name": "Pr1 Motorsports",
+      "rem_ids": [
+        2791,
+        4239,
+        8021
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4302 \u00e0 BASE 14604",
+        "REM 4239 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 11308 \u00e0 BASE 14604",
+        "REM 8021 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Pr1 Motorsports",
+    "timestamp": "2025-11-24T17:49:14.127099",
+    "stats": {
+      "group_name": "Pr1 Motorsports",
+      "base_id": 14604,
+      "base_name": "Pr1 Motorsports",
+      "rem_ids": [
+        2791,
+        4239,
+        8021
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4302 \u00e0 BASE 14604",
+        "REM 4239 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar miniature 11308 \u00e0 BASE 14604",
+        "REM 8021 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "International Motorsport",
+    "timestamp": "2025-11-24T17:49:27.231891",
+    "base_id": 2794,
+    "errors": [
+      "Falha ao adicionar driver 4418 \u00e0 BASE 2794",
+      "REM 2795 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "International Motorsport",
+      "base_id": 2794,
+      "base_name": "International Motorsport",
+      "rem_ids": [
+        486,
+        2795
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4418 \u00e0 BASE 2794",
+        "REM 2795 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "International Motorsport",
+    "timestamp": "2025-11-24T17:49:27.236179",
+    "stats": {
+      "group_name": "International Motorsport",
+      "base_id": 2794,
+      "base_name": "International Motorsport",
+      "rem_ids": [
+        486,
+        2795
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4418 \u00e0 BASE 2794",
+        "REM 2795 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Jbxe",
+    "timestamp": "2025-11-24T17:49:58.139677",
+    "base_id": 14607,
+    "errors": [
+      "Falha ao adicionar driver 5087 \u00e0 BASE 14607",
+      "Falha ao adicionar driver 5333 \u00e0 BASE 14607",
+      "REM 2842 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Jbxe",
+      "base_id": 14607,
+      "base_name": "Jbxe",
+      "rem_ids": [
+        2842
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 5087 \u00e0 BASE 14607",
+        "Falha ao adicionar driver 5333 \u00e0 BASE 14607",
+        "REM 2842 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Jbxe",
+    "timestamp": "2025-11-24T17:49:58.144420",
+    "stats": {
+      "group_name": "Jbxe",
+      "base_id": 14607,
+      "base_name": "Jbxe",
+      "rem_ids": [
+        2842
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 4,
+      "competitions_moved": 0,
+      "teams_deleted": 0,
+      "errors": [
+        "Falha ao adicionar driver 5087 \u00e0 BASE 14607",
+        "Falha ao adicionar driver 5333 \u00e0 BASE 14607",
+        "REM 2842 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Moody",
+    "timestamp": "2025-11-24T17:50:54.324078",
+    "base_id": 7997,
+    "errors": [
+      "Falha ao adicionar miniature 10767 \u00e0 BASE 7997",
+      "REM 8063 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "Moody",
+      "base_id": 7997,
+      "base_name": "Moody",
+      "rem_ids": [
+        2652,
+        8063
+      ],
+      "miniatures_moved": 27,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 10767 \u00e0 BASE 7997",
+        "REM 8063 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "Moody",
+    "timestamp": "2025-11-24T17:50:54.328488",
+    "stats": {
+      "group_name": "Moody",
+      "base_id": 7997,
+      "base_name": "Moody",
+      "rem_ids": [
+        2652,
+        8063
+      ],
+      "miniatures_moved": 27,
+      "drivers_moved": 1,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar miniature 10767 \u00e0 BASE 7997",
+        "REM 8063 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "A. I. A.",
+    "timestamp": "2025-11-24T17:52:18.309227",
+    "base_id": 14612,
+    "errors": [
+      "Falha ao adicionar driver 4723 \u00e0 BASE 14612",
+      "REM 104 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 5294 \u00e0 BASE 14612",
+      "REM 128 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 5469 \u00e0 BASE 14612",
+      "Falha ao adicionar driver 5672 \u00e0 BASE 14612",
+      "REM 170 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "A. I. A.",
+      "base_id": 14612,
+      "base_name": "A. I. A.",
+      "rem_ids": [
+        104,
+        128,
+        152,
+        170,
+        172,
+        173
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 30,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4723 \u00e0 BASE 14612",
+        "REM 104 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5294 \u00e0 BASE 14612",
+        "REM 128 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5469 \u00e0 BASE 14612",
+        "Falha ao adicionar driver 5672 \u00e0 BASE 14612",
+        "REM 170 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "A. I. A.",
+    "timestamp": "2025-11-24T17:52:18.313994",
+    "stats": {
+      "group_name": "A. I. A.",
+      "base_id": 14612,
+      "base_name": "A. I. A.",
+      "rem_ids": [
+        104,
+        128,
+        152,
+        170,
+        172,
+        173
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 30,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4723 \u00e0 BASE 14612",
+        "REM 104 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5294 \u00e0 BASE 14612",
+        "REM 128 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5469 \u00e0 BASE 14612",
+        "Falha ao adicionar driver 5672 \u00e0 BASE 14612",
+        "REM 170 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "A. J. Foyt Enterprises",
+    "timestamp": "2025-11-24T17:52:46.458792",
+    "base_id": 14613,
+    "errors": [
+      "Falha ao adicionar driver 4821 \u00e0 BASE 14613",
+      "Falha ao adicionar driver 3986 \u00e0 BASE 14613",
+      "Falha ao adicionar driver 4312 \u00e0 BASE 14613",
+      "REM 105 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "A. J. Foyt Enterprises",
+      "base_id": 14613,
+      "base_name": "A. J. Foyt Enterprises",
+      "rem_ids": [
+        105,
+        8491
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 22,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4821 \u00e0 BASE 14613",
+        "Falha ao adicionar driver 3986 \u00e0 BASE 14613",
+        "Falha ao adicionar driver 4312 \u00e0 BASE 14613",
+        "REM 105 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "A. J. Foyt Enterprises",
+    "timestamp": "2025-11-24T17:52:46.463802",
+    "stats": {
+      "group_name": "A. J. Foyt Enterprises",
+      "base_id": 14613,
+      "base_name": "A. J. Foyt Enterprises",
+      "rem_ids": [
+        105,
+        8491
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 22,
+      "competitions_moved": 0,
+      "teams_deleted": 1,
+      "errors": [
+        "Falha ao adicionar driver 4821 \u00e0 BASE 14613",
+        "Falha ao adicionar driver 3986 \u00e0 BASE 14613",
+        "Falha ao adicionar driver 4312 \u00e0 BASE 14613",
+        "REM 105 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "R. Racing",
+    "timestamp": "2025-11-24T17:53:08.141930",
+    "base_id": 14614,
+    "errors": [
+      "Falha ao adicionar driver 5044 \u00e0 BASE 14614",
+      "REM 233 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "R. Racing",
+      "base_id": 14614,
+      "base_name": "R. Racing",
+      "rem_ids": [
+        108,
+        233,
+        4630
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5044 \u00e0 BASE 14614",
+        "REM 233 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "R. Racing",
+    "timestamp": "2025-11-24T17:53:08.146756",
+    "stats": {
+      "group_name": "R. Racing",
+      "base_id": 14614,
+      "base_name": "R. Racing",
+      "rem_ids": [
+        108,
+        233,
+        4630
+      ],
+      "miniatures_moved": 3,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5044 \u00e0 BASE 14614",
+        "REM 233 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "N.",
+    "timestamp": "2025-11-24T17:53:41.742560",
+    "base_id": 14617,
+    "errors": [
+      "Falha ao adicionar miniature 10052 \u00e0 BASE 14617",
+      "REM 8137 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "N.",
+      "base_id": 14617,
+      "base_name": "N.",
+      "rem_ids": [
+        113,
+        8137,
+        8545
+      ],
+      "miniatures_moved": 7,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar miniature 10052 \u00e0 BASE 14617",
+        "REM 8137 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "N.",
+    "timestamp": "2025-11-24T17:53:41.747495",
+    "stats": {
+      "group_name": "N.",
+      "base_id": 14617,
+      "base_name": "N.",
+      "rem_ids": [
+        113,
+        8137,
+        8545
+      ],
+      "miniatures_moved": 7,
+      "drivers_moved": 0,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar miniature 10052 \u00e0 BASE 14617",
+        "REM 8137 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "B. B. A.",
+    "timestamp": "2025-11-24T17:54:26.364733",
+    "base_id": 14618,
+    "errors": [
+      "Falha ao adicionar driver 5704 \u00e0 BASE 14618",
+      "REM 114 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "B. B. A.",
+      "base_id": 14618,
+      "base_name": "B. B. A.",
+      "rem_ids": [
+        114,
+        1202,
+        7045
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5704 \u00e0 BASE 14618",
+        "REM 114 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "B. B. A.",
+    "timestamp": "2025-11-24T17:54:26.367607",
+    "stats": {
+      "group_name": "B. B. A.",
+      "base_id": 14618,
+      "base_name": "B. B. A.",
+      "rem_ids": [
+        114,
+        1202,
+        7045
+      ],
+      "miniatures_moved": 6,
+      "drivers_moved": 5,
+      "competitions_moved": 0,
+      "teams_deleted": 2,
+      "errors": [
+        "Falha ao adicionar driver 5704 \u00e0 BASE 14618",
+        "REM 114 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "A. B. Racing",
+    "timestamp": "2025-11-24T17:54:51.717696",
+    "base_id": 14619,
+    "errors": [
+      "Falha ao adicionar driver 4918 \u00e0 BASE 14619",
+      "REM 115 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "A. B. Racing",
+      "base_id": 14619,
+      "base_name": "A. B. Racing",
+      "rem_ids": [
+        115,
+        6987,
+        3771,
+        3450
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4918 \u00e0 BASE 14619",
+        "REM 115 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "A. B. Racing",
+    "timestamp": "2025-11-24T17:54:51.722663",
+    "stats": {
+      "group_name": "A. B. Racing",
+      "base_id": 14619,
+      "base_name": "A. B. Racing",
+      "rem_ids": [
+        115,
+        6987,
+        3771,
+        3450
+      ],
+      "miniatures_moved": 1,
+      "drivers_moved": 3,
+      "competitions_moved": 0,
+      "teams_deleted": 3,
+      "errors": [
+        "Falha ao adicionar driver 4918 \u00e0 BASE 14619",
+        "REM 115 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "B. C. Motorsports",
+    "timestamp": "2025-11-24T17:55:35.474981",
+    "base_id": 14620,
+    "errors": [
+      "Falha ao adicionar driver 4380 \u00e0 BASE 14620",
+      "REM 117 N\u00c3O foi deletado porque houve falhas ao mover itens",
+      "Falha ao adicionar driver 5768 \u00e0 BASE 14620",
+      "REM 2204 N\u00c3O foi deletado porque houve falhas ao mover itens"
+    ],
+    "stats": {
+      "group_name": "B. C. Motorsports",
+      "base_id": 14620,
+      "base_name": "B. C. Motorsports",
+      "rem_ids": [
+        116,
+        117,
+        684,
+        693,
+        2204,
+        3423
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 30,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 4380 \u00e0 BASE 14620",
+        "REM 117 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5768 \u00e0 BASE 14620",
+        "REM 2204 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  },
+  {
+    "group_name": "B. C. Motorsports",
+    "timestamp": "2025-11-24T17:55:35.479915",
+    "stats": {
+      "group_name": "B. C. Motorsports",
+      "base_id": 14620,
+      "base_name": "B. C. Motorsports",
+      "rem_ids": [
+        116,
+        117,
+        684,
+        693,
+        2204,
+        3423
+      ],
+      "miniatures_moved": 0,
+      "drivers_moved": 30,
+      "competitions_moved": 0,
+      "teams_deleted": 4,
+      "errors": [
+        "Falha ao adicionar driver 4380 \u00e0 BASE 14620",
+        "REM 117 N\u00c3O foi deletado porque houve falhas ao mover itens",
+        "Falha ao adicionar driver 5768 \u00e0 BASE 14620",
+        "REM 2204 N\u00c3O foi deletado porque houve falhas ao mover itens"
+      ]
+    }
+  }
+]

@@ -1,0 +1,3810 @@
+{
+  "total_duplicate_groups": 251,
+  "duplicate_groups": [
+    {
+      "normalized_key": "mercedesbenz",
+      "teams": [
+        {
+          "id": 31,
+          "name": "Mercedes-Benz",
+          "nc_order": 30
+        },
+        {
+          "id": 7521,
+          "name": "Mercedes Benz",
+          "nc_order": 7519
+        }
+      ]
+    },
+    {
+      "normalized_key": "2seasmotorsport",
+      "teams": [
+        {
+          "id": 56,
+          "name": "2 Seas Motorsport",
+          "nc_order": 55
+        },
+        {
+          "id": 62,
+          "name": "2seas Motorsport",
+          "nc_order": 61
+        }
+      ]
+    },
+    {
+      "normalized_key": "alphatauri",
+      "teams": [
+        {
+          "id": 26,
+          "name": "Alpha Tauri",
+          "nc_order": 25
+        },
+        {
+          "id": 9151,
+          "name": "Alphatauri",
+          "nc_order": 9148
+        },
+        {
+          "id": 9245,
+          "name": "Alphatauri",
+          "nc_order": 9242
+        }
+      ]
+    },
+    {
+      "normalized_key": "subaru",
+      "teams": [
+        {
+          "id": 33,
+          "name": "Subaru",
+          "nc_order": 32
+        },
+        {
+          "id": 39,
+          "name": "Subaru",
+          "nc_order": 38
+        }
+      ]
+    },
+    {
+      "normalized_key": "acura",
+      "teams": [
+        {
+          "id": 2,
+          "name": "Acura",
+          "nc_order": 2
+        },
+        {
+          "id": 41,
+          "name": "Acura",
+          "nc_order": 40
+        }
+      ]
+    },
+    {
+      "normalized_key": "lbworks",
+      "teams": [
+        {
+          "id": 37,
+          "name": "L. B. Works",
+          "nc_order": 36
+        },
+        {
+          "id": 9388,
+          "name": "Lb-Works",
+          "nc_order": 9385
+        },
+        {
+          "id": 9572,
+          "name": "L. B. Works",
+          "nc_order": 9569
+        }
+      ]
+    },
+    {
+      "normalized_key": "8starmotorsports",
+      "teams": [
+        {
+          "id": 84,
+          "name": "8 Star Motorsports",
+          "nc_order": 83
+        },
+        {
+          "id": 87,
+          "name": "8star Motorsports",
+          "nc_order": 86
+        }
+      ]
+    },
+    {
+      "normalized_key": "d'hondthumphreymotorsports",
+      "teams": [
+        {
+          "id": 1456,
+          "name": "D'Hondt Humphrey Motorsports",
+          "nc_order": 1455
+        },
+        {
+          "id": 1457,
+          "name": "D'Hondt Humphrey Motorsports",
+          "nc_order": 1456
+        }
+      ]
+    },
+    {
+      "normalized_key": "hellapagidracingone",
+      "teams": [
+        {
+          "id": 2595,
+          "name": "Hella Pagid Racing One",
+          "nc_order": 2594
+        },
+        {
+          "id": 9873,
+          "name": "Hella Pagid Racing One",
+          "nc_order": 9870
+        }
+      ]
+    },
+    {
+      "normalized_key": "hoforracing",
+      "teams": [
+        {
+          "id": 2645,
+          "name": "Hofor Racing",
+          "nc_order": 2644
+        },
+        {
+          "id": 2647,
+          "name": "Hofor-Racing",
+          "nc_order": 2646
+        }
+      ]
+    },
+    {
+      "normalized_key": "hubautoracing",
+      "teams": [
+        {
+          "id": 2696,
+          "name": "Hub Auto Racing",
+          "nc_order": 2695
+        },
+        {
+          "id": 2698,
+          "name": "Hubauto Racing",
+          "nc_order": 2697
+        }
+      ]
+    },
+    {
+      "normalized_key": "imsacamel",
+      "teams": [
+        {
+          "id": 2737,
+          "name": "Imsa-Camel",
+          "nc_order": 2736
+        },
+        {
+          "id": 12070,
+          "name": "Imsa Camel",
+          "nc_order": 12067
+        }
+      ]
+    },
+    {
+      "normalized_key": "jdcmillermotorsports",
+      "teams": [
+        {
+          "id": 2849,
+          "name": "Jdc-Miller Motorsports",
+          "nc_order": 2848
+        },
+        {
+          "id": 9594,
+          "name": "Jdc Miller Motorsports",
+          "nc_order": 9591
+        }
+      ]
+    },
+    {
+      "normalized_key": "jlpracing",
+      "teams": [
+        {
+          "id": 2864,
+          "name": "J. L. P. Racing",
+          "nc_order": 2863
+        },
+        {
+          "id": 2836,
+          "name": "J. L. P. Racing",
+          "nc_order": 2835
+        }
+      ]
+    },
+    {
+      "normalized_key": "accarsltd",
+      "teams": [
+        {
+          "id": 98,
+          "name": "A. C. Cars Ltd.",
+          "nc_order": 97
+        },
+        {
+          "id": 10431,
+          "name": "Ac Cars Ltd.",
+          "nc_order": 10428
+        }
+      ]
+    },
+    {
+      "normalized_key": "craftbambooracing",
+      "teams": [
+        {
+          "id": 1411,
+          "name": "Craft-Bamboo Racing",
+          "nc_order": 1410
+        },
+        {
+          "id": 10373,
+          "name": "Craft Bamboo Racing",
+          "nc_order": 10370
+        }
+      ]
+    },
+    {
+      "normalized_key": "hitechgp",
+      "teams": [
+        {
+          "id": 2641,
+          "name": "Hitechgp",
+          "nc_order": 2640
+        },
+        {
+          "id": 2636,
+          "name": "Hitech Gp",
+          "nc_order": 2635
+        }
+      ]
+    },
+    {
+      "normalized_key": "jgsears",
+      "teams": [
+        {
+          "id": 2834,
+          "name": "J. G. Sears",
+          "nc_order": 2833
+        },
+        {
+          "id": 13842,
+          "name": "J. G. Sears",
+          "nc_order": 13839
+        }
+      ]
+    },
+    {
+      "normalized_key": "adaengineering",
+      "teams": [
+        {
+          "id": 102,
+          "name": "A. D. A. Engineering",
+          "nc_order": 101
+        },
+        {
+          "id": 11620,
+          "name": "Ada Engineering",
+          "nc_order": 11617
+        }
+      ]
+    },
+    {
+      "normalized_key": "agaci",
+      "teams": [
+        {
+          "id": 103,
+          "name": "A. G. A. C. I.",
+          "nc_order": 102
+        },
+        {
+          "id": 10164,
+          "name": "Agaci",
+          "nc_order": 10161
+        }
+      ]
+    },
+    {
+      "normalized_key": "aoracing",
+      "teams": [
+        {
+          "id": 107,
+          "name": "A. O. Racing",
+          "nc_order": 106
+        },
+        {
+          "id": 218,
+          "name": "A. O. Racing",
+          "nc_order": 217
+        }
+      ]
+    },
+    {
+      "normalized_key": "artengineering",
+      "teams": [
+        {
+          "id": 109,
+          "name": "A. R. T. Engineering",
+          "nc_order": 108
+        },
+        {
+          "id": 236,
+          "name": "A. R. T. Engineering",
+          "nc_order": 235
+        }
+      ]
+    },
+    {
+      "normalized_key": "asacachia",
+      "teams": [
+        {
+          "id": 112,
+          "name": "A. S. A. Cachia",
+          "nc_order": 111
+        },
+        {
+          "id": 7000,
+          "name": "A. S. A. Cachia",
+          "nc_order": 6998
+        }
+      ]
+    },
+    {
+      "normalized_key": "imsaperformancematmut",
+      "teams": [
+        {
+          "id": 2736,
+          "name": "Imsa Performance Matmut",
+          "nc_order": 2735
+        },
+        {
+          "id": 11537,
+          "name": "Imsa Performance Matmut",
+          "nc_order": 11534
+        },
+        {
+          "id": 13468,
+          "name": "Imsa Performance-Matmut",
+          "nc_order": 13465
+        }
+      ]
+    },
+    {
+      "normalized_key": "amgmercedes",
+      "teams": [
+        {
+          "id": 212,
+          "name": "A. M. G. Mercedes",
+          "nc_order": 211
+        },
+        {
+          "id": 213,
+          "name": "Amg-Mercedes",
+          "nc_order": 212
+        }
+      ]
+    },
+    {
+      "normalized_key": "dbmotorsport",
+      "teams": [
+        {
+          "id": 1463,
+          "name": "D. B. Motorsport",
+          "nc_order": 1462
+        },
+        {
+          "id": 1479,
+          "name": "D. B. Motorsport",
+          "nc_order": 1478
+        }
+      ]
+    },
+    {
+      "normalized_key": "dfracing",
+      "teams": [
+        {
+          "id": 1464,
+          "name": "D. F. Racing",
+          "nc_order": 1463
+        },
+        {
+          "id": 1490,
+          "name": "D. F. Racing",
+          "nc_order": 1489
+        }
+      ]
+    },
+    {
+      "normalized_key": "dstecheetah",
+      "teams": [
+        {
+          "id": 1518,
+          "name": "D. S. Techeetah",
+          "nc_order": 1517
+        },
+        {
+          "id": 1517,
+          "name": "Ds Techeetah",
+          "nc_order": 1516
+        }
+      ]
+    },
+    {
+      "normalized_key": "dalecoyneracingwithvassersullivan",
+      "teams": [
+        {
+          "id": 1534,
+          "name": "Dale Coyne Racing With Vasser Sullivan",
+          "nc_order": 1533
+        },
+        {
+          "id": 1535,
+          "name": "Dale Coyne Racing With Vasser-Sullivan",
+          "nc_order": 1534
+        }
+      ]
+    },
+    {
+      "normalized_key": "alanmannracingltd",
+      "teams": [
+        {
+          "id": 342,
+          "name": "Alan Mann Racing Ltd.",
+          "nc_order": 341
+        },
+        {
+          "id": 10737,
+          "name": "Alan Mann Racing Ltd",
+          "nc_order": 10734
+        }
+      ]
+    },
+    {
+      "normalized_key": "1",
+      "teams": [
+        {
+          "id": 6929,
+          "name": "1",
+          "nc_order": 6927
+        },
+        {
+          "id": 6932,
+          "name": "1",
+          "nc_order": 6930
+        }
+      ]
+    },
+    {
+      "normalized_key": "db",
+      "teams": [
+        {
+          "id": 1462,
+          "name": "D. B.",
+          "nc_order": 1461
+        },
+        {
+          "id": 12437,
+          "name": "Db",
+          "nc_order": 12434
+        }
+      ]
+    },
+    {
+      "normalized_key": "dempseyprotonracing",
+      "teams": [
+        {
+          "id": 1588,
+          "name": "Dempsey-Proton Racing",
+          "nc_order": 1587
+        },
+        {
+          "id": 9483,
+          "name": "Dempsey Proton Racing",
+          "nc_order": 9480
+        }
+      ]
+    },
+    {
+      "normalized_key": "doylerisiracing",
+      "teams": [
+        {
+          "id": 1654,
+          "name": "Doyle-Risi Racing",
+          "nc_order": 1653
+        },
+        {
+          "id": 9750,
+          "name": "Doyle Risi Racing",
+          "nc_order": 9747
+        }
+      ]
+    },
+    {
+      "normalized_key": "dragonspeed",
+      "teams": [
+        {
+          "id": 1662,
+          "name": "Dragonspeed",
+          "nc_order": 1661
+        },
+        {
+          "id": 10400,
+          "name": "Dragon Speed",
+          "nc_order": 10397
+        }
+      ]
+    },
+    {
+      "normalized_key": "deltaadr",
+      "teams": [
+        {
+          "id": 1582,
+          "name": "Delta-A. D. R.",
+          "nc_order": 1581
+        },
+        {
+          "id": 13542,
+          "name": "Delta Adr",
+          "nc_order": 13539
+        }
+      ]
+    },
+    {
+      "normalized_key": "dempseyracingproton",
+      "teams": [
+        {
+          "id": 1587,
+          "name": "Dempsey Racing Proton",
+          "nc_order": 1586
+        },
+        {
+          "id": 11470,
+          "name": "Dempsey Racing-Proton",
+          "nc_order": 11467
+        }
+      ]
+    },
+    {
+      "normalized_key": "ecuriesavincalberson",
+      "teams": [
+        {
+          "id": 1812,
+          "name": "Ecurie Savin Calberson",
+          "nc_order": 1811
+        },
+        {
+          "id": 9807,
+          "name": "Ecurie Savin-Calberson",
+          "nc_order": 9804
+        }
+      ]
+    },
+    {
+      "normalized_key": "fcctsr",
+      "teams": [
+        {
+          "id": 2005,
+          "name": "F. C. C. T. S. R.",
+          "nc_order": 2004
+        },
+        {
+          "id": 2018,
+          "name": "F. C. C. T. S. R.",
+          "nc_order": 2017
+        }
+      ]
+    },
+    {
+      "normalized_key": "jwaavila",
+      "teams": [
+        {
+          "id": 2902,
+          "name": "Jwa-Avila",
+          "nc_order": 2901
+        },
+        {
+          "id": 11532,
+          "name": "Jwa Avila",
+          "nc_order": 11529
+        }
+      ]
+    },
+    {
+      "normalized_key": "jaguarcarsltd",
+      "teams": [
+        {
+          "id": 2913,
+          "name": "Jaguar Cars Ltd.",
+          "nc_order": 2912
+        },
+        {
+          "id": 9465,
+          "name": "Jaguar Cars Ltd",
+          "nc_order": 9462
+        }
+      ]
+    },
+    {
+      "normalized_key": "armsupmotorsports",
+      "teams": [
+        {
+          "id": 500,
+          "name": "Arms Up Motorsports",
+          "nc_order": 499
+        },
+        {
+          "id": 502,
+          "name": "Armsup Motorsports",
+          "nc_order": 501
+        }
+      ]
+    },
+    {
+      "normalized_key": "autoracingclubbratislava",
+      "teams": [
+        {
+          "id": 629,
+          "name": "Autoracing Club Bratislava",
+          "nc_order": 628
+        },
+        {
+          "id": 11599,
+          "name": "Autoracingclub Bratislava",
+          "nc_order": 11596
+        }
+      ]
+    },
+    {
+      "normalized_key": "automobiliosca",
+      "teams": [
+        {
+          "id": 625,
+          "name": "Automobili Osca",
+          "nc_order": 624
+        },
+        {
+          "id": 11665,
+          "name": "Automobili O. S. C. A.",
+          "nc_order": 11662
+        }
+      ]
+    },
+    {
+      "normalized_key": "eastbelgianracingteam",
+      "teams": [
+        {
+          "id": 1771,
+          "name": "East Belgian Racing Team",
+          "nc_order": 1770
+        },
+        {
+          "id": 1770,
+          "name": "East Belgian Racing Team",
+          "nc_order": 1769
+        }
+      ]
+    },
+    {
+      "normalized_key": "euroracing",
+      "teams": [
+        {
+          "id": 1979,
+          "name": "Euroracing",
+          "nc_order": 1978
+        },
+        {
+          "id": 7257,
+          "name": "Euro Racing",
+          "nc_order": 7255
+        }
+      ]
+    },
+    {
+      "normalized_key": "bbacompetition",
+      "teams": [
+        {
+          "id": 667,
+          "name": "B. B. A. Competition",
+          "nc_order": 666
+        },
+        {
+          "id": 681,
+          "name": "B. B. A. Competition",
+          "nc_order": 680
+        }
+      ]
+    },
+    {
+      "normalized_key": "bfgoodrich",
+      "teams": [
+        {
+          "id": 668,
+          "name": "B. F. Goodrich",
+          "nc_order": 667
+        },
+        {
+          "id": 7046,
+          "name": "Bfgoodrich",
+          "nc_order": 7044
+        }
+      ]
+    },
+    {
+      "normalized_key": "brm",
+      "teams": [
+        {
+          "id": 669,
+          "name": "B. R. M.",
+          "nc_order": 668
+        },
+        {
+          "id": 766,
+          "name": "B. R. M.",
+          "nc_order": 765
+        }
+      ]
+    },
+    {
+      "normalized_key": "bscunningham",
+      "teams": [
+        {
+          "id": 670,
+          "name": "B. S. Cunningham",
+          "nc_order": 669
+        },
+        {
+          "id": 9741,
+          "name": "B. S. Cunningham",
+          "nc_order": 9738
+        }
+      ]
+    },
+    {
+      "normalized_key": "bentleymotorsltd",
+      "teams": [
+        {
+          "id": 868,
+          "name": "Bentley Motors Ltd.",
+          "nc_order": 867
+        },
+        {
+          "id": 9714,
+          "name": "Bentley Motors Ltd",
+          "nc_order": 9711
+        }
+      ]
+    },
+    {
+      "normalized_key": "gpcgiessesquadracorse",
+      "teams": [
+        {
+          "id": 2258,
+          "name": "G. P. C. Giesse Squadra Corse",
+          "nc_order": 2257
+        },
+        {
+          "id": 2196,
+          "name": "G. P. C. Giesse Squadra Corse",
+          "nc_order": 2195
+        }
+      ]
+    },
+    {
+      "normalized_key": "baraziepsilon",
+      "teams": [
+        {
+          "id": 815,
+          "name": "Barazi-Epsilon",
+          "nc_order": 814
+        },
+        {
+          "id": 13433,
+          "name": "Barazi Epsilon",
+          "nc_order": 13430
+        }
+      ]
+    },
+    {
+      "normalized_key": "fistteamaai",
+      "teams": [
+        {
+          "id": 2028,
+          "name": "Fist-Team A. A. I.",
+          "nc_order": 2027
+        },
+        {
+          "id": 14503,
+          "name": "Fist Team A. A. I.",
+          "nc_order": 14500
+        }
+      ]
+    },
+    {
+      "normalized_key": "bmaxracing",
+      "teams": [
+        {
+          "id": 938,
+          "name": "Bmax Racing",
+          "nc_order": 937
+        },
+        {
+          "id": 7044,
+          "name": "B.-Max Racing",
+          "nc_order": 7042
+        }
+      ]
+    },
+    {
+      "normalized_key": "ferrariafcorse",
+      "teams": [
+        {
+          "id": 2077,
+          "name": "Ferrari A. F. Corse",
+          "nc_order": 2076
+        },
+        {
+          "id": 2078,
+          "name": "Ferrari A. F. Corse",
+          "nc_order": 2077
+        }
+      ]
+    },
+    {
+      "normalized_key": "gpcsport",
+      "teams": [
+        {
+          "id": 2259,
+          "name": "G. P. C. Sport",
+          "nc_order": 2258
+        },
+        {
+          "id": 13301,
+          "name": "G. P. C. Sport",
+          "nc_order": 13298
+        }
+      ]
+    },
+    {
+      "normalized_key": "boutsenginionracing",
+      "teams": [
+        {
+          "id": 984,
+          "name": "Boutsen Ginion Racing",
+          "nc_order": 983
+        },
+        {
+          "id": 9600,
+          "name": "Boutsenginion Racing",
+          "nc_order": 9597
+        }
+      ]
+    },
+    {
+      "normalized_key": "kpaxracing",
+      "teams": [
+        {
+          "id": 3027,
+          "name": "K.-Pax Racing",
+          "nc_order": 3026
+        },
+        {
+          "id": 9423,
+          "name": "Kpax Racing",
+          "nc_order": 9420
+        }
+      ]
+    },
+    {
+      "normalized_key": "cipgreenpower",
+      "teams": [
+        {
+          "id": 1127,
+          "name": "C. I. P. Green Power",
+          "nc_order": 1126
+        },
+        {
+          "id": 1128,
+          "name": "C. I. P. Green Power",
+          "nc_order": 1127
+        }
+      ]
+    },
+    {
+      "normalized_key": "clxpurerxcing",
+      "teams": [
+        {
+          "id": 1139,
+          "name": "C. L. X. Pure Rxcing",
+          "nc_order": 1138
+        },
+        {
+          "id": 1141,
+          "name": "C. L. X. Pure Rxcing",
+          "nc_order": 1140
+        }
+      ]
+    },
+    {
+      "normalized_key": "garage59",
+      "teams": [
+        {
+          "id": 2324,
+          "name": "Garage 59",
+          "nc_order": 2323
+        },
+        {
+          "id": 7311,
+          "name": "Garage59",
+          "nc_order": 7309
+        }
+      ]
+    },
+    {
+      "normalized_key": "hbsuzukigpteam",
+      "teams": [
+        {
+          "id": 2484,
+          "name": "H. B. Suzuki G. P. Team",
+          "nc_order": 2483
+        },
+        {
+          "id": 2493,
+          "name": "H. B. Suzuki G. P. Team",
+          "nc_order": 2492
+        }
+      ]
+    },
+    {
+      "normalized_key": "carguyracing",
+      "teams": [
+        {
+          "id": 1195,
+          "name": "Carguy Racing",
+          "nc_order": 1194
+        },
+        {
+          "id": 10281,
+          "name": "Car Guy Racing",
+          "nc_order": 10278
+        }
+      ]
+    },
+    {
+      "normalized_key": "clearwaterracing",
+      "teams": [
+        {
+          "id": 1324,
+          "name": "Clearwater Racing",
+          "nc_order": 1323
+        },
+        {
+          "id": 11924,
+          "name": "Clear Water Racing",
+          "nc_order": 11921
+        }
+      ]
+    },
+    {
+      "normalized_key": "goodsmileracing",
+      "teams": [
+        {
+          "id": 2405,
+          "name": "Goodsmile Racing",
+          "nc_order": 2404
+        },
+        {
+          "id": 13614,
+          "name": "Good Smile Racing",
+          "nc_order": 13611
+        }
+      ]
+    },
+    {
+      "normalized_key": "kicmotorsport",
+      "teams": [
+        {
+          "id": 3046,
+          "name": "K. I. C. Motorsport",
+          "nc_order": 3045
+        },
+        {
+          "id": 3129,
+          "name": "Kic Motorsport",
+          "nc_order": 3128
+        }
+      ]
+    },
+    {
+      "normalized_key": "lagondaltd",
+      "teams": [
+        {
+          "id": 3241,
+          "name": "Lagonda Ltd.",
+          "nc_order": 3240
+        },
+        {
+          "id": 12978,
+          "name": "Lagonda Ltd",
+          "nc_order": 12975
+        }
+      ]
+    },
+    {
+      "normalized_key": "lambrettasafd",
+      "teams": [
+        {
+          "id": 3246,
+          "name": "Lambretta S. A. F. D.",
+          "nc_order": 3245
+        },
+        {
+          "id": 12448,
+          "name": "Lambretta Safd",
+          "nc_order": 12445
+        }
+      ]
+    },
+    {
+      "normalized_key": "landmotorsport",
+      "teams": [
+        {
+          "id": 3250,
+          "name": "Land Motorsport",
+          "nc_order": 3249
+        },
+        {
+          "id": 10090,
+          "name": "Land-Motorsport",
+          "nc_order": 10087
+        }
+      ]
+    },
+    {
+      "normalized_key": "redbullktmtech3",
+      "teams": [
+        {
+          "id": 4896,
+          "name": "Red Bull K. T. M. Tech 3",
+          "nc_order": 4895
+        },
+        {
+          "id": 4897,
+          "name": "Red Bull K. T. M. Tech3",
+          "nc_order": 4896
+        }
+      ]
+    },
+    {
+      "normalized_key": "spsautomotiveperformance",
+      "teams": [
+        {
+          "id": 5185,
+          "name": "S. P. S. Automotive Performance",
+          "nc_order": 5184
+        },
+        {
+          "id": 5186,
+          "name": "S. P. S. Automotive Performance",
+          "nc_order": 5185
+        }
+      ]
+    },
+    {
+      "normalized_key": "riverside",
+      "teams": [
+        {
+          "id": 5014,
+          "name": "Riverside",
+          "nc_order": 5013
+        },
+        {
+          "id": 7694,
+          "name": "River Side",
+          "nc_order": 7692
+        }
+      ]
+    },
+    {
+      "normalized_key": "secautomobilescd",
+      "teams": [
+        {
+          "id": 5144,
+          "name": "S. E. C. Automobiles Cd",
+          "nc_order": 5143
+        },
+        {
+          "id": 7704,
+          "name": "S. E. C. Automobiles Cd",
+          "nc_order": 7702
+        }
+      ]
+    },
+    {
+      "normalized_key": "redmanbright",
+      "teams": [
+        {
+          "id": 4921,
+          "name": "Redman-Bright",
+          "nc_order": 4920
+        },
+        {
+          "id": 4920,
+          "name": "Redman Bright",
+          "nc_order": 4919
+        }
+      ]
+    },
+    {
+      "normalized_key": "renaultedams",
+      "teams": [
+        {
+          "id": 4955,
+          "name": "Renault E. Dams",
+          "nc_order": 4954
+        },
+        {
+          "id": 11007,
+          "name": "Renault Edams",
+          "nc_order": 11004
+        }
+      ]
+    },
+    {
+      "normalized_key": "sefacferrari",
+      "teams": [
+        {
+          "id": 5118,
+          "name": "S. E. F. A. C. Ferrari",
+          "nc_order": 5117
+        },
+        {
+          "id": 9440,
+          "name": "Sefac Ferrari",
+          "nc_order": 9437
+        }
+      ]
+    },
+    {
+      "normalized_key": "mracingymr",
+      "teams": [
+        {
+          "id": 3392,
+          "name": "M. Racing Y. M. R.",
+          "nc_order": 3391
+        },
+        {
+          "id": 3410,
+          "name": "M. Racing Y. M. R.",
+          "nc_order": 3409
+        }
+      ]
+    },
+    {
+      "normalized_key": "map",
+      "teams": [
+        {
+          "id": 3407,
+          "name": "M. A. P.",
+          "nc_order": 3406
+        },
+        {
+          "id": 12252,
+          "name": "Map",
+          "nc_order": 12249
+        }
+      ]
+    },
+    {
+      "normalized_key": "mrsgtracing",
+      "teams": [
+        {
+          "id": 3483,
+          "name": "M. R. S. G. T. Racing",
+          "nc_order": 3482
+        },
+        {
+          "id": 3484,
+          "name": "M. R. S. Gt-Racing",
+          "nc_order": 3483
+        }
+      ]
+    },
+    {
+      "normalized_key": "mrracing",
+      "teams": [
+        {
+          "id": 3476,
+          "name": "M. R. Racing",
+          "nc_order": 3475
+        },
+        {
+          "id": 3477,
+          "name": "Mr-Racing",
+          "nc_order": 3476
+        }
+      ]
+    },
+    {
+      "normalized_key": "mazdaspeed",
+      "teams": [
+        {
+          "id": 3660,
+          "name": "Mazdaspeed",
+          "nc_order": 3659
+        },
+        {
+          "id": 9730,
+          "name": "Mazda Speed",
+          "nc_order": 9727
+        }
+      ]
+    },
+    {
+      "normalized_key": "rossocorsa",
+      "teams": [
+        {
+          "id": 5059,
+          "name": "Rosso Corsa",
+          "nc_order": 5058
+        },
+        {
+          "id": 12406,
+          "name": "Rossocorsa",
+          "nc_order": 12403
+        }
+      ]
+    },
+    {
+      "normalized_key": "mgcarsltd",
+      "teams": [
+        {
+          "id": 3446,
+          "name": "M. G. Cars Ltd.",
+          "nc_order": 3445
+        },
+        {
+          "id": 11459,
+          "name": "Mg Cars Ltd",
+          "nc_order": 11456
+        }
+      ]
+    },
+    {
+      "normalized_key": "martiniracing",
+      "teams": [
+        {
+          "id": 3619,
+          "name": "Martini Racing",
+          "nc_order": 3618
+        },
+        {
+          "id": 14277,
+          "name": "Martini-Racing",
+          "nc_order": 14274
+        }
+      ]
+    },
+    {
+      "normalized_key": "mg",
+      "teams": [
+        {
+          "id": 3409,
+          "name": "M. G.",
+          "nc_order": 3408
+        },
+        {
+          "id": 7490,
+          "name": "Mg",
+          "nc_order": 7488
+        }
+      ]
+    },
+    {
+      "normalized_key": "mkmotorsport",
+      "teams": [
+        {
+          "id": 3461,
+          "name": "M. K. Motorsport",
+          "nc_order": 3460
+        },
+        {
+          "id": 9813,
+          "name": "Mk-Motorsport",
+          "nc_order": 9810
+        }
+      ]
+    },
+    {
+      "normalized_key": "nart",
+      "teams": [
+        {
+          "id": 3953,
+          "name": "N. A. R. T.",
+          "nc_order": 3952
+        },
+        {
+          "id": 7566,
+          "name": "Nart",
+          "nc_order": 7564
+        },
+        {
+          "id": 9680,
+          "name": "N. A. R. T.",
+          "nc_order": 9677
+        }
+      ]
+    },
+    {
+      "normalized_key": "mogilmotorsltd",
+      "teams": [
+        {
+          "id": 3805,
+          "name": "Mogil Motors Ltd.",
+          "nc_order": 3804
+        },
+        {
+          "id": 9841,
+          "name": "Mogil Motors Ltd",
+          "nc_order": 9838
+        }
+      ]
+    },
+    {
+      "normalized_key": "montaplastbylandmotorsport",
+      "teams": [
+        {
+          "id": 3826,
+          "name": "Montaplast By Land-Motorsport",
+          "nc_order": 3825
+        },
+        {
+          "id": 11220,
+          "name": "Montaplast By Land Motorsport",
+          "nc_order": 11217
+        }
+      ]
+    },
+    {
+      "normalized_key": "ntstproproject",
+      "teams": [
+        {
+          "id": 3991,
+          "name": "N. T. S. T. Pro Project",
+          "nc_order": 3990
+        },
+        {
+          "id": 3992,
+          "name": "N. T. S. T. Pro Project",
+          "nc_order": 3991
+        }
+      ]
+    },
+    {
+      "normalized_key": "monsteryamahatech3",
+      "teams": [
+        {
+          "id": 3824,
+          "name": "Monster Yamaha Tech 3",
+          "nc_order": 3823
+        },
+        {
+          "id": 11026,
+          "name": "Monster Yamaha Tech3",
+          "nc_order": 11023
+        }
+      ]
+    },
+    {
+      "normalized_key": "oakracing",
+      "teams": [
+        {
+          "id": 4103,
+          "name": "Oak Racing",
+          "nc_order": 4102
+        },
+        {
+          "id": 13523,
+          "name": "Oak-Racing",
+          "nc_order": 13520
+        }
+      ]
+    },
+    {
+      "normalized_key": "signatechalpinematmut",
+      "teams": [
+        {
+          "id": 5395,
+          "name": "Signatech Alpine Matmut",
+          "nc_order": 5394
+        },
+        {
+          "id": 9619,
+          "name": "Signatech-Alpine Matmut",
+          "nc_order": 9616
+        }
+      ]
+    },
+    {
+      "normalized_key": "nowmotorsports",
+      "teams": [
+        {
+          "id": 4072,
+          "name": "Now Motor Sports",
+          "nc_order": 4071
+        },
+        {
+          "id": 4073,
+          "name": "Now Motorsports",
+          "nc_order": 4072
+        }
+      ]
+    },
+    {
+      "normalized_key": "octane126",
+      "teams": [
+        {
+          "id": 4110,
+          "name": "Octane 126",
+          "nc_order": 4109
+        },
+        {
+          "id": 7582,
+          "name": "Octane126",
+          "nc_order": 7580
+        }
+      ]
+    },
+    {
+      "normalized_key": "pgfkinfaunamr",
+      "teams": [
+        {
+          "id": 4214,
+          "name": "P. G. F. Kinfaun A. M. R.",
+          "nc_order": 4213
+        },
+        {
+          "id": 11976,
+          "name": "Pgf-Kinfaun Amr",
+          "nc_order": 11973
+        }
+      ]
+    },
+    {
+      "normalized_key": "project1",
+      "teams": [
+        {
+          "id": 4549,
+          "name": "Project 1",
+          "nc_order": 4548
+        },
+        {
+          "id": 9589,
+          "name": "Project-1",
+          "nc_order": 9586
+        }
+      ]
+    },
+    {
+      "normalized_key": "phsport",
+      "teams": [
+        {
+          "id": 4216,
+          "name": "P. H. Sport",
+          "nc_order": 4215
+        },
+        {
+          "id": 4217,
+          "name": "Ph-Sport",
+          "nc_order": 4216
+        }
+      ]
+    },
+    {
+      "normalized_key": "prosportracing",
+      "teams": [
+        {
+          "id": 4246,
+          "name": "Prosport Racing",
+          "nc_order": 4245
+        },
+        {
+          "id": 9433,
+          "name": "Pro-Sport Racing",
+          "nc_order": 9430
+        }
+      ]
+    },
+    {
+      "normalized_key": "promotorsport",
+      "teams": [
+        {
+          "id": 4533,
+          "name": "Pro Motor Sport",
+          "nc_order": 4532
+        },
+        {
+          "id": 4563,
+          "name": "Promotor Sport",
+          "nc_order": 4562
+        },
+        {
+          "id": 4564,
+          "name": "Promotorsport",
+          "nc_order": 4563
+        }
+      ]
+    },
+    {
+      "normalized_key": "project1ao",
+      "teams": [
+        {
+          "id": 4550,
+          "name": "Project 1 Ao",
+          "nc_order": 4549
+        },
+        {
+          "id": 7656,
+          "name": "Project 1-Ao",
+          "nc_order": 7654
+        }
+      ]
+    },
+    {
+      "normalized_key": "psg1corse",
+      "teams": [
+        {
+          "id": 4251,
+          "name": "P. S. G. 1 Corse",
+          "nc_order": 4250
+        },
+        {
+          "id": 14264,
+          "name": "Psg-1 Corse",
+          "nc_order": 14261
+        }
+      ]
+    },
+    {
+      "normalized_key": "peugeottalbotsport",
+      "teams": [
+        {
+          "id": 4409,
+          "name": "Peugeot-Talbot Sport",
+          "nc_order": 4408
+        },
+        {
+          "id": 4403,
+          "name": "Peugeot Talbot Sport",
+          "nc_order": 4402
+        }
+      ]
+    },
+    {
+      "normalized_key": "porschekg",
+      "teams": [
+        {
+          "id": 4468,
+          "name": "Porsche Kg",
+          "nc_order": 4467
+        },
+        {
+          "id": 9571,
+          "name": "Porsche K. G.",
+          "nc_order": 9568
+        }
+      ]
+    },
+    {
+      "normalized_key": "panozmotorsports",
+      "teams": [
+        {
+          "id": 4295,
+          "name": "Panoz Motor Sports",
+          "nc_order": 4294
+        },
+        {
+          "id": 9716,
+          "name": "Panoz Motorsports",
+          "nc_order": 9713
+        }
+      ]
+    },
+    {
+      "normalized_key": "rmotorsport",
+      "teams": [
+        {
+          "id": 4639,
+          "name": "R.-Motorsport",
+          "nc_order": 4638
+        },
+        {
+          "id": 10317,
+          "name": "R. Motorsport",
+          "nc_order": 10314
+        }
+      ]
+    },
+    {
+      "normalized_key": "rcmotorsport",
+      "teams": [
+        {
+          "id": 4675,
+          "name": "R. C. Motorsport",
+          "nc_order": 4674
+        },
+        {
+          "id": 4648,
+          "name": "R. C. Motorsport",
+          "nc_order": 4647
+        }
+      ]
+    },
+    {
+      "normalized_key": "sofrevasp",
+      "teams": [
+        {
+          "id": 5459,
+          "name": "Sofrev Asp",
+          "nc_order": 5458
+        },
+        {
+          "id": 14437,
+          "name": "Sofrev Asp",
+          "nc_order": 14434
+        }
+      ]
+    },
+    {
+      "normalized_key": "speedlover",
+      "teams": [
+        {
+          "id": 5498,
+          "name": "Speedlover",
+          "nc_order": 5497
+        },
+        {
+          "id": 5492,
+          "name": "Speed Lover",
+          "nc_order": 5491
+        }
+      ]
+    },
+    {
+      "normalized_key": "rlrmsport",
+      "teams": [
+        {
+          "id": 4699,
+          "name": "R. L. R. Msport",
+          "nc_order": 4698
+        },
+        {
+          "id": 10360,
+          "name": "Rlr M. Sport",
+          "nc_order": 10357
+        }
+      ]
+    },
+    {
+      "normalized_key": "rsrallyesport",
+      "teams": [
+        {
+          "id": 4729,
+          "name": "R. S. Rallye Sport",
+          "nc_order": 4728
+        },
+        {
+          "id": 4732,
+          "name": "Rs-Rallye Sport",
+          "nc_order": 4731
+        }
+      ]
+    },
+    {
+      "normalized_key": "rallytechnology",
+      "teams": [
+        {
+          "id": 4848,
+          "name": "Rally Technology",
+          "nc_order": 4847
+        },
+        {
+          "id": 4851,
+          "name": "Rallytechnology",
+          "nc_order": 4850
+        }
+      ]
+    },
+    {
+      "normalized_key": "shelbyamericaninc",
+      "teams": [
+        {
+          "id": 5374,
+          "name": "Shelby American Inc.",
+          "nc_order": 5373
+        },
+        {
+          "id": 11842,
+          "name": "Shelby-American Inc.",
+          "nc_order": 11839
+        }
+      ]
+    },
+    {
+      "normalized_key": "skytempestaracing",
+      "teams": [
+        {
+          "id": 5429,
+          "name": "Sky Tempesta Racing",
+          "nc_order": 5428
+        },
+        {
+          "id": 9697,
+          "name": "Sky-Tempesta Racing",
+          "nc_order": 9694
+        }
+      ]
+    },
+    {
+      "normalized_key": "signatureplus",
+      "teams": [
+        {
+          "id": 5399,
+          "name": "Signature-Plus",
+          "nc_order": 5398
+        },
+        {
+          "id": 12064,
+          "name": "Signature Plus",
+          "nc_order": 12061
+        }
+      ]
+    },
+    {
+      "normalized_key": "tom's",
+      "teams": [
+        {
+          "id": 5760,
+          "name": "Tom'S",
+          "nc_order": 5759
+        },
+        {
+          "id": 5764,
+          "name": "Tom'S",
+          "nc_order": 5763
+        }
+      ]
+    },
+    {
+      "normalized_key": "jwautomotiveengineering",
+      "teams": [
+        {
+          "id": 7402,
+          "name": "J. W. Automotive Engineering",
+          "nc_order": 7400
+        },
+        {
+          "id": 9330,
+          "name": "J. W. Automotive Engineering",
+          "nc_order": 9327
+        }
+      ]
+    },
+    {
+      "normalized_key": "motorsport",
+      "teams": [
+        {
+          "id": 7542,
+          "name": "Motorsport",
+          "nc_order": 7540
+        },
+        {
+          "id": 13132,
+          "name": "Motor Sport",
+          "nc_order": 13129
+        }
+      ]
+    },
+    {
+      "normalized_key": "jedreteaud",
+      "teams": [
+        {
+          "id": 7392,
+          "name": "J. Edreteaud",
+          "nc_order": 7390
+        },
+        {
+          "id": 9417,
+          "name": "J. Edreteaud",
+          "nc_order": 9414
+        }
+      ]
+    },
+    {
+      "normalized_key": "jpgaban",
+      "teams": [
+        {
+          "id": 7394,
+          "name": "J. P. Gaban",
+          "nc_order": 7392
+        },
+        {
+          "id": 9418,
+          "name": "J. P. Gaban",
+          "nc_order": 9415
+        },
+        {
+          "id": 9843,
+          "name": "J.p Gaban",
+          "nc_order": 9840
+        }
+      ]
+    },
+    {
+      "normalized_key": "matraelf",
+      "teams": [
+        {
+          "id": 7515,
+          "name": "Matra Elf",
+          "nc_order": 7513
+        },
+        {
+          "id": 13391,
+          "name": "Matra-Elf",
+          "nc_order": 13388
+        }
+      ]
+    },
+    {
+      "normalized_key": "ganderson",
+      "teams": [
+        {
+          "id": 7297,
+          "name": "G. Anderson",
+          "nc_order": 7295
+        },
+        {
+          "id": 9362,
+          "name": "G. Anderson",
+          "nc_order": 9359
+        }
+      ]
+    },
+    {
+      "normalized_key": "gtr",
+      "teams": [
+        {
+          "id": 7307,
+          "name": "Gt-R.",
+          "nc_order": 7305
+        },
+        {
+          "id": 12912,
+          "name": "Gtr",
+          "nc_order": 12909
+        }
+      ]
+    },
+    {
+      "normalized_key": "gtrnismo",
+      "teams": [
+        {
+          "id": 7308,
+          "name": "Gt-R. Nismo",
+          "nc_order": 7306
+        },
+        {
+          "id": 11270,
+          "name": "Gtr Nismo",
+          "nc_order": 11267
+        }
+      ]
+    },
+    {
+      "normalized_key": "lemans",
+      "teams": [
+        {
+          "id": 7463,
+          "name": "Lemans",
+          "nc_order": 7461
+        },
+        {
+          "id": 12838,
+          "name": "Le Mans",
+          "nc_order": 12835
+        }
+      ]
+    },
+    {
+      "normalized_key": "teamhanshinridingschool",
+      "teams": [
+        {
+          "id": 5976,
+          "name": "Team Hanshin Ridingschool",
+          "nc_order": 5975
+        },
+        {
+          "id": 5975,
+          "name": "Team Hanshin Riding School",
+          "nc_order": 5974
+        }
+      ]
+    },
+    {
+      "normalized_key": "teamworkmotorsport",
+      "teams": [
+        {
+          "id": 6253,
+          "name": "Teamwork Motorsport",
+          "nc_order": 6252
+        },
+        {
+          "id": 6242,
+          "name": "Team Work Motorsport",
+          "nc_order": 6241
+        }
+      ]
+    },
+    {
+      "normalized_key": "tech3eracing",
+      "teams": [
+        {
+          "id": 6260,
+          "name": "Tech3 E.-Racing",
+          "nc_order": 6259
+        },
+        {
+          "id": 6256,
+          "name": "Tech 3 E.-Racing",
+          "nc_order": 6255
+        }
+      ]
+    },
+    {
+      "normalized_key": "teamlemans",
+      "teams": [
+        {
+          "id": 6034,
+          "name": "Team Le Mans",
+          "nc_order": 6033
+        },
+        {
+          "id": 6035,
+          "name": "Team Lemans",
+          "nc_order": 6034
+        }
+      ]
+    },
+    {
+      "normalized_key": "techspeedmotorsport",
+      "teams": [
+        {
+          "id": 6258,
+          "name": "Tech-Speed Motorsport",
+          "nc_order": 6257
+        },
+        {
+          "id": 6269,
+          "name": "Techspeed Motorsport",
+          "nc_order": 6268
+        }
+      ]
+    },
+    {
+      "normalized_key": "tech1racing",
+      "teams": [
+        {
+          "id": 6254,
+          "name": "Tech 1 Racing",
+          "nc_order": 6253
+        },
+        {
+          "id": 9929,
+          "name": "Tech-1 Racing",
+          "nc_order": 9926
+        }
+      ]
+    },
+    {
+      "normalized_key": "teamfelbermayrproton",
+      "teams": [
+        {
+          "id": 5941,
+          "name": "Team Felbermayr Proton",
+          "nc_order": 5940
+        },
+        {
+          "id": 5942,
+          "name": "Team Felbermayr-Proton",
+          "nc_order": 5941
+        }
+      ]
+    },
+    {
+      "normalized_key": "tech3",
+      "teams": [
+        {
+          "id": 6255,
+          "name": "Tech 3",
+          "nc_order": 6254
+        },
+        {
+          "id": 9779,
+          "name": "Tech3",
+          "nc_order": 9776
+        },
+        {
+          "id": 13097,
+          "name": "Tech-3",
+          "nc_order": 13094
+        }
+      ]
+    },
+    {
+      "normalized_key": "theracer'sgroup",
+      "teams": [
+        {
+          "id": 6311,
+          "name": "The Racer'S Group",
+          "nc_order": 6310
+        },
+        {
+          "id": 6312,
+          "name": "The Racer'S Group",
+          "nc_order": 6311
+        }
+      ]
+    },
+    {
+      "normalized_key": "threebondracing",
+      "teams": [
+        {
+          "id": 6323,
+          "name": "Three Bond Racing",
+          "nc_order": 6322
+        },
+        {
+          "id": 6325,
+          "name": "Threebond Racing",
+          "nc_order": 6324
+        }
+      ]
+    },
+    {
+      "normalized_key": "toyotateamtom's",
+      "teams": [
+        {
+          "id": 6405,
+          "name": "Toyota Team Tom'S",
+          "nc_order": 6404
+        },
+        {
+          "id": 6404,
+          "name": "Toyota Team Tom'S",
+          "nc_order": 6403
+        }
+      ]
+    },
+    {
+      "normalized_key": "mperformance",
+      "teams": [
+        {
+          "id": 7483,
+          "name": "M.-Performance",
+          "nc_order": 7481
+        },
+        {
+          "id": 11961,
+          "name": "M. Performance",
+          "nc_order": 11958
+        }
+      ]
+    },
+    {
+      "normalized_key": "usracing",
+      "teams": [
+        {
+          "id": 6486,
+          "name": "U. S. Racing",
+          "nc_order": 6485
+        },
+        {
+          "id": 6497,
+          "name": "U. S. Racing",
+          "nc_order": 6496
+        }
+      ]
+    },
+    {
+      "normalized_key": "wcm",
+      "teams": [
+        {
+          "id": 6664,
+          "name": "W. C. M.",
+          "nc_order": 6663
+        },
+        {
+          "id": 6666,
+          "name": "W. C. M.",
+          "nc_order": 6665
+        }
+      ]
+    },
+    {
+      "normalized_key": "matrasimca",
+      "teams": [
+        {
+          "id": 7517,
+          "name": "Matra-Simca",
+          "nc_order": 7515
+        },
+        {
+          "id": 9432,
+          "name": "Matra Simca",
+          "nc_order": 9429
+        }
+      ]
+    },
+    {
+      "normalized_key": "weathertechracing",
+      "teams": [
+        {
+          "id": 6702,
+          "name": "Weathertech Racing",
+          "nc_order": 6701
+        },
+        {
+          "id": 9595,
+          "name": "Weather Tech Racing",
+          "nc_order": 9592
+        }
+      ]
+    },
+    {
+      "normalized_key": "z&wenterprisesinc",
+      "teams": [
+        {
+          "id": 6854,
+          "name": "Z. & W. Enterprises Inc.",
+          "nc_order": 6853
+        },
+        {
+          "id": 9821,
+          "name": "Z. & W. Enterprises Inc.",
+          "nc_order": 9818
+        }
+      ]
+    },
+    {
+      "normalized_key": "prosport",
+      "teams": [
+        {
+          "id": 7653,
+          "name": "Pro-Sport",
+          "nc_order": 7651
+        },
+        {
+          "id": 9435,
+          "name": "Prosport",
+          "nc_order": 9432
+        }
+      ]
+    },
+    {
+      "normalized_key": "sportquattro",
+      "teams": [
+        {
+          "id": 7766,
+          "name": "Sport Quattro",
+          "nc_order": 7764
+        },
+        {
+          "id": 14013,
+          "name": "Sport-Quattro",
+          "nc_order": 14010
+        }
+      ]
+    },
+    {
+      "normalized_key": "totalenergies",
+      "teams": [
+        {
+          "id": 7803,
+          "name": "Totalenergies",
+          "nc_order": 7801
+        },
+        {
+          "id": 10238,
+          "name": "Total-Energies",
+          "nc_order": 10235
+        }
+      ]
+    },
+    {
+      "normalized_key": "ram",
+      "teams": [
+        {
+          "id": 7684,
+          "name": "Ram",
+          "nc_order": 7682
+        },
+        {
+          "id": 9261,
+          "name": "R. A. M.",
+          "nc_order": 9258
+        }
+      ]
+    },
+    {
+      "normalized_key": "rollsroyce",
+      "teams": [
+        {
+          "id": 7696,
+          "name": "Rolls Royce",
+          "nc_order": 7694
+        },
+        {
+          "id": 12038,
+          "name": "Rolls-Royce",
+          "nc_order": 12035
+        }
+      ]
+    },
+    {
+      "normalized_key": "jwautomotiveengineeringgulf",
+      "teams": [
+        {
+          "id": 7887,
+          "name": "J. W. Automotive Engineering Gulf",
+          "nc_order": 7885
+        },
+        {
+          "id": 10760,
+          "name": "J.w Automotive Engineering Gulf",
+          "nc_order": 10757
+        },
+        {
+          "id": 11577,
+          "name": "J. W. Automotive Engineering Gulf",
+          "nc_order": 11574
+        }
+      ]
+    },
+    {
+      "normalized_key": "bar",
+      "teams": [
+        {
+          "id": 7910,
+          "name": "Bar",
+          "nc_order": 7908
+        },
+        {
+          "id": 9246,
+          "name": "B. A. R.",
+          "nc_order": 9243
+        }
+      ]
+    },
+    {
+      "normalized_key": "250tr",
+      "teams": [
+        {
+          "id": 6946,
+          "name": "250 Tr",
+          "nc_order": 6944
+        },
+        {
+          "id": 6947,
+          "name": "250tr",
+          "nc_order": 6945
+        }
+      ]
+    },
+    {
+      "normalized_key": "cri",
+      "teams": [
+        {
+          "id": 7093,
+          "name": "C. R. I.",
+          "nc_order": 7091
+        },
+        {
+          "id": 12827,
+          "name": "Cri",
+          "nc_order": 12824
+        }
+      ]
+    },
+    {
+      "normalized_key": "delorean",
+      "teams": [
+        {
+          "id": 7211,
+          "name": "De Lorean",
+          "nc_order": 7209
+        },
+        {
+          "id": 10427,
+          "name": "Delorean",
+          "nc_order": 10424
+        }
+      ]
+    },
+    {
+      "normalized_key": "911scoupe",
+      "teams": [
+        {
+          "id": 6972,
+          "name": "911 S. Coupe",
+          "nc_order": 6970
+        },
+        {
+          "id": 6975,
+          "name": "911s Coupe",
+          "nc_order": 6973
+        }
+      ]
+    },
+    {
+      "normalized_key": "canam",
+      "teams": [
+        {
+          "id": 7106,
+          "name": "Can-Am",
+          "nc_order": 7104
+        },
+        {
+          "id": 13336,
+          "name": "Canam",
+          "nc_order": 13333
+        }
+      ]
+    },
+    {
+      "normalized_key": "equipematrasimca",
+      "teams": [
+        {
+          "id": 7245,
+          "name": "Equipe Matra-Simca",
+          "nc_order": 7243
+        },
+        {
+          "id": 12446,
+          "name": "Equipe Matra Simca",
+          "nc_order": 12443
+        }
+      ]
+    },
+    {
+      "normalized_key": "essexmotorsport",
+      "teams": [
+        {
+          "id": 7254,
+          "name": "Essex Motorsport",
+          "nc_order": 7252
+        },
+        {
+          "id": 13249,
+          "name": "Essex Motor Sport",
+          "nc_order": 13246
+        }
+      ]
+    },
+    {
+      "normalized_key": "afm",
+      "teams": [
+        {
+          "id": 9150,
+          "name": "Afm",
+          "nc_order": 9147
+        },
+        {
+          "id": 9244,
+          "name": "A. F. M.",
+          "nc_order": 9241
+        }
+      ]
+    },
+    {
+      "normalized_key": "jps",
+      "teams": [
+        {
+          "id": 7926,
+          "name": "J. P. S.",
+          "nc_order": 7924
+        },
+        {
+          "id": 13709,
+          "name": "J. P. S.",
+          "nc_order": 13706
+        }
+      ]
+    },
+    {
+      "normalized_key": "autodeltaspa",
+      "teams": [
+        {
+          "id": 7927,
+          "name": "Autodelta Spa",
+          "nc_order": 7925
+        },
+        {
+          "id": 12678,
+          "name": "Autodelta S. P. A.",
+          "nc_order": 12675
+        }
+      ]
+    },
+    {
+      "normalized_key": "carreracup",
+      "teams": [
+        {
+          "id": 7943,
+          "name": "Carreracup",
+          "nc_order": 7941
+        },
+        {
+          "id": 10088,
+          "name": "Carrera Cup",
+          "nc_order": 10085
+        }
+      ]
+    },
+    {
+      "normalized_key": "mercedesamg",
+      "teams": [
+        {
+          "id": 8002,
+          "name": "Mercedes-A. M. G.",
+          "nc_order": 8000
+        },
+        {
+          "id": 11033,
+          "name": "Mercedes Amg",
+          "nc_order": 11030
+        }
+      ]
+    },
+    {
+      "normalized_key": "newmanjoestracing",
+      "teams": [
+        {
+          "id": 8012,
+          "name": "New-Man Joest Racing",
+          "nc_order": 8010
+        },
+        {
+          "id": 9493,
+          "name": "Newman Joest Racing",
+          "nc_order": 9490
+        }
+      ]
+    },
+    {
+      "normalized_key": "gruppem",
+      "teams": [
+        {
+          "id": 8034,
+          "name": "Gruppem",
+          "nc_order": 8032
+        },
+        {
+          "id": 11008,
+          "name": "Gruppe M.",
+          "nc_order": 11005
+        }
+      ]
+    },
+    {
+      "normalized_key": "scuderiajwagulf",
+      "teams": [
+        {
+          "id": 10305,
+          "name": "Scuderia Jwa Gulf",
+          "nc_order": 10302
+        },
+        {
+          "id": 10858,
+          "name": "Scuderia Jwa-Gulf",
+          "nc_order": 10855
+        }
+      ]
+    },
+    {
+      "normalized_key": "rauhwelt",
+      "teams": [
+        {
+          "id": 8174,
+          "name": "Rauh Welt",
+          "nc_order": 8171
+        },
+        {
+          "id": 10299,
+          "name": "Rauh-Welt",
+          "nc_order": 10296
+        }
+      ]
+    },
+    {
+      "normalized_key": "fockewulf",
+      "teams": [
+        {
+          "id": 10351,
+          "name": "Focke-Wulf",
+          "nc_order": 10348
+        },
+        {
+          "id": 12062,
+          "name": "Focke Wulf",
+          "nc_order": 12059
+        }
+      ]
+    },
+    {
+      "normalized_key": "japlisson",
+      "teams": [
+        {
+          "id": 10376,
+          "name": "J. A. Plisson",
+          "nc_order": 10373
+        },
+        {
+          "id": 13976,
+          "name": "J. A. Plisson",
+          "nc_order": 13973
+        }
+      ]
+    },
+    {
+      "normalized_key": "fuldmobil",
+      "teams": [
+        {
+          "id": 11850,
+          "name": "Fuldmobil",
+          "nc_order": 11847
+        },
+        {
+          "id": 11848,
+          "name": "Fuld Mobil",
+          "nc_order": 11845
+        }
+      ]
+    },
+    {
+      "normalized_key": "hsf",
+      "teams": [
+        {
+          "id": 12107,
+          "name": "Hsf",
+          "nc_order": 12104
+        },
+        {
+          "id": 11663,
+          "name": "H. S. F.",
+          "nc_order": 11660
+        }
+      ]
+    },
+    {
+      "normalized_key": "airfrance",
+      "teams": [
+        {
+          "id": 8269,
+          "name": "Air France",
+          "nc_order": 8266
+        },
+        {
+          "id": 14233,
+          "name": "Air-France",
+          "nc_order": 14230
+        }
+      ]
+    },
+    {
+      "normalized_key": "daimlerbenzag",
+      "teams": [
+        {
+          "id": 11930,
+          "name": "Daimler Benz Ag",
+          "nc_order": 11927
+        },
+        {
+          "id": 12473,
+          "name": "Daimler-Benz Ag",
+          "nc_order": 12470
+        }
+      ]
+    },
+    {
+      "normalized_key": "tolimitmotorsport",
+      "teams": [
+        {
+          "id": 11859,
+          "name": "To Limit Motorsport",
+          "nc_order": 11856
+        },
+        {
+          "id": 11860,
+          "name": "Tolimit Motorsport",
+          "nc_order": 11857
+        }
+      ]
+    },
+    {
+      "normalized_key": "progt",
+      "teams": [
+        {
+          "id": 12019,
+          "name": "Pro Gt",
+          "nc_order": 12016
+        },
+        {
+          "id": 13554,
+          "name": "Pro-Gt",
+          "nc_order": 13551
+        }
+      ]
+    },
+    {
+      "normalized_key": "stingray",
+      "teams": [
+        {
+          "id": 12072,
+          "name": "Sting Ray",
+          "nc_order": 12069
+        },
+        {
+          "id": 10559,
+          "name": "Stingray",
+          "nc_order": 10556
+        }
+      ]
+    },
+    {
+      "normalized_key": "s7r",
+      "teams": [
+        {
+          "id": 8404,
+          "name": "S7r",
+          "nc_order": 8401
+        },
+        {
+          "id": 12948,
+          "name": "S7-R.",
+          "nc_order": 12945
+        }
+      ]
+    },
+    {
+      "normalized_key": "civictyper",
+      "teams": [
+        {
+          "id": 10388,
+          "name": "Civic Type R.",
+          "nc_order": 10385
+        },
+        {
+          "id": 10564,
+          "name": "Civic Type-R.",
+          "nc_order": 10561
+        }
+      ]
+    },
+    {
+      "normalized_key": "continentalgt3r",
+      "teams": [
+        {
+          "id": 10460,
+          "name": "Continental Gt3-R.",
+          "nc_order": 10457
+        },
+        {
+          "id": 13793,
+          "name": "Continental Gt3r",
+          "nc_order": 13790
+        }
+      ]
+    },
+    {
+      "normalized_key": "ramchargers",
+      "teams": [
+        {
+          "id": 10558,
+          "name": "Ram Chargers",
+          "nc_order": 10555
+        },
+        {
+          "id": 9101,
+          "name": "Ramchargers",
+          "nc_order": 9098
+        }
+      ]
+    },
+    {
+      "normalized_key": "kaidoworks",
+      "teams": [
+        {
+          "id": 10569,
+          "name": "Kaido Works",
+          "nc_order": 10566
+        },
+        {
+          "id": 9386,
+          "name": "Kaidoworks",
+          "nc_order": 9383
+        }
+      ]
+    },
+    {
+      "normalized_key": "udtlaystallracing",
+      "teams": [
+        {
+          "id": 10425,
+          "name": "Udt Laystall Racing",
+          "nc_order": 10422
+        },
+        {
+          "id": 12488,
+          "name": "U. D. T. Laystall Racing",
+          "nc_order": 12485
+        }
+      ]
+    },
+    {
+      "normalized_key": "jwagulf",
+      "teams": [
+        {
+          "id": 10433,
+          "name": "Jwa Gulf",
+          "nc_order": 10430
+        },
+        {
+          "id": 10856,
+          "name": "Jwa-Gulf",
+          "nc_order": 10853
+        }
+      ]
+    },
+    {
+      "normalized_key": "tictac",
+      "teams": [
+        {
+          "id": 11858,
+          "name": "Tic Tac",
+          "nc_order": 11855
+        },
+        {
+          "id": 11192,
+          "name": "Tic-Tac",
+          "nc_order": 11189
+        }
+      ]
+    },
+    {
+      "normalized_key": "transam",
+      "teams": [
+        {
+          "id": 10457,
+          "name": "Trans Am",
+          "nc_order": 10454
+        },
+        {
+          "id": 11508,
+          "name": "Trans-Am",
+          "nc_order": 11505
+        }
+      ]
+    },
+    {
+      "normalized_key": "sapeurspompiersmoselle",
+      "teams": [
+        {
+          "id": 11892,
+          "name": "Sapeurs-Pompiers Moselle",
+          "nc_order": 11889
+        },
+        {
+          "id": 8669,
+          "name": "Sapeurs Pompiers Moselle",
+          "nc_order": 8666
+        }
+      ]
+    },
+    {
+      "normalized_key": "petermitchellthomson",
+      "teams": [
+        {
+          "id": 8489,
+          "name": "Peter Mitchell-Thomson",
+          "nc_order": 8486
+        },
+        {
+          "id": 13863,
+          "name": "Peter Mitchell Thomson",
+          "nc_order": 13860
+        }
+      ]
+    },
+    {
+      "normalized_key": "nsu",
+      "teams": [
+        {
+          "id": 8503,
+          "name": "Nsu",
+          "nc_order": 8500
+        },
+        {
+          "id": 8559,
+          "name": "Nsu",
+          "nc_order": 8556
+        }
+      ]
+    },
+    {
+      "normalized_key": "team75",
+      "teams": [
+        {
+          "id": 8511,
+          "name": "Team75",
+          "nc_order": 8508
+        },
+        {
+          "id": 13571,
+          "name": "Team 75",
+          "nc_order": 13568
+        }
+      ]
+    },
+    {
+      "normalized_key": "dbr9",
+      "teams": [
+        {
+          "id": 12134,
+          "name": "Dbr9",
+          "nc_order": 12131
+        },
+        {
+          "id": 13398,
+          "name": "Dbr 9",
+          "nc_order": 13395
+        }
+      ]
+    },
+    {
+      "normalized_key": "jmb",
+      "teams": [
+        {
+          "id": 12265,
+          "name": "Jmb",
+          "nc_order": 12262
+        },
+        {
+          "id": 12987,
+          "name": "J. M. B.",
+          "nc_order": 12984
+        }
+      ]
+    },
+    {
+      "normalized_key": "vipergtsr",
+      "teams": [
+        {
+          "id": 12266,
+          "name": "Viper Gt-S. R.",
+          "nc_order": 12263
+        },
+        {
+          "id": 12357,
+          "name": "Viper Gts-R.",
+          "nc_order": 12354
+        }
+      ]
+    },
+    {
+      "normalized_key": "teamtvtvasahidragon",
+      "teams": [
+        {
+          "id": 8602,
+          "name": "Team Tv Tvasahi Dragon",
+          "nc_order": 8599
+        },
+        {
+          "id": 9717,
+          "name": "Team Tv Tv Asahi Dragon",
+          "nc_order": 9714
+        }
+      ]
+    },
+    {
+      "normalized_key": "granturismo",
+      "teams": [
+        {
+          "id": 10890,
+          "name": "Gran Turismo",
+          "nc_order": 10887
+        },
+        {
+          "id": 11461,
+          "name": "Granturismo",
+          "nc_order": 11458
+        }
+      ]
+    },
+    {
+      "normalized_key": "mercedesamgteamblackfalcon",
+      "teams": [
+        {
+          "id": 10984,
+          "name": "Mercedes Amg Team Black Falcon",
+          "nc_order": 10981
+        },
+        {
+          "id": 11030,
+          "name": "Mercedes-Amg Team Black Falcon",
+          "nc_order": 11027
+        }
+      ]
+    },
+    {
+      "normalized_key": "mmotorsport",
+      "teams": [
+        {
+          "id": 8668,
+          "name": "M.-Motorsport",
+          "nc_order": 8665
+        },
+        {
+          "id": 9858,
+          "name": "M. Motorsport",
+          "nc_order": 9855
+        }
+      ]
+    },
+    {
+      "normalized_key": "dentressangletransports",
+      "teams": [
+        {
+          "id": 8703,
+          "name": "Dentressangle Transports",
+          "nc_order": 8700
+        },
+        {
+          "id": 8920,
+          "name": "Dentressangle Transports",
+          "nc_order": 8917
+        }
+      ]
+    },
+    {
+      "normalized_key": "letorc'htransports",
+      "teams": [
+        {
+          "id": 8712,
+          "name": "Le Torc'H Transports",
+          "nc_order": 8709
+        },
+        {
+          "id": 8794,
+          "name": "Le Torc'H Transports",
+          "nc_order": 8791
+        }
+      ]
+    },
+    {
+      "normalized_key": "hubauto",
+      "teams": [
+        {
+          "id": 8754,
+          "name": "Hub Auto",
+          "nc_order": 8751
+        },
+        {
+          "id": 8915,
+          "name": "H. U. B. Auto",
+          "nc_order": 8912
+        }
+      ]
+    },
+    {
+      "normalized_key": "talbotlago",
+      "teams": [
+        {
+          "id": 8834,
+          "name": "Talbot Lago",
+          "nc_order": 8831
+        },
+        {
+          "id": 9234,
+          "name": "Talbot-Lago",
+          "nc_order": 9231
+        }
+      ]
+    },
+    {
+      "normalized_key": "iava",
+      "teams": [
+        {
+          "id": 8974,
+          "name": "Iava",
+          "nc_order": 8971
+        },
+        {
+          "id": 8829,
+          "name": "Iava",
+          "nc_order": 8826
+        }
+      ]
+    },
+    {
+      "normalized_key": "johnwyerautomotiveengineeringltd",
+      "teams": [
+        {
+          "id": 9006,
+          "name": "John Wyer Automotive Engineering Ltd.",
+          "nc_order": 9003
+        },
+        {
+          "id": 9329,
+          "name": "John Wyer Automotive Engineering Ltd",
+          "nc_order": 9326
+        }
+      ]
+    },
+    {
+      "normalized_key": "isomarlboro",
+      "teams": [
+        {
+          "id": 10866,
+          "name": "Iso-Marlboro",
+          "nc_order": 10863
+        },
+        {
+          "id": 9184,
+          "name": "Iso Marlboro",
+          "nc_order": 9181
+        }
+      ]
+    },
+    {
+      "normalized_key": "edams",
+      "teams": [
+        {
+          "id": 10878,
+          "name": "E.-Dams",
+          "nc_order": 10875
+        },
+        {
+          "id": 11094,
+          "name": "E. Dams",
+          "nc_order": 11091
+        }
+      ]
+    },
+    {
+      "normalized_key": "jeanclaudegiroix",
+      "teams": [
+        {
+          "id": 10996,
+          "name": "Jean-Claude Giroix",
+          "nc_order": 10993
+        },
+        {
+          "id": 13492,
+          "name": "Jean Claude Giroix",
+          "nc_order": 13489
+        }
+      ]
+    },
+    {
+      "normalized_key": "mccormick",
+      "teams": [
+        {
+          "id": 11091,
+          "name": "McCormick",
+          "nc_order": 11088
+        },
+        {
+          "id": 13354,
+          "name": "Mc Cormick",
+          "nc_order": 13351
+        }
+      ]
+    },
+    {
+      "normalized_key": "artcar",
+      "teams": [
+        {
+          "id": 10971,
+          "name": "Art Car",
+          "nc_order": 10968
+        },
+        {
+          "id": 12356,
+          "name": "Artcar",
+          "nc_order": 12353
+        }
+      ]
+    },
+    {
+      "normalized_key": "twrjaguarracing",
+      "teams": [
+        {
+          "id": 11112,
+          "name": "Twr Jaguar Racing",
+          "nc_order": 11109
+        },
+        {
+          "id": 11111,
+          "name": "T. W. R. Jaguar Racing",
+          "nc_order": 11108
+        }
+      ]
+    },
+    {
+      "normalized_key": "sapeurspompiersdugard",
+      "teams": [
+        {
+          "id": 9045,
+          "name": "Sapeurs Pompiers Du Gard",
+          "nc_order": 9042
+        },
+        {
+          "id": 12809,
+          "name": "Sapeurs Pompiers Dugard",
+          "nc_order": 12806
+        }
+      ]
+    },
+    {
+      "normalized_key": "mobil1",
+      "teams": [
+        {
+          "id": 11061,
+          "name": "Mobil1",
+          "nc_order": 11058
+        },
+        {
+          "id": 11669,
+          "name": "Mobil 1",
+          "nc_order": 11666
+        }
+      ]
+    },
+    {
+      "normalized_key": "caseih",
+      "teams": [
+        {
+          "id": 9070,
+          "name": "Case Ih",
+          "nc_order": 9067
+        },
+        {
+          "id": 9443,
+          "name": "Case-Ih",
+          "nc_order": 9440
+        }
+      ]
+    },
+    {
+      "normalized_key": "mf1",
+      "teams": [
+        {
+          "id": 9207,
+          "name": "Mf1",
+          "nc_order": 9204
+        },
+        {
+          "id": 9258,
+          "name": "Mf1",
+          "nc_order": 9255
+        }
+      ]
+    },
+    {
+      "normalized_key": "era",
+      "teams": [
+        {
+          "id": 9175,
+          "name": "Era",
+          "nc_order": 9172
+        },
+        {
+          "id": 9251,
+          "name": "E. R. A.",
+          "nc_order": 9248
+        }
+      ]
+    },
+    {
+      "normalized_key": "osca",
+      "teams": [
+        {
+          "id": 9260,
+          "name": "Osca",
+          "nc_order": 9257
+        },
+        {
+          "id": 7591,
+          "name": "Osca",
+          "nc_order": 7589
+        }
+      ]
+    },
+    {
+      "normalized_key": "brp",
+      "teams": [
+        {
+          "id": 9161,
+          "name": "Brp",
+          "nc_order": 9158
+        },
+        {
+          "id": 9247,
+          "name": "B. R. P.",
+          "nc_order": 9244
+        }
+      ]
+    },
+    {
+      "normalized_key": "lds",
+      "teams": [
+        {
+          "id": 9255,
+          "name": "L. D. S.",
+          "nc_order": 9252
+        },
+        {
+          "id": 9194,
+          "name": "Lds",
+          "nc_order": 9191
+        }
+      ]
+    },
+    {
+      "normalized_key": "mbm",
+      "teams": [
+        {
+          "id": 9203,
+          "name": "Mbm",
+          "nc_order": 9200
+        },
+        {
+          "id": 9257,
+          "name": "M. B. M.",
+          "nc_order": 9254
+        }
+      ]
+    },
+    {
+      "normalized_key": "emw",
+      "teams": [
+        {
+          "id": 9173,
+          "name": "Emw",
+          "nc_order": 9170
+        },
+        {
+          "id": 9250,
+          "name": "E. M. W.",
+          "nc_order": 9247
+        }
+      ]
+    },
+    {
+      "normalized_key": "hwm",
+      "teams": [
+        {
+          "id": 9183,
+          "name": "Hwm",
+          "nc_order": 9180
+        },
+        {
+          "id": 9253,
+          "name": "H. W. M.",
+          "nc_order": 9250
+        }
+      ]
+    },
+    {
+      "normalized_key": "jbw",
+      "teams": [
+        {
+          "id": 9185,
+          "name": "Jbw",
+          "nc_order": 9182
+        },
+        {
+          "id": 9254,
+          "name": "J. B. W.",
+          "nc_order": 9251
+        }
+      ]
+    },
+    {
+      "normalized_key": "elspecial",
+      "teams": [
+        {
+          "id": 9169,
+          "name": "El Special",
+          "nc_order": 9166
+        },
+        {
+          "id": 9249,
+          "name": "E. L. Special",
+          "nc_order": 9246
+        }
+      ]
+    },
+    {
+      "normalized_key": "eurobrun",
+      "teams": [
+        {
+          "id": 9177,
+          "name": "Eurobrun",
+          "nc_order": 9174
+        },
+        {
+          "id": 9252,
+          "name": "Eurobrun",
+          "nc_order": 9249
+        }
+      ]
+    },
+    {
+      "normalized_key": "mcguire",
+      "teams": [
+        {
+          "id": 9204,
+          "name": "McGuire",
+          "nc_order": 9201
+        },
+        {
+          "id": 9259,
+          "name": "McGuire",
+          "nc_order": 9256
+        }
+      ]
+    },
+    {
+      "normalized_key": "lecrefrigerationracing",
+      "teams": [
+        {
+          "id": 9256,
+          "name": "L. E. C. Refrigeration Racing",
+          "nc_order": 9253
+        },
+        {
+          "id": 9195,
+          "name": "Lec Refrigeration Racing",
+          "nc_order": 9192
+        }
+      ]
+    },
+    {
+      "normalized_key": "artsports",
+      "teams": [
+        {
+          "id": 11161,
+          "name": "Art Sports",
+          "nc_order": 11158
+        },
+        {
+          "id": 13027,
+          "name": "Art-Sports",
+          "nc_order": 13024
+        }
+      ]
+    },
+    {
+      "normalized_key": "wmotors",
+      "teams": [
+        {
+          "id": 11170,
+          "name": "W. Motors",
+          "nc_order": 11167
+        },
+        {
+          "id": 9624,
+          "name": "W.-Motors",
+          "nc_order": 9621
+        }
+      ]
+    },
+    {
+      "normalized_key": "austrodaimler",
+      "teams": [
+        {
+          "id": 11229,
+          "name": "Austro-Daimler",
+          "nc_order": 11226
+        },
+        {
+          "id": 10200,
+          "name": "Austro Daimler",
+          "nc_order": 10197
+        }
+      ]
+    },
+    {
+      "normalized_key": "a6gcs",
+      "teams": [
+        {
+          "id": 11458,
+          "name": "A6 Gcs",
+          "nc_order": 11455
+        },
+        {
+          "id": 12929,
+          "name": "A6gcs",
+          "nc_order": 12926
+        }
+      ]
+    },
+    {
+      "normalized_key": "felbermayrproton",
+      "teams": [
+        {
+          "id": 11531,
+          "name": "Felbermayr Proton",
+          "nc_order": 11528
+        },
+        {
+          "id": 13526,
+          "name": "Felbermayr-Proton",
+          "nc_order": 13523
+        }
+      ]
+    },
+    {
+      "normalized_key": "gstuning",
+      "teams": [
+        {
+          "id": 11670,
+          "name": "Gs Tuning",
+          "nc_order": 11667
+        },
+        {
+          "id": 12277,
+          "name": "Gs-Tuning",
+          "nc_order": 12274
+        }
+      ]
+    },
+    {
+      "normalized_key": "g",
+      "teams": [
+        {
+          "id": 9517,
+          "name": "G.",
+          "nc_order": 9514
+        },
+        {
+          "id": 12537,
+          "name": "G.",
+          "nc_order": 12534
+        }
+      ]
+    },
+    {
+      "normalized_key": "dtype",
+      "teams": [
+        {
+          "id": 11539,
+          "name": "D.-Type",
+          "nc_order": 11536
+        },
+        {
+          "id": 12472,
+          "name": "D. Type",
+          "nc_order": 12469
+        }
+      ]
+    },
+    {
+      "normalized_key": "scheidpartlmotorsport",
+      "teams": [
+        {
+          "id": 11671,
+          "name": "Scheid-Partl Motorsport",
+          "nc_order": 11668
+        },
+        {
+          "id": 12161,
+          "name": "Scheid Partl Motorsport",
+          "nc_order": 12158
+        }
+      ]
+    },
+    {
+      "normalized_key": "boutsenginion",
+      "teams": [
+        {
+          "id": 9885,
+          "name": "Boutsen Ginion",
+          "nc_order": 9882
+        },
+        {
+          "id": 10056,
+          "name": "Boutsenginion",
+          "nc_order": 10053
+        }
+      ]
+    },
+    {
+      "normalized_key": "quifelasm",
+      "teams": [
+        {
+          "id": 11653,
+          "name": "Quifel Asm",
+          "nc_order": 11650
+        },
+        {
+          "id": 13438,
+          "name": "Quifel-Asm",
+          "nc_order": 13435
+        }
+      ]
+    },
+    {
+      "normalized_key": "ecuriefiatabarth",
+      "teams": [
+        {
+          "id": 10040,
+          "name": "Ecurie Fiat-Abarth",
+          "nc_order": 10037
+        },
+        {
+          "id": 14423,
+          "name": "Ecurie Fiat Abarth",
+          "nc_order": 14420
+        }
+      ]
+    },
+    {
+      "normalized_key": "scuderianart",
+      "teams": [
+        {
+          "id": 12121,
+          "name": "Scuderia Nart",
+          "nc_order": 12118
+        },
+        {
+          "id": 12390,
+          "name": "Scuderia N. A. R. T.",
+          "nc_order": 12387
+        }
+      ]
+    },
+    {
+      "normalized_key": "c6r",
+      "teams": [
+        {
+          "id": 12177,
+          "name": "C6r",
+          "nc_order": 12174
+        },
+        {
+          "id": 12939,
+          "name": "C6-R.",
+          "nc_order": 12936
+        }
+      ]
+    },
+    {
+      "normalized_key": "wedssport",
+      "teams": [
+        {
+          "id": 12588,
+          "name": "Wedssport",
+          "nc_order": 12585
+        },
+        {
+          "id": 12568,
+          "name": "Weds Sport",
+          "nc_order": 12565
+        }
+      ]
+    },
+    {
+      "normalized_key": "triplea",
+      "teams": [
+        {
+          "id": 12605,
+          "name": "Triple A.",
+          "nc_order": 12602
+        },
+        {
+          "id": 12572,
+          "name": "Triple-A.",
+          "nc_order": 12569
+        }
+      ]
+    },
+    {
+      "normalized_key": "mrs",
+      "teams": [
+        {
+          "id": 12576,
+          "name": "Mr-S.",
+          "nc_order": 12573
+        },
+        {
+          "id": 13397,
+          "name": "Mrs",
+          "nc_order": 13394
+        }
+      ]
+    },
+    {
+      "normalized_key": "southdownfleetsupport",
+      "teams": [
+        {
+          "id": 12280,
+          "name": "Southdown Fleet Support",
+          "nc_order": 12277
+        },
+        {
+          "id": 12287,
+          "name": "Southdown Fleetsupport",
+          "nc_order": 12284
+        }
+      ]
+    },
+    {
+      "normalized_key": "fiagt",
+      "teams": [
+        {
+          "id": 12367,
+          "name": "Fia-Gt",
+          "nc_order": 12364
+        },
+        {
+          "id": 13483,
+          "name": "Fia Gt",
+          "nc_order": 13480
+        }
+      ]
+    },
+    {
+      "normalized_key": "assistenzacorse",
+      "teams": [
+        {
+          "id": 12336,
+          "name": "Assistenza Corse",
+          "nc_order": 12333
+        },
+        {
+          "id": 13261,
+          "name": "Assistenzacorse",
+          "nc_order": 13258
+        }
+      ]
+    },
+    {
+      "normalized_key": "xk120",
+      "teams": [
+        {
+          "id": 12471,
+          "name": "Xk120",
+          "nc_order": 12468
+        },
+        {
+          "id": 14053,
+          "name": "Xk 120",
+          "nc_order": 14050
+        }
+      ]
+    },
+    {
+      "normalized_key": "hpiracing",
+      "teams": [
+        {
+          "id": 12901,
+          "name": "Hpi-Racing",
+          "nc_order": 12898
+        },
+        {
+          "id": 13746,
+          "name": "Hpi Racing",
+          "nc_order": 13743
+        }
+      ]
+    },
+    {
+      "normalized_key": "xjr9",
+      "teams": [
+        {
+          "id": 12905,
+          "name": "Xjr-9",
+          "nc_order": 12902
+        },
+        {
+          "id": 12944,
+          "name": "Xj-R9",
+          "nc_order": 12941
+        }
+      ]
+    },
+    {
+      "normalized_key": "orecamatmut",
+      "teams": [
+        {
+          "id": 12941,
+          "name": "Oreca Matmut",
+          "nc_order": 12938
+        },
+        {
+          "id": 12952,
+          "name": "Oreca-Matmut",
+          "nc_order": 12949
+        }
+      ]
+    },
+    {
+      "normalized_key": "gpc",
+      "teams": [
+        {
+          "id": 13957,
+          "name": "Gpc",
+          "nc_order": 13954
+        },
+        {
+          "id": 12986,
+          "name": "G. P. C.",
+          "nc_order": 12983
+        }
+      ]
+    },
+    {
+      "normalized_key": "boac",
+      "teams": [
+        {
+          "id": 14220,
+          "name": "B.-O.-A.-C.",
+          "nc_order": 14217
+        },
+        {
+          "id": 13654,
+          "name": "Boac",
+          "nc_order": 13651
+        }
+      ]
+    },
+    {
+      "normalized_key": "schenker&co",
+      "teams": [
+        {
+          "id": 13311,
+          "name": "Schenker & Co.",
+          "nc_order": 13308
+        },
+        {
+          "id": 13359,
+          "name": "Schenker & Co",
+          "nc_order": 13356
+        }
+      ]
+    },
+    {
+      "normalized_key": "sdkfz",
+      "teams": [
+        {
+          "id": 13377,
+          "name": "Sdkfz",
+          "nc_order": 13374
+        },
+        {
+          "id": 13879,
+          "name": "Sd.kfz",
+          "nc_order": 13876
+        }
+      ]
+    }
+  ]
+}

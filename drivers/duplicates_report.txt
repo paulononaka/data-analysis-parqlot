@@ -1,0 +1,1494 @@
+RELATÓRIO DE DUPLICATAS
+================================================================================
+
+DUPLICATAS POR NOME (143 encontradas):
+--------------------------------------------------------------------------------
+
+'A. J. Foyt' aparece 2 vezes:
+  - Index: 315, ID: 3364, nc_order: 270, created_at: 2025-04-03T17:29:23.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 611, ID: 6083, nc_order: 886, created_at: 2025-08-05T20:44:20.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Aaron Morgan' aparece 2 vezes:
+  - Index: 1800, ID: 6106, nc_order: 907, created_at: 2025-08-05T20:44:44.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 1895, ID: 6107, nc_order: 908, created_at: 2025-08-05T20:44:44.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Alex Walker' aparece 2 vezes:
+  - Index: 3756, ID: 6933, nc_order: 1670, created_at: 2025-08-05T20:52:07.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 3847, ID: 6932, nc_order: 1669, created_at: 2025-08-05T20:52:07.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Alexandre Yvon' aparece 2 vezes:
+  - Index: 3774, ID: 7019, nc_order: 1742, created_at: 2025-08-05T20:52:49.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 3864, ID: 7018, nc_order: 1742, created_at: 2025-08-05T20:52:49.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Andrew Grant' aparece 2 vezes:
+  - Index: 4161, ID: 7540, nc_order: 2227, created_at: 2025-08-05T20:57:13.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 4259, ID: 7541, nc_order: 2228, created_at: 2025-08-05T20:57:14.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Andrew Thompson' aparece 2 vezes:
+  - Index: 4014, ID: 7585, nc_order: 2271, created_at: 2025-08-05T20:57:35.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 4157, ID: 7586, nc_order: 2272, created_at: 2025-08-05T20:57:36.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Anthony Martin' aparece 2 vezes:
+  - Index: 4767, ID: 7798, nc_order: 2483, created_at: 2025-08-05T20:59:19.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 4931, ID: 7797, nc_order: 2482, created_at: 2025-08-05T20:59:18.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Benjamin Searcy' aparece 2 vezes:
+  - Index: 5448, ID: 8612, nc_order: 3238, created_at: 2025-08-05T21:06:45.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 5449, ID: 8613, nc_order: 3239, created_at: 2025-08-05T21:06:46.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Bill Bowman' aparece 2 vezes:
+  - Index: 5389, ID: 8819, nc_order: 3440, created_at: 2025-08-05T21:08:30.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 5689, ID: 8820, nc_order: 3441, created_at: 2025-08-05T21:08:30.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Bill Osborne' aparece 2 vezes:
+  - Index: 5732, ID: 8916, nc_order: 3534, created_at: 2025-08-05T21:09:22.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 6061, ID: 8915, nc_order: 3533, created_at: 2025-08-05T21:09:22.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Bill Scott' aparece 3 vezes:
+  - Index: 5820, ID: 8931, nc_order: 3549, created_at: 2025-08-05T21:09:30.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 5821, ID: 8932, nc_order: 3550, created_at: 2025-08-05T21:09:30.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 6144, ID: 8933, nc_order: 3551, created_at: 2025-08-05T21:09:31.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Bill Smith' aparece 2 vezes:
+  - Index: 6066, ID: 8939, nc_order: 3557, created_at: 2025-08-05T21:09:34.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 6146, ID: 8940, nc_order: 3558, created_at: 2025-08-05T21:09:34.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Billy Myers' aparece 2 vezes:
+  - Index: 5754, ID: 8999, nc_order: 3617, created_at: 2025-08-05T21:10:03.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 5907, ID: 8998, nc_order: 3616, created_at: 2025-08-05T21:10:03.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Bob Dickson' aparece 2 vezes:
+  - Index: 5929, ID: 9103, nc_order: 3720, created_at: 2025-08-05T21:10:54.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 6173, ID: 9102, nc_order: 3719, created_at: 2025-08-05T21:10:54.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Bob Kennedy' aparece 2 vezes:
+  - Index: 5934, ID: 9151, nc_order: 3768, created_at: 2025-08-05T21:11:19.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 6182, ID: 9150, nc_order: 3767, created_at: 2025-08-05T21:11:18.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Bob Smith' aparece 3 vezes:
+  - Index: 5885, ID: 9196, nc_order: 3813, created_at: 2025-08-05T21:11:42.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 5952, ID: 9194, nc_order: 3811, created_at: 2025-08-05T21:11:41.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 5953, ID: 9195, nc_order: 3812, created_at: 2025-08-05T21:11:42.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Bradley Smith' aparece 2 vezes:
+  - Index: 6118, ID: 9358, nc_order: 3970, created_at: 2025-08-05T21:13:18.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 6222, ID: 9359, nc_order: 3971, created_at: 2025-08-05T21:13:18.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Brian Johnson' aparece 2 vezes:
+  - Index: 6252, ID: 9478, nc_order: 4081, created_at: 2025-08-05T21:14:23.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 6355, ID: 9477, nc_order: 4080, created_at: 2025-08-05T21:14:23.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Carlos Sainz' aparece 2 vezes:
+  - Index: 6537, ID: 9988, nc_order: 4581, created_at: 2025-08-05T21:18:37.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 6573, ID: 9989, nc_order: 4582, created_at: 2025-08-05T21:18:37.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Charles Martin' aparece 2 vezes:
+  - Index: 6620, ID: 10203, nc_order: 4781, created_at: 2025-08-05T21:20:31.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 6621, ID: 10204, nc_order: 4782, created_at: 2025-08-05T21:20:32.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Charles Zwolsman' aparece 2 vezes:
+  - Index: 7202, ID: 10248, nc_order: 4825, created_at: 2025-08-05T21:21:03.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 7520, ID: 10249, nc_order: 4826, created_at: 2025-08-05T21:21:04.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Chris Hart' aparece 2 vezes:
+  - Index: 7067, ID: 10397, nc_order: 4963, created_at: 2025-08-05T21:22:30.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 7454, ID: 10398, nc_order: 4964, created_at: 2025-08-05T21:22:31.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Chris Jones' aparece 2 vezes:
+  - Index: 7158, ID: 10409, nc_order: 4975, created_at: 2025-08-05T21:22:37.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 7159, ID: 10410, nc_order: 4976, created_at: 2025-08-05T21:22:37.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Chris Miller' aparece 2 vezes:
+  - Index: 7307, ID: 10434, nc_order: 5000, created_at: 2025-08-05T21:22:50.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 7388, ID: 10435, nc_order: 5001, created_at: 2025-08-05T21:22:50.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Cliff Carr' aparece 2 vezes:
+  - Index: 7631, ID: 10939, nc_order: 5485, created_at: 2025-08-05T21:27:21.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 7697, ID: 10938, nc_order: 5484, created_at: 2025-08-05T21:27:20.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Colin Thompson' aparece 2 vezes:
+  - Index: 7712, ID: 11046, nc_order: 5589, created_at: 2025-08-05T21:28:17.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 8119, ID: 11047, nc_order: 5590, created_at: 2025-08-05T21:28:18.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Dale Williams' aparece 2 vezes:
+  - Index: 7919, ID: 11301, nc_order: 5840, created_at: 2025-08-05T21:30:25.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 8053, ID: 11302, nc_order: 5841, created_at: 2025-08-05T21:30:25.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Daniel Harper' aparece 2 vezes:
+  - Index: 8257, ID: 11447, nc_order: 5978, created_at: 2025-08-05T21:31:51.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 8740, ID: 11448, nc_order: 5978, created_at: 2025-08-05T21:31:51.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Daniel Johnson' aparece 2 vezes:
+  - Index: 8823, ID: 11459, nc_order: 5989, created_at: 2025-08-05T21:31:58.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 8824, ID: 11460, nc_order: 5990, created_at: 2025-08-05T21:31:58.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'David Green' aparece 2 vezes:
+  - Index: 8313, ID: 11861, nc_order: 6379, created_at: 2025-08-05T21:35:33.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 8628, ID: 11859, nc_order: 6377, created_at: 2025-08-05T21:35:31.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'David Higgins' aparece 2 vezes:
+  - Index: 8630, ID: 11878, nc_order: 6396, created_at: 2025-08-05T21:35:42.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 8790, ID: 11877, nc_order: 6395, created_at: 2025-08-05T21:35:41.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'David Johnson' aparece 4 vezes:
+  - Index: 8404, ID: 11898, nc_order: 6416, created_at: 2025-08-05T21:35:52.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 8450, ID: 11899, nc_order: 6417, created_at: 2025-08-05T21:35:53.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 8697, ID: 11897, nc_order: 6415, created_at: 2025-08-05T21:35:52.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 8860, ID: 11900, nc_order: 6418, created_at: 2025-08-05T21:35:53.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'David Jones' aparece 2 vezes:
+  - Index: 8698, ID: 11901, nc_order: 6419, created_at: 2025-08-05T21:35:54.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 8792, ID: 11902, nc_order: 6420, created_at: 2025-08-05T21:35:54.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'David Russell' aparece 2 vezes:
+  - Index: 8410, ID: 11990, nc_order: 6506, created_at: 2025-08-05T21:36:40.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 8564, ID: 11991, nc_order: 6507, created_at: 2025-08-05T21:36:41.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'David West' aparece 2 vezes:
+  - Index: 8715, ID: 12050, nc_order: 6566, created_at: 2025-08-05T21:37:12.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 8880, ID: 12049, nc_order: 6565, created_at: 2025-08-05T21:37:11.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'David Williams' aparece 3 vezes:
+  - Index: 8716, ID: 12054, nc_order: 6568, created_at: 2025-08-05T21:37:14.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 8809, ID: 12053, nc_order: 6568, created_at: 2025-08-05T21:37:14.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 8810, ID: 12055, nc_order: 6569, created_at: 2025-08-05T21:37:15.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Dick Johnson' aparece 2 vezes:
+  - Index: 8931, ID: 12386, nc_order: 6886, created_at: 2025-08-05T21:40:05.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 9178, ID: 12385, nc_order: 6885, created_at: 2025-08-05T21:40:04.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Diego Perez' aparece 2 vezes:
+  - Index: 9130, ID: 12507, nc_order: 7004, created_at: 2025-08-05T21:41:12.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 9287, ID: 12508, nc_order: 7005, created_at: 2025-08-05T21:41:15.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Ed Brown' aparece 2 vezes:
+  - Index: 9693, ID: 13006, nc_order: 7484, created_at: 2025-08-05T21:45:39.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 9750, ID: 13005, nc_order: 7483, created_at: 2025-08-05T21:45:38.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Ed Spencer' aparece 2 vezes:
+  - Index: 9540, ID: 13040, nc_order: 7514, created_at: 2025-08-05T21:45:58.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 9909, ID: 13039, nc_order: 7513, created_at: 2025-08-05T21:45:57.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Eddie MacDonald' aparece 2 vezes:
+  - Index: 9697, ID: 13072, nc_order: 7546, created_at: 2025-08-05T21:46:14.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 9761, ID: 13071, nc_order: 7545, created_at: 2025-08-05T21:46:13.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Elia Bartolini' aparece 2 vezes:
+  - Index: 9974, ID: 13264, nc_order: 7732, created_at: 2025-08-05T21:47:48.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 10213, ID: 13263, nc_order: 7731, created_at: 2025-08-05T21:47:47.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Eric Jones' aparece 2 vezes:
+  - Index: 10335, ID: 13560, nc_order: 8021, created_at: 2025-08-05T21:50:12.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 10336, ID: 13561, nc_order: 8022, created_at: 2025-08-05T21:50:12.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Ermanno Dionisio' aparece 2 vezes:
+  - Index: 10489, ID: 13652, nc_order: 8111, created_at: 2025-08-05T21:50:57.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 10571, ID: 13653, nc_order: 8112, created_at: 2025-08-05T21:50:58.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Felipe Ortiz' aparece 2 vezes:
+  - Index: 10733, ID: 14092, nc_order: 8542, created_at: 2025-08-05T21:55:05.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 11043, ID: 14093, nc_order: 8543, created_at: 2025-08-05T21:55:05.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Francisco Perez' aparece 2 vezes:
+  - Index: 10925, ID: 14428, nc_order: 8842, created_at: 2025-08-05T21:58:02.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 11093, ID: 14429, nc_order: 8843, created_at: 2025-08-05T21:58:03.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Frank Smith' aparece 2 vezes:
+  - Index: 11350, ID: 14631, nc_order: 9037, created_at: 2025-08-05T21:59:43.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 11680, ID: 14630, nc_order: 9036, created_at: 2025-08-05T21:59:43.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Frédéric Schmit' aparece 2 vezes:
+  - Index: 11630, ID: 14814, nc_order: 9213, created_at: 2025-08-05T22:01:32.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 11779, ID: 14813, nc_order: 9212, created_at: 2025-08-05T22:01:32.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Gary Johnson' aparece 2 vezes:
+  - Index: 11727, ID: 15048, nc_order: 9444, created_at: 2025-08-05T22:03:50.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 11798, ID: 15047, nc_order: 9443, created_at: 2025-08-05T22:03:50.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Glenn Smith' aparece 2 vezes:
+  - Index: 13008, ID: 15867, nc_order: 10237, created_at: 2025-08-05T22:10:57.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 13009, ID: 15868, nc_order: 10238, created_at: 2025-08-05T22:10:57.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Gordon Smith' aparece 2 vezes:
+  - Index: 13282, ID: 15929, nc_order: 10299, created_at: 2025-08-05T22:11:30.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 13358, ID: 15930, nc_order: 10300, created_at: 2025-08-05T22:11:30.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Harry Nieminen' aparece 2 vezes:
+  - Index: 13821, ID: 16603, nc_order: 10944, created_at: 2025-08-05T22:17:31.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 14368, ID: 16604, nc_order: 10945, created_at: 2025-08-05T22:17:31.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Hugh Evans' aparece 2 vezes:
+  - Index: 15321, ID: 17113, nc_order: 11439, created_at: 2025-08-05T22:22:05.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 15322, ID: 17114, nc_order: 11440, created_at: 2025-08-05T22:22:06.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Hugh Hunter' aparece 2 vezes:
+  - Index: 15323, ID: 17116, nc_order: 11442, created_at: 2025-08-05T22:22:07.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 15324, ID: 17117, nc_order: 11443, created_at: 2025-08-05T22:22:07.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Jack Clarke' aparece 2 vezes:
+  - Index: 15427, ID: 17590, nc_order: 11882, created_at: 2025-08-05T22:26:24.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16054, ID: 17589, nc_order: 11881, created_at: 2025-08-05T22:26:23.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Jack Simpson' aparece 2 vezes:
+  - Index: 15443, ID: 17678, nc_order: 11969, created_at: 2025-08-05T22:27:13.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 15894, ID: 17677, nc_order: 11968, created_at: 2025-08-05T22:27:12.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Jack Smith' aparece 3 vezes:
+  - Index: 15895, ID: 17680, nc_order: 11971, created_at: 2025-08-05T22:27:14.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 15896, ID: 17681, nc_order: 11972, created_at: 2025-08-05T22:27:14.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16089, ID: 17679, nc_order: 11970, created_at: 2025-08-05T22:27:13.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Jake Walker' aparece 2 vezes:
+  - Index: 15916, ID: 17868, nc_order: 12145, created_at: 2025-08-05T22:28:50.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16289, ID: 17867, nc_order: 12144, created_at: 2025-08-05T22:28:49.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'James Courtney' aparece 3 vezes:
+  - Index: 15922, ID: 17907, nc_order: 12184, created_at: 2025-08-05T22:29:09.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16135, ID: 17908, nc_order: 12185, created_at: 2025-08-05T22:29:09.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16523, ID: 17909, nc_order: 12186, created_at: 2025-08-05T22:29:10.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'James Scott' aparece 3 vezes:
+  - Index: 16549, ID: 17979, nc_order: 12248, created_at: 2025-08-05T22:29:49.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16550, ID: 17981, nc_order: 12250, created_at: 2025-08-05T22:29:50.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16605, ID: 17980, nc_order: 12249, created_at: 2025-08-05T22:29:49.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'James Slaughter' aparece 2 vezes:
+  - Index: 16554, ID: 17987, nc_order: 12256, created_at: 2025-08-05T22:29:53.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16607, ID: 17986, nc_order: 12255, created_at: 2025-08-05T22:29:52.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'James Williams' aparece 2 vezes:
+  - Index: 16306, ID: 18012, nc_order: 12280, created_at: 2025-08-05T22:30:05.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16567, ID: 18013, nc_order: 12281, created_at: 2025-08-05T22:30:06.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Jason White' aparece 2 vezes:
+  - Index: 17217, ID: 18297, nc_order: 12532, created_at: 2025-08-05T22:33:00.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 17218, ID: 18298, nc_order: 12533, created_at: 2025-08-05T22:33:01.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Javier Fernández' aparece 2 vezes:
+  - Index: 17563, ID: 18330, nc_order: 12556, created_at: 2025-08-05T22:33:26.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 17641, ID: 18329, nc_order: 12555, created_at: 2025-08-05T22:33:25.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Jeff Green' aparece 2 vezes:
+  - Index: 17718, ID: 18801, nc_order: 12984, created_at: 2025-08-05T22:38:22.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 17719, ID: 18802, nc_order: 12985, created_at: 2025-08-05T22:38:22.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Jim Stewart' aparece 2 vezes:
+  - Index: 18461, ID: 19185, nc_order: 13342, created_at: 2025-08-05T22:41:46.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 18708, ID: 19186, nc_order: 13343, created_at: 2025-08-05T22:41:46.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Joe Harrison' aparece 2 vezes:
+  - Index: 12744, ID: 19477, nc_order: 13610, created_at: 2025-08-05T22:44:35.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 13308, ID: 19476, nc_order: 13610, created_at: 2025-08-05T22:44:35.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Anderson' aparece 2 vezes:
+  - Index: 15514, ID: 20082, nc_order: 13814, created_at: 2025-08-05T22:48:16.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 15951, ID: 20081, nc_order: 13813, created_at: 2025-08-05T22:48:16.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Banks' aparece 2 vezes:
+  - Index: 16374, ID: 20088, nc_order: 13820, created_at: 2025-08-05T22:48:19.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16375, ID: 20089, nc_order: 13821, created_at: 2025-08-05T22:48:20.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Brown' aparece 2 vezes:
+  - Index: 14621, ID: 20114, nc_order: 13846, created_at: 2025-08-05T22:48:32.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 50163, ID: 20115, nc_order: 13847, created_at: 2025-08-05T22:48:32.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Clark' aparece 2 vezes:
+  - Index: 16783, ID: 20128, nc_order: 13860, created_at: 2025-08-05T22:48:40.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16795, ID: 20129, nc_order: 13861, created_at: 2025-08-05T22:48:40.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Cooper' aparece 2 vezes:
+  - Index: 16450, ID: 20137, nc_order: 13869, created_at: 2025-08-05T22:48:44.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16927, ID: 20138, nc_order: 13870, created_at: 2025-08-05T22:48:45.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Gordon' aparece 2 vezes:
+  - Index: 16807, ID: 20197, nc_order: 13929, created_at: 2025-08-05T22:49:16.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16808, ID: 20198, nc_order: 13930, created_at: 2025-08-05T22:49:16.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Gunn' aparece 2 vezes:
+  - Index: 16460, ID: 20209, nc_order: 13940, created_at: 2025-08-05T22:49:22.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 17087, ID: 20211, nc_order: 13942, created_at: 2025-08-05T22:49:23.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Ingram' aparece 2 vezes:
+  - Index: 17029, ID: 20239, nc_order: 13970, created_at: 2025-08-05T22:49:38.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 17030, ID: 20240, nc_order: 13971, created_at: 2025-08-05T22:49:39.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Jones' aparece 2 vezes:
+  - Index: 16862, ID: 20246, nc_order: 13977, created_at: 2025-08-05T22:49:42.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 17031, ID: 20245, nc_order: 13976, created_at: 2025-08-05T22:49:41.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Lewis' aparece 2 vezes:
+  - Index: 16472, ID: 20267, nc_order: 13997, created_at: 2025-08-05T22:49:54.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16864, ID: 20266, nc_order: 13996, created_at: 2025-08-05T22:49:53.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Lloyd' aparece 2 vezes:
+  - Index: 16475, ID: 20273, nc_order: 14003, created_at: 2025-08-05T22:49:57.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16476, ID: 20274, nc_order: 14004, created_at: 2025-08-05T22:49:57.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Long' aparece 2 vezes:
+  - Index: 16477, ID: 20277, nc_order: 14007, created_at: 2025-08-05T22:49:59.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16944, ID: 20276, nc_order: 14006, created_at: 2025-08-05T22:49:59.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Martin' aparece 2 vezes:
+  - Index: 16481, ID: 20289, nc_order: 14019, created_at: 2025-08-05T22:50:05.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16717, ID: 20288, nc_order: 14018, created_at: 2025-08-05T22:50:05.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Morton' aparece 2 vezes:
+  - Index: 16484, ID: 20313, nc_order: 14043, created_at: 2025-08-05T22:50:18.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16725, ID: 20312, nc_order: 14042, created_at: 2025-08-05T22:50:18.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Potter' aparece 2 vezes:
+  - Index: 16491, ID: 20340, nc_order: 14068, created_at: 2025-08-05T22:50:33.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 17593, ID: 20339, nc_order: 14067, created_at: 2025-08-05T22:50:32.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Smith' aparece 2 vezes:
+  - Index: 16730, ID: 20381, nc_order: 14109, created_at: 2025-08-05T22:50:54.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16869, ID: 20380, nc_order: 14108, created_at: 2025-08-05T22:50:54.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Williams' aparece 2 vezes:
+  - Index: 16871, ID: 20412, nc_order: 14140, created_at: 2025-08-05T22:51:11.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 16872, ID: 20413, nc_order: 14141, created_at: 2025-08-05T22:51:11.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'John Young' aparece 2 vezes:
+  - Index: 16877, ID: 20424, nc_order: 14152, created_at: 2025-08-05T22:51:17.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 17480, ID: 20423, nc_order: 14151, created_at: 2025-08-05T22:51:17.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Johnny Miller' aparece 2 vezes:
+  - Index: 16505, ID: 20463, nc_order: 14191, created_at: 2025-08-05T22:51:37.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 17923, ID: 20462, nc_order: 14190, created_at: 2025-08-05T22:51:36.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Jordi Ventura' aparece 2 vezes:
+  - Index: 17635, ID: 20667, nc_order: 14388, created_at: 2025-08-05T22:53:44.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 17636, ID: 20668, nc_order: 14389, created_at: 2025-08-05T22:53:45.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Jorge Rodrigues' aparece 2 vezes:
+  - Index: 16992, ID: 20732, nc_order: 14453, created_at: 2025-08-05T22:54:16.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 18485, ID: 20731, nc_order: 14452, created_at: 2025-08-05T22:54:15.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Kris Wilson' aparece 2 vezes:
+  - Index: 18923, ID: 22429, nc_order: 15802, created_at: 2025-08-05T23:37:44.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 19251, ID: 22430, nc_order: 15803, created_at: 2025-08-05T23:37:44.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Lasse Sørensen' aparece 2 vezes:
+  - Index: 19381, ID: 22681, nc_order: 16024, created_at: 2025-08-05T23:39:56.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 19657, ID: 22680, nc_order: 16023, created_at: 2025-08-05T23:39:56.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Lee Jackson' aparece 2 vezes:
+  - Index: 19460, ID: 22806, nc_order: 16135, created_at: 2025-08-05T23:41:12.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 19684, ID: 22807, nc_order: 16136, created_at: 2025-08-05T23:41:12.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Louis Prette Jr.' aparece 2 vezes:
+  - Index: 20313, ID: 23259, nc_order: 16553, created_at: 2025-08-05T23:45:41.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 20392, ID: 23258, nc_order: 16552, created_at: 2025-08-05T23:45:40.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Luca Pedersoli' aparece 2 vezes:
+  - Index: 20325, ID: 23360, nc_order: 16652, created_at: 2025-08-05T23:46:36.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 20519, ID: 23361, nc_order: 16653, created_at: 2025-08-05T23:46:36.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Mark Beard' aparece 2 vezes:
+  - Index: 2682, ID: 24326, nc_order: 17535, created_at: 2025-08-05T23:55:58.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 3156, ID: 24327, nc_order: 17536, created_at: 2025-08-05T23:55:59.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Mark Smith' aparece 3 vezes:
+  - Index: 3108, ID: 24430, nc_order: 17635, created_at: 2025-08-05T23:56:54.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 3314, ID: 24428, nc_order: 17633, created_at: 2025-08-05T23:56:53.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 3315, ID: 24429, nc_order: 17634, created_at: 2025-08-05T23:56:53.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Markus Ober' aparece 2 vezes:
+  - Index: 3642, ID: 24498, nc_order: 17696, created_at: 2025-08-05T23:57:34.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 3796, ID: 24497, nc_order: 17696, created_at: 2025-08-05T23:57:34.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Matt Bell' aparece 2 vezes:
+  - Index: 18929, ID: 24911, nc_order: 18083, created_at: 2025-08-06T00:01:22.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 19098, ID: 24910, nc_order: 18082, created_at: 2025-08-06T00:01:21.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Matthew Hamilton' aparece 2 vezes:
+  - Index: 19078, ID: 25016, nc_order: 18184, created_at: 2025-08-06T00:02:36.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 19627, ID: 25017, nc_order: 18185, created_at: 2025-08-06T00:02:36.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Michael Lewis' aparece 2 vezes:
+  - Index: 428, ID: 25521, nc_order: 18656, created_at: 2025-08-06T00:07:20.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 926, ID: 25520, nc_order: 18655, created_at: 2025-08-06T00:07:20.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Michael O'Brien' aparece 2 vezes:
+  - Index: 1354, ID: 25546, nc_order: 18679, created_at: 2025-08-06T00:07:34.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 20580, ID: 25545, nc_order: 18678, created_at: 2025-08-06T00:07:33.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Michel Arnaud' aparece 2 vezes:
+  - Index: 1366, ID: 25639, nc_order: 18765, created_at: 2025-08-06T00:08:23.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 1611, ID: 25638, nc_order: 18764, created_at: 2025-08-06T00:08:23.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Michele de Luca' aparece 2 vezes:
+  - Index: 1768, ID: 25740, nc_order: 18864, created_at: 2025-08-06T00:09:14.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 20603, ID: 25741, nc_order: 18865, created_at: 2025-08-06T00:09:14.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Mikael Gustafsson' aparece 3 vezes:
+  - Index: 2709, ID: 25921, nc_order: 19039, created_at: 2025-08-06T00:10:46.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 2710, ID: 25923, nc_order: 19041, created_at: 2025-08-06T00:10:47.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 2747, ID: 25922, nc_order: 19040, created_at: 2025-08-06T00:10:47.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Mike Brown' aparece 2 vezes:
+  - Index: 2752, ID: 25954, nc_order: 19072, created_at: 2025-08-06T00:11:03.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 2753, ID: 25955, nc_order: 19073, created_at: 2025-08-06T00:11:03.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Mike Smith' aparece 2 vezes:
+  - Index: 2109, ID: 26070, nc_order: 19188, created_at: 2025-08-06T00:12:00.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 2110, ID: 26071, nc_order: 19189, created_at: 2025-08-06T00:12:01.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Mitch Evans' aparece 2 vezes:
+  - Index: 17153, ID: 26217, nc_order: 19329, created_at: 2025-08-06T00:13:38.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 19237, ID: 26216, nc_order: 19328, created_at: 2025-08-06T00:13:38.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Nick Foster' aparece 2 vezes:
+  - Index: 482, ID: 26555, nc_order: 19653, created_at: 2025-08-06T00:16:33.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 1720, ID: 26556, nc_order: 19654, created_at: 2025-08-06T00:16:33.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Nick Jones' aparece 2 vezes:
+  - Index: 1328, ID: 26572, nc_order: 19670, created_at: 2025-08-06T00:16:42.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 2719, ID: 26571, nc_order: 19669, created_at: 2025-08-06T00:16:42.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Nick Nicholson' aparece 2 vezes:
+  - Index: 2721, ID: 26591, nc_order: 19689, created_at: 2025-08-06T00:16:53.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 2722, ID: 26592, nc_order: 19690, created_at: 2025-08-06T00:16:53.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Paul Bailey' aparece 2 vezes:
+  - Index: 21578, ID: 27745, nc_order: 20782, created_at: 2025-08-06T00:27:32.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 22126, ID: 27746, nc_order: 20783, created_at: 2025-08-06T00:27:33.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Paul Evans' aparece 2 vezes:
+  - Index: 21735, ID: 27792, nc_order: 20820, created_at: 2025-08-06T00:27:58.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 22331, ID: 27791, nc_order: 20819, created_at: 2025-08-06T00:27:58.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Paul Jones' aparece 3 vezes:
+  - Index: 21887, ID: 27828, nc_order: 20852, created_at: 2025-08-06T00:28:17.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 22140, ID: 27829, nc_order: 20853, created_at: 2025-08-06T00:28:18.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 22339, ID: 27830, nc_order: 20853, created_at: 2025-08-06T00:28:18.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Paul Lewis' aparece 2 vezes:
+  - Index: 22427, ID: 27839, nc_order: 20858, created_at: 2025-08-06T00:28:24.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 22428, ID: 27840, nc_order: 20858, created_at: 2025-08-06T00:28:24.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Paul Richardson' aparece 2 vezes:
+  - Index: 22458, ID: 27883, nc_order: 20900, created_at: 2025-08-06T00:28:46.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 22459, ID: 27884, nc_order: 20901, created_at: 2025-08-06T00:28:47.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Paul Smith' aparece 3 vezes:
+  - Index: 22472, ID: 27897, nc_order: 20913, created_at: 2025-08-06T00:28:53.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 22473, ID: 27898, nc_order: 20914, created_at: 2025-08-06T00:28:54.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 22474, ID: 27899, nc_order: 20915, created_at: 2025-08-06T00:28:54.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Paul Thomas' aparece 2 vezes:
+  - Index: 22483, ID: 27908, nc_order: 20924, created_at: 2025-08-06T00:28:58.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 22484, ID: 27909, nc_order: 20925, created_at: 2025-08-06T00:28:59.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Paul Wilson' aparece 2 vezes:
+  - Index: 22490, ID: 27934, nc_order: 20949, created_at: 2025-08-06T00:29:11.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 22730, ID: 27935, nc_order: 20950, created_at: 2025-08-06T00:29:12.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Peter Clark' aparece 2 vezes:
+  - Index: 22750, ID: 28194, nc_order: 21174, created_at: 2025-08-06T00:31:28.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 22845, ID: 28193, nc_order: 21173, created_at: 2025-08-06T00:31:28.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Randy Renfrow' aparece 2 vezes:
+  - Index: 20774, ID: 29146, nc_order: 22089, created_at: 2025-08-06T00:40:23.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 21635, ID: 29145, nc_order: 22088, created_at: 2025-08-06T00:40:23.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Raúl Fernández' aparece 2 vezes:
+  - Index: 20989, ID: 29195, nc_order: 22130, created_at: 2025-08-06T00:40:49.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 21939, ID: 29193, nc_order: 22129, created_at: 2025-08-06T00:40:48.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Richard Brown' aparece 2 vezes:
+  - Index: 23031, ID: 29608, nc_order: 22503, created_at: 2025-08-06T00:44:58.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 23164, ID: 29607, nc_order: 22502, created_at: 2025-08-06T00:44:58.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Richard Jones' aparece 2 vezes:
+  - Index: 22371, ID: 29661, nc_order: 22545, created_at: 2025-08-06T00:45:28.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 23525, ID: 29660, nc_order: 22544, created_at: 2025-08-06T00:45:28.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Rob Walker' aparece 2 vezes:
+  - Index: 23284, ID: 29907, nc_order: 22785, created_at: 2025-08-06T00:47:44.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 23590, ID: 29906, nc_order: 22784, created_at: 2025-08-06T00:47:43.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Robert Brown' aparece 3 vezes:
+  - Index: 21955, ID: 29958, nc_order: 22824, created_at: 2025-08-06T00:48:12.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 22406, ID: 29959, nc_order: 22824, created_at: 2025-08-06T00:48:12.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 22407, ID: 29961, nc_order: 22826, created_at: 2025-08-06T00:48:14.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Robert Sprague' aparece 2 vezes:
+  - Index: 21971, ID: 30100, nc_order: 22962, created_at: 2025-08-06T00:49:25.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 23825, ID: 30101, nc_order: 22963, created_at: 2025-08-06T00:49:25.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Roberto Rossi' aparece 2 vezes:
+  - Index: 23047, ID: 30200, nc_order: 23062, created_at: 2025-08-06T00:50:15.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 23849, ID: 30201, nc_order: 23063, created_at: 2025-08-06T00:50:16.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Ron Johnson' aparece 2 vezes:
+  - Index: 24113, ID: 30543, nc_order: 23399, created_at: 2025-08-06T00:53:39.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 24114, ID: 30544, nc_order: 23400, created_at: 2025-08-06T00:53:40.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Roy Smith' aparece 2 vezes:
+  - Index: 24306, ID: 30695, nc_order: 23540, created_at: 2025-08-06T00:54:59.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 24468, ID: 30696, nc_order: 23541, created_at: 2025-08-06T00:55:00.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Rubén Fernández' aparece 2 vezes:
+  - Index: 24716, ID: 30710, nc_order: 23555, created_at: 2025-08-06T00:55:07.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 24717, ID: 30711, nc_order: 23556, created_at: 2025-08-06T00:55:07.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Rui Carvalho' aparece 2 vezes:
+  - Index: 24311, ID: 30778, nc_order: 23622, created_at: 2025-08-06T00:55:43.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 24404, ID: 30777, nc_order: 23621, created_at: 2025-08-06T00:55:43.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Scott Marshall' aparece 2 vezes:
+  - Index: 25142, ID: 31198, nc_order: 24020, created_at: 2025-08-06T00:59:42.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 25261, ID: 31197, nc_order: 24019, created_at: 2025-08-06T00:59:41.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Scott Williams' aparece 2 vezes:
+  - Index: 25154, ID: 31234, nc_order: 24055, created_at: 2025-08-06T01:00:02.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 25402, ID: 31235, nc_order: 24056, created_at: 2025-08-06T01:00:02.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Simon Phillips' aparece 2 vezes:
+  - Index: 25837, ID: 31743, nc_order: 24544, created_at: 2025-08-06T01:05:06.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 26103, ID: 31744, nc_order: 24545, created_at: 2025-08-06T01:05:07.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Steve Petch' aparece 2 vezes:
+  - Index: 26796, ID: 32296, nc_order: 25048, created_at: 2025-08-06T01:10:25.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 26928, ID: 32297, nc_order: 25049, created_at: 2025-08-06T01:10:25.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Steve Smith' aparece 3 vezes:
+  - Index: 26592, ID: 32313, nc_order: 25065, created_at: 2025-08-06T01:10:34.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 26593, ID: 32314, nc_order: 25066, created_at: 2025-08-06T01:10:34.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 26932, ID: 32312, nc_order: 25064, created_at: 2025-08-06T01:10:33.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Steve Spencer' aparece 2 vezes:
+  - Index: 26594, ID: 32316, nc_order: 25068, created_at: 2025-08-06T01:10:35.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 26977, ID: 32317, nc_order: 25069, created_at: 2025-08-06T01:10:36.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Stuart Jones' aparece 2 vezes:
+  - Index: 27486, ID: 32417, nc_order: 25161, created_at: 2025-08-06T01:11:32.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 27487, ID: 32418, nc_order: 25162, created_at: 2025-08-06T01:11:33.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Takeshi Kimura' aparece 2 vezes:
+  - Index: 27016, ID: 32602, nc_order: 25333, created_at: 2025-08-06T01:13:39.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 27626, ID: 32601, nc_order: 25332, created_at: 2025-08-06T01:13:39.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Thomas Jäger' aparece 2 vezes:
+  - Index: 28261, ID: 32977, nc_order: 25684, created_at: 2025-08-06T01:17:04.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 28507, ID: 32976, nc_order: 25683, created_at: 2025-08-06T01:17:03.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Tom Williams' aparece 2 vezes:
+  - Index: 28738, ID: 33428, nc_order: 26092, created_at: 2025-08-06T01:21:11.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 29181, ID: 33427, nc_order: 26091, created_at: 2025-08-06T01:21:10.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Tom Wood' aparece 2 vezes:
+  - Index: 28323, ID: 33431, nc_order: 26095, created_at: 2025-08-06T01:21:12.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 29182, ID: 33432, nc_order: 26096, created_at: 2025-08-06T01:21:13.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Uli Richter' aparece 2 vezes:
+  - Index: 29556, ID: 33915, nc_order: 26527, created_at: 2025-08-06T01:25:56.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 29557, ID: 33916, nc_order: 26528, created_at: 2025-08-06T01:25:56.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+'Wayne Taylor' aparece 2 vezes:
+  - Index: 30037, ID: 34446, nc_order: 27022, created_at: 2025-08-06T01:30:40.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+  - Index: 30291, ID: 34447, nc_order: 27023, created_at: 2025-08-06T01:30:41.000Z [TEM CAMPOS VAZIOS]
+    Campos vazios: championships, overview
+
+
+================================================================================
+DUPLICATAS ONDE TODOS OS REGISTROS TÊM CAMPOS VAZIOS
+================================================================================
+
+Encontrados 143 grupos onde TODOS os registros têm campos vazios:
+
+
+'A. J. Foyt' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 3364, Index: 315, Campos vazios: championships, overview
+  - ID: 6083, Index: 611, Campos vazios: championships, overview
+
+'Aaron Morgan' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 6106, Index: 1800, Campos vazios: championships, overview
+  - ID: 6107, Index: 1895, Campos vazios: championships, overview
+
+'Alex Walker' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 6933, Index: 3756, Campos vazios: championships, overview
+  - ID: 6932, Index: 3847, Campos vazios: championships, overview
+
+'Alexandre Yvon' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 7019, Index: 3774, Campos vazios: championships, overview
+  - ID: 7018, Index: 3864, Campos vazios: championships, overview
+
+'Andrew Grant' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 7540, Index: 4161, Campos vazios: championships, overview
+  - ID: 7541, Index: 4259, Campos vazios: championships, overview
+
+'Andrew Thompson' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 7585, Index: 4014, Campos vazios: championships, overview
+  - ID: 7586, Index: 4157, Campos vazios: championships, overview
+
+'Anthony Martin' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 7798, Index: 4767, Campos vazios: championships, overview
+  - ID: 7797, Index: 4931, Campos vazios: championships, overview
+
+'Benjamin Searcy' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 8612, Index: 5448, Campos vazios: championships, overview
+  - ID: 8613, Index: 5449, Campos vazios: championships, overview
+
+'Bill Bowman' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 8819, Index: 5389, Campos vazios: championships, overview
+  - ID: 8820, Index: 5689, Campos vazios: championships, overview
+
+'Bill Osborne' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 8916, Index: 5732, Campos vazios: championships, overview
+  - ID: 8915, Index: 6061, Campos vazios: championships, overview
+
+'Bill Scott' - 3 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 8931, Index: 5820, Campos vazios: championships, overview
+  - ID: 8932, Index: 5821, Campos vazios: championships, overview
+  - ID: 8933, Index: 6144, Campos vazios: championships, overview
+
+'Bill Smith' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 8939, Index: 6066, Campos vazios: championships, overview
+  - ID: 8940, Index: 6146, Campos vazios: championships, overview
+
+'Billy Myers' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 8999, Index: 5754, Campos vazios: championships, overview
+  - ID: 8998, Index: 5907, Campos vazios: championships, overview
+
+'Bob Dickson' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 9103, Index: 5929, Campos vazios: championships, overview
+  - ID: 9102, Index: 6173, Campos vazios: championships, overview
+
+'Bob Kennedy' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 9151, Index: 5934, Campos vazios: championships, overview
+  - ID: 9150, Index: 6182, Campos vazios: championships, overview
+
+'Bob Smith' - 3 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 9196, Index: 5885, Campos vazios: championships, overview
+  - ID: 9194, Index: 5952, Campos vazios: championships, overview
+  - ID: 9195, Index: 5953, Campos vazios: championships, overview
+
+'Bradley Smith' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 9358, Index: 6118, Campos vazios: championships, overview
+  - ID: 9359, Index: 6222, Campos vazios: championships, overview
+
+'Brian Johnson' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 9478, Index: 6252, Campos vazios: championships, overview
+  - ID: 9477, Index: 6355, Campos vazios: championships, overview
+
+'Carlos Sainz' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 9988, Index: 6537, Campos vazios: championships, overview
+  - ID: 9989, Index: 6573, Campos vazios: championships, overview
+
+'Charles Martin' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 10203, Index: 6620, Campos vazios: championships, overview
+  - ID: 10204, Index: 6621, Campos vazios: championships, overview
+
+'Charles Zwolsman' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 10248, Index: 7202, Campos vazios: championships, overview
+  - ID: 10249, Index: 7520, Campos vazios: championships, overview
+
+'Chris Hart' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 10397, Index: 7067, Campos vazios: championships, overview
+  - ID: 10398, Index: 7454, Campos vazios: championships, overview
+
+'Chris Jones' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 10409, Index: 7158, Campos vazios: championships, overview
+  - ID: 10410, Index: 7159, Campos vazios: championships, overview
+
+'Chris Miller' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 10434, Index: 7307, Campos vazios: championships, overview
+  - ID: 10435, Index: 7388, Campos vazios: championships, overview
+
+'Cliff Carr' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 10939, Index: 7631, Campos vazios: championships, overview
+  - ID: 10938, Index: 7697, Campos vazios: championships, overview
+
+'Colin Thompson' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 11046, Index: 7712, Campos vazios: championships, overview
+  - ID: 11047, Index: 8119, Campos vazios: championships, overview
+
+'Dale Williams' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 11301, Index: 7919, Campos vazios: championships, overview
+  - ID: 11302, Index: 8053, Campos vazios: championships, overview
+
+'Daniel Harper' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 11447, Index: 8257, Campos vazios: championships, overview
+  - ID: 11448, Index: 8740, Campos vazios: championships, overview
+
+'Daniel Johnson' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 11459, Index: 8823, Campos vazios: championships, overview
+  - ID: 11460, Index: 8824, Campos vazios: championships, overview
+
+'David Green' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 11861, Index: 8313, Campos vazios: championships, overview
+  - ID: 11859, Index: 8628, Campos vazios: championships, overview
+
+'David Higgins' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 11878, Index: 8630, Campos vazios: championships, overview
+  - ID: 11877, Index: 8790, Campos vazios: championships, overview
+
+'David Johnson' - 4 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 11898, Index: 8404, Campos vazios: championships, overview
+  - ID: 11899, Index: 8450, Campos vazios: championships, overview
+  - ID: 11897, Index: 8697, Campos vazios: championships, overview
+  - ID: 11900, Index: 8860, Campos vazios: championships, overview
+
+'David Jones' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 11901, Index: 8698, Campos vazios: championships, overview
+  - ID: 11902, Index: 8792, Campos vazios: championships, overview
+
+'David Russell' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 11990, Index: 8410, Campos vazios: championships, overview
+  - ID: 11991, Index: 8564, Campos vazios: championships, overview
+
+'David West' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 12050, Index: 8715, Campos vazios: championships, overview
+  - ID: 12049, Index: 8880, Campos vazios: championships, overview
+
+'David Williams' - 3 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 12054, Index: 8716, Campos vazios: championships, overview
+  - ID: 12053, Index: 8809, Campos vazios: championships, overview
+  - ID: 12055, Index: 8810, Campos vazios: championships, overview
+
+'Dick Johnson' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 12386, Index: 8931, Campos vazios: championships, overview
+  - ID: 12385, Index: 9178, Campos vazios: championships, overview
+
+'Diego Perez' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 12507, Index: 9130, Campos vazios: championships, overview
+  - ID: 12508, Index: 9287, Campos vazios: championships, overview
+
+'Ed Brown' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 13006, Index: 9693, Campos vazios: championships, overview
+  - ID: 13005, Index: 9750, Campos vazios: championships, overview
+
+'Ed Spencer' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 13040, Index: 9540, Campos vazios: championships, overview
+  - ID: 13039, Index: 9909, Campos vazios: championships, overview
+
+'Eddie MacDonald' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 13072, Index: 9697, Campos vazios: championships, overview
+  - ID: 13071, Index: 9761, Campos vazios: championships, overview
+
+'Elia Bartolini' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 13264, Index: 9974, Campos vazios: championships, overview
+  - ID: 13263, Index: 10213, Campos vazios: championships, overview
+
+'Eric Jones' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 13560, Index: 10335, Campos vazios: championships, overview
+  - ID: 13561, Index: 10336, Campos vazios: championships, overview
+
+'Ermanno Dionisio' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 13652, Index: 10489, Campos vazios: championships, overview
+  - ID: 13653, Index: 10571, Campos vazios: championships, overview
+
+'Felipe Ortiz' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 14092, Index: 10733, Campos vazios: championships, overview
+  - ID: 14093, Index: 11043, Campos vazios: championships, overview
+
+'Francisco Perez' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 14428, Index: 10925, Campos vazios: championships, overview
+  - ID: 14429, Index: 11093, Campos vazios: championships, overview
+
+'Frank Smith' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 14631, Index: 11350, Campos vazios: championships, overview
+  - ID: 14630, Index: 11680, Campos vazios: championships, overview
+
+'Frédéric Schmit' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 14814, Index: 11630, Campos vazios: championships, overview
+  - ID: 14813, Index: 11779, Campos vazios: championships, overview
+
+'Gary Johnson' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 15048, Index: 11727, Campos vazios: championships, overview
+  - ID: 15047, Index: 11798, Campos vazios: championships, overview
+
+'Glenn Smith' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 15867, Index: 13008, Campos vazios: championships, overview
+  - ID: 15868, Index: 13009, Campos vazios: championships, overview
+
+'Gordon Smith' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 15929, Index: 13282, Campos vazios: championships, overview
+  - ID: 15930, Index: 13358, Campos vazios: championships, overview
+
+'Harry Nieminen' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 16603, Index: 13821, Campos vazios: championships, overview
+  - ID: 16604, Index: 14368, Campos vazios: championships, overview
+
+'Hugh Evans' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 17113, Index: 15321, Campos vazios: championships, overview
+  - ID: 17114, Index: 15322, Campos vazios: championships, overview
+
+'Hugh Hunter' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 17116, Index: 15323, Campos vazios: championships, overview
+  - ID: 17117, Index: 15324, Campos vazios: championships, overview
+
+'Jack Clarke' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 17590, Index: 15427, Campos vazios: championships, overview
+  - ID: 17589, Index: 16054, Campos vazios: championships, overview
+
+'Jack Simpson' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 17678, Index: 15443, Campos vazios: championships, overview
+  - ID: 17677, Index: 15894, Campos vazios: championships, overview
+
+'Jack Smith' - 3 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 17680, Index: 15895, Campos vazios: championships, overview
+  - ID: 17681, Index: 15896, Campos vazios: championships, overview
+  - ID: 17679, Index: 16089, Campos vazios: championships, overview
+
+'Jake Walker' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 17868, Index: 15916, Campos vazios: championships, overview
+  - ID: 17867, Index: 16289, Campos vazios: championships, overview
+
+'James Courtney' - 3 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 17907, Index: 15922, Campos vazios: championships, overview
+  - ID: 17908, Index: 16135, Campos vazios: championships, overview
+  - ID: 17909, Index: 16523, Campos vazios: championships, overview
+
+'James Scott' - 3 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 17979, Index: 16549, Campos vazios: championships, overview
+  - ID: 17981, Index: 16550, Campos vazios: championships, overview
+  - ID: 17980, Index: 16605, Campos vazios: championships, overview
+
+'James Slaughter' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 17987, Index: 16554, Campos vazios: championships, overview
+  - ID: 17986, Index: 16607, Campos vazios: championships, overview
+
+'James Williams' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 18012, Index: 16306, Campos vazios: championships, overview
+  - ID: 18013, Index: 16567, Campos vazios: championships, overview
+
+'Jason White' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 18297, Index: 17217, Campos vazios: championships, overview
+  - ID: 18298, Index: 17218, Campos vazios: championships, overview
+
+'Javier Fernández' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 18330, Index: 17563, Campos vazios: championships, overview
+  - ID: 18329, Index: 17641, Campos vazios: championships, overview
+
+'Jeff Green' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 18801, Index: 17718, Campos vazios: championships, overview
+  - ID: 18802, Index: 17719, Campos vazios: championships, overview
+
+'Jim Stewart' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 19185, Index: 18461, Campos vazios: championships, overview
+  - ID: 19186, Index: 18708, Campos vazios: championships, overview
+
+'Joe Harrison' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 19477, Index: 12744, Campos vazios: championships, overview
+  - ID: 19476, Index: 13308, Campos vazios: championships, overview
+
+'John Anderson' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20082, Index: 15514, Campos vazios: championships, overview
+  - ID: 20081, Index: 15951, Campos vazios: championships, overview
+
+'John Banks' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20088, Index: 16374, Campos vazios: championships, overview
+  - ID: 20089, Index: 16375, Campos vazios: championships, overview
+
+'John Brown' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20114, Index: 14621, Campos vazios: championships, overview
+  - ID: 20115, Index: 50163, Campos vazios: championships, overview
+
+'John Clark' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20128, Index: 16783, Campos vazios: championships, overview
+  - ID: 20129, Index: 16795, Campos vazios: championships, overview
+
+'John Cooper' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20137, Index: 16450, Campos vazios: championships, overview
+  - ID: 20138, Index: 16927, Campos vazios: championships, overview
+
+'John Gordon' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20197, Index: 16807, Campos vazios: championships, overview
+  - ID: 20198, Index: 16808, Campos vazios: championships, overview
+
+'John Gunn' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20209, Index: 16460, Campos vazios: championships, overview
+  - ID: 20211, Index: 17087, Campos vazios: championships, overview
+
+'John Ingram' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20239, Index: 17029, Campos vazios: championships, overview
+  - ID: 20240, Index: 17030, Campos vazios: championships, overview
+
+'John Jones' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20246, Index: 16862, Campos vazios: championships, overview
+  - ID: 20245, Index: 17031, Campos vazios: championships, overview
+
+'John Lewis' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20267, Index: 16472, Campos vazios: championships, overview
+  - ID: 20266, Index: 16864, Campos vazios: championships, overview
+
+'John Lloyd' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20273, Index: 16475, Campos vazios: championships, overview
+  - ID: 20274, Index: 16476, Campos vazios: championships, overview
+
+'John Long' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20277, Index: 16477, Campos vazios: championships, overview
+  - ID: 20276, Index: 16944, Campos vazios: championships, overview
+
+'John Martin' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20289, Index: 16481, Campos vazios: championships, overview
+  - ID: 20288, Index: 16717, Campos vazios: championships, overview
+
+'John Morton' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20313, Index: 16484, Campos vazios: championships, overview
+  - ID: 20312, Index: 16725, Campos vazios: championships, overview
+
+'John Potter' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20340, Index: 16491, Campos vazios: championships, overview
+  - ID: 20339, Index: 17593, Campos vazios: championships, overview
+
+'John Smith' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20381, Index: 16730, Campos vazios: championships, overview
+  - ID: 20380, Index: 16869, Campos vazios: championships, overview
+
+'John Williams' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20412, Index: 16871, Campos vazios: championships, overview
+  - ID: 20413, Index: 16872, Campos vazios: championships, overview
+
+'John Young' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20424, Index: 16877, Campos vazios: championships, overview
+  - ID: 20423, Index: 17480, Campos vazios: championships, overview
+
+'Johnny Miller' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20463, Index: 16505, Campos vazios: championships, overview
+  - ID: 20462, Index: 17923, Campos vazios: championships, overview
+
+'Jordi Ventura' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20667, Index: 17635, Campos vazios: championships, overview
+  - ID: 20668, Index: 17636, Campos vazios: championships, overview
+
+'Jorge Rodrigues' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 20732, Index: 16992, Campos vazios: championships, overview
+  - ID: 20731, Index: 18485, Campos vazios: championships, overview
+
+'Kris Wilson' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 22429, Index: 18923, Campos vazios: championships, overview
+  - ID: 22430, Index: 19251, Campos vazios: championships, overview
+
+'Lasse Sørensen' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 22681, Index: 19381, Campos vazios: championships, overview
+  - ID: 22680, Index: 19657, Campos vazios: championships, overview
+
+'Lee Jackson' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 22806, Index: 19460, Campos vazios: championships, overview
+  - ID: 22807, Index: 19684, Campos vazios: championships, overview
+
+'Louis Prette Jr.' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 23259, Index: 20313, Campos vazios: championships, overview
+  - ID: 23258, Index: 20392, Campos vazios: championships, overview
+
+'Luca Pedersoli' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 23360, Index: 20325, Campos vazios: championships, overview
+  - ID: 23361, Index: 20519, Campos vazios: championships, overview
+
+'Mark Beard' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 24326, Index: 2682, Campos vazios: championships, overview
+  - ID: 24327, Index: 3156, Campos vazios: championships, overview
+
+'Mark Smith' - 3 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 24430, Index: 3108, Campos vazios: championships, overview
+  - ID: 24428, Index: 3314, Campos vazios: championships, overview
+  - ID: 24429, Index: 3315, Campos vazios: championships, overview
+
+'Markus Ober' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 24498, Index: 3642, Campos vazios: championships, overview
+  - ID: 24497, Index: 3796, Campos vazios: championships, overview
+
+'Matt Bell' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 24911, Index: 18929, Campos vazios: championships, overview
+  - ID: 24910, Index: 19098, Campos vazios: championships, overview
+
+'Matthew Hamilton' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 25016, Index: 19078, Campos vazios: championships, overview
+  - ID: 25017, Index: 19627, Campos vazios: championships, overview
+
+'Michael Lewis' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 25521, Index: 428, Campos vazios: championships, overview
+  - ID: 25520, Index: 926, Campos vazios: championships, overview
+
+'Michael O'Brien' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 25546, Index: 1354, Campos vazios: championships, overview
+  - ID: 25545, Index: 20580, Campos vazios: championships, overview
+
+'Michel Arnaud' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 25639, Index: 1366, Campos vazios: championships, overview
+  - ID: 25638, Index: 1611, Campos vazios: championships, overview
+
+'Michele de Luca' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 25740, Index: 1768, Campos vazios: championships, overview
+  - ID: 25741, Index: 20603, Campos vazios: championships, overview
+
+'Mikael Gustafsson' - 3 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 25921, Index: 2709, Campos vazios: championships, overview
+  - ID: 25923, Index: 2710, Campos vazios: championships, overview
+  - ID: 25922, Index: 2747, Campos vazios: championships, overview
+
+'Mike Brown' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 25954, Index: 2752, Campos vazios: championships, overview
+  - ID: 25955, Index: 2753, Campos vazios: championships, overview
+
+'Mike Smith' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 26070, Index: 2109, Campos vazios: championships, overview
+  - ID: 26071, Index: 2110, Campos vazios: championships, overview
+
+'Mitch Evans' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 26217, Index: 17153, Campos vazios: championships, overview
+  - ID: 26216, Index: 19237, Campos vazios: championships, overview
+
+'Nick Foster' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 26555, Index: 482, Campos vazios: championships, overview
+  - ID: 26556, Index: 1720, Campos vazios: championships, overview
+
+'Nick Jones' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 26572, Index: 1328, Campos vazios: championships, overview
+  - ID: 26571, Index: 2719, Campos vazios: championships, overview
+
+'Nick Nicholson' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 26591, Index: 2721, Campos vazios: championships, overview
+  - ID: 26592, Index: 2722, Campos vazios: championships, overview
+
+'Paul Bailey' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 27745, Index: 21578, Campos vazios: championships, overview
+  - ID: 27746, Index: 22126, Campos vazios: championships, overview
+
+'Paul Evans' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 27792, Index: 21735, Campos vazios: championships, overview
+  - ID: 27791, Index: 22331, Campos vazios: championships, overview
+
+'Paul Jones' - 3 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 27828, Index: 21887, Campos vazios: championships, overview
+  - ID: 27829, Index: 22140, Campos vazios: championships, overview
+  - ID: 27830, Index: 22339, Campos vazios: championships, overview
+
+'Paul Lewis' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 27839, Index: 22427, Campos vazios: championships, overview
+  - ID: 27840, Index: 22428, Campos vazios: championships, overview
+
+'Paul Richardson' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 27883, Index: 22458, Campos vazios: championships, overview
+  - ID: 27884, Index: 22459, Campos vazios: championships, overview
+
+'Paul Smith' - 3 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 27897, Index: 22472, Campos vazios: championships, overview
+  - ID: 27898, Index: 22473, Campos vazios: championships, overview
+  - ID: 27899, Index: 22474, Campos vazios: championships, overview
+
+'Paul Thomas' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 27908, Index: 22483, Campos vazios: championships, overview
+  - ID: 27909, Index: 22484, Campos vazios: championships, overview
+
+'Paul Wilson' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 27934, Index: 22490, Campos vazios: championships, overview
+  - ID: 27935, Index: 22730, Campos vazios: championships, overview
+
+'Peter Clark' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 28194, Index: 22750, Campos vazios: championships, overview
+  - ID: 28193, Index: 22845, Campos vazios: championships, overview
+
+'Randy Renfrow' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 29146, Index: 20774, Campos vazios: championships, overview
+  - ID: 29145, Index: 21635, Campos vazios: championships, overview
+
+'Raúl Fernández' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 29195, Index: 20989, Campos vazios: championships, overview
+  - ID: 29193, Index: 21939, Campos vazios: championships, overview
+
+'Richard Brown' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 29608, Index: 23031, Campos vazios: championships, overview
+  - ID: 29607, Index: 23164, Campos vazios: championships, overview
+
+'Richard Jones' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 29661, Index: 22371, Campos vazios: championships, overview
+  - ID: 29660, Index: 23525, Campos vazios: championships, overview
+
+'Rob Walker' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 29907, Index: 23284, Campos vazios: championships, overview
+  - ID: 29906, Index: 23590, Campos vazios: championships, overview
+
+'Robert Brown' - 3 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 29958, Index: 21955, Campos vazios: championships, overview
+  - ID: 29959, Index: 22406, Campos vazios: championships, overview
+  - ID: 29961, Index: 22407, Campos vazios: championships, overview
+
+'Robert Sprague' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 30100, Index: 21971, Campos vazios: championships, overview
+  - ID: 30101, Index: 23825, Campos vazios: championships, overview
+
+'Roberto Rossi' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 30200, Index: 23047, Campos vazios: championships, overview
+  - ID: 30201, Index: 23849, Campos vazios: championships, overview
+
+'Ron Johnson' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 30543, Index: 24113, Campos vazios: championships, overview
+  - ID: 30544, Index: 24114, Campos vazios: championships, overview
+
+'Roy Smith' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 30695, Index: 24306, Campos vazios: championships, overview
+  - ID: 30696, Index: 24468, Campos vazios: championships, overview
+
+'Rubén Fernández' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 30710, Index: 24716, Campos vazios: championships, overview
+  - ID: 30711, Index: 24717, Campos vazios: championships, overview
+
+'Rui Carvalho' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 30778, Index: 24311, Campos vazios: championships, overview
+  - ID: 30777, Index: 24404, Campos vazios: championships, overview
+
+'Scott Marshall' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 31198, Index: 25142, Campos vazios: championships, overview
+  - ID: 31197, Index: 25261, Campos vazios: championships, overview
+
+'Scott Williams' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 31234, Index: 25154, Campos vazios: championships, overview
+  - ID: 31235, Index: 25402, Campos vazios: championships, overview
+
+'Simon Phillips' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 31743, Index: 25837, Campos vazios: championships, overview
+  - ID: 31744, Index: 26103, Campos vazios: championships, overview
+
+'Steve Petch' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 32296, Index: 26796, Campos vazios: championships, overview
+  - ID: 32297, Index: 26928, Campos vazios: championships, overview
+
+'Steve Smith' - 3 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 32313, Index: 26592, Campos vazios: championships, overview
+  - ID: 32314, Index: 26593, Campos vazios: championships, overview
+  - ID: 32312, Index: 26932, Campos vazios: championships, overview
+
+'Steve Spencer' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 32316, Index: 26594, Campos vazios: championships, overview
+  - ID: 32317, Index: 26977, Campos vazios: championships, overview
+
+'Stuart Jones' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 32417, Index: 27486, Campos vazios: championships, overview
+  - ID: 32418, Index: 27487, Campos vazios: championships, overview
+
+'Takeshi Kimura' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 32602, Index: 27016, Campos vazios: championships, overview
+  - ID: 32601, Index: 27626, Campos vazios: championships, overview
+
+'Thomas Jäger' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 32977, Index: 28261, Campos vazios: championships, overview
+  - ID: 32976, Index: 28507, Campos vazios: championships, overview
+
+'Tom Williams' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 33428, Index: 28738, Campos vazios: championships, overview
+  - ID: 33427, Index: 29181, Campos vazios: championships, overview
+
+'Tom Wood' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 33431, Index: 28323, Campos vazios: championships, overview
+  - ID: 33432, Index: 29182, Campos vazios: championships, overview
+
+'Uli Richter' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 33915, Index: 29556, Campos vazios: championships, overview
+  - ID: 33916, Index: 29557, Campos vazios: championships, overview
+
+'Wayne Taylor' - 2 registros (TODOS COM CAMPOS VAZIOS):
+  - ID: 34446, Index: 30037, Campos vazios: championships, overview
+  - ID: 34447, Index: 30291, Campos vazios: championships, overview
+
+================================================================================
+IDs SUGERIDOS PARA EXCLUSÃO (MANTER APENAS 1 DE CADA GRUPO)
+================================================================================
+
+Total de grupos: 143
+Total de registros duplicados: 300
+
+Sugestão: Manter o primeiro de cada grupo e excluir os demais

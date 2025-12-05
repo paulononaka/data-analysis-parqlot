@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-12-04T18:42:40.303811",
+  "total_records": 7904,
+  "already_updated": 703,
+  "processed_this_run": 7373,
+  "success_this_run": 7368,
+  "errors_this_run": 5,
+  "total_success": 8071,
+  "total_failures": 7909,
+  "pending": -167
+}

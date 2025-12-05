@@ -1,0 +1,10 @@
+Separar sublist com team númericas
+Jogar na IA para tentar identificar o team desses caras
+
+if identificado:
+editar ou criar os novos
+
+else:
+chora
+
+----
